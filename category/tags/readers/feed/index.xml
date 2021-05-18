@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>readers &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/readers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Wed, 09 Apr 2008 23:42:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Aeroplane is a Mojo Book of the Year</title>
+		<link>https://www.lostinthegrooves.com/2008/04/09/mojopoll/</link>
+					<comments>https://www.lostinthegrooves.com/2008/04/09/mojopoll/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2008 23:42:09 +0000</pubDate>
+				<category><![CDATA[england]]></category>
+		<category><![CDATA[Kim Cooper/ LITG]]></category>
+		<category><![CDATA[mojo]]></category>
+		<category><![CDATA[poll]]></category>
+		<category><![CDATA[readers]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[I&#39;m awfully pleased to report that the Mojo Magazine readers poll for Book of the Year 2007 are in, and my oral history of Neutral Milk Hotel made it into the top 5! And the winners are: 1. There&#39;s a Riot Going On &#8211; Peter Doggett 2. Bowie, Bolan and the Brooklyn Boy &#8211; Tony &#8230; <a href="https://www.lostinthegrooves.com/2008/04/09/mojopoll/" class="more-link">Continue reading<span class="screen-reader-text"> "Aeroplane is a Mojo Book of the Year"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#39;m awfully pleased to report that the Mojo Magazine readers poll for Book of the Year 2007 are in, and my oral history of <a href="http://www.amazon.com/exec/obidos/ASIN/082641690X/ref=nosim/bubblegumbook">Neutral Milk Hotel </a>made it into the top 5!</p>
+<p>And the winners are: </p>
+<p>1. <a href="http://www.amazon.com/exec/obidos/ASIN/1847671802/ref=nosim/bubblegumbook">There&#39;s a Riot Going On &#8211; Peter Doggett</a></p>
+<p>2. <a href="http://www.amazon.com/exec/obidos/ASIN/0007229453/ref=nosim/bubblegumbook">Bowie, Bolan and the Brooklyn Boy &#8211; Tony Visconti</a></p>
+<p>3. <a href="http://www.amazon.com/exec/obidos/ASIN/B000W90B6C/ref=nosim/bubblegumbook">Teenage &#8211; Jon Savage</a></p>
+<p>4. <a href="http://www.amazon.com/exec/obidos/ASIN/0349119937/ref=nosim/bubblegumbook">Bit of a Blur &#8211; Alex James</a></p>
+<p>5. <a href="http://www.amazon.com/exec/obidos/ASIN/082641690X/ref=nosim/bubblegumbook">33 1/3: Neutral Milk Hotel &#8211; In The Aeroplane Over The Sea &#8211; Kim Cooper  </a></p>
+<p>Congrats to all the other authors (and what heady company, Bowie mainman Tony Visconti, sigh&#8230;), and thanks to Mojo&#39;s readers, always the sharpest rock fans in the drawer, for the support.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/09/mojopoll/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

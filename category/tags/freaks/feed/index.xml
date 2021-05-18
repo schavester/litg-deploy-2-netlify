@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>freaks &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/freaks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Sep 2006 18:09:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>John Phillips&#8217; &#8220;Wolf King of L.A.&#8221; finally on CD</title>
+		<link>https://www.lostinthegrooves.com/2006/09/08/john-phillips-wolf-king-of-l-a-finally-on-cd/</link>
+					<comments>https://www.lostinthegrooves.com/2006/09/08/john-phillips-wolf-king-of-l-a-finally-on-cd/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2006 18:09:57 +0000</pubDate>
+				<category><![CDATA[canyon]]></category>
+		<category><![CDATA[freaks]]></category>
+		<category><![CDATA[john phillips]]></category>
+		<category><![CDATA[Kim Cooper/ LITG]]></category>
+		<category><![CDATA[los angeles]]></category>
+		<category><![CDATA[mamas and papas]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[John Phillips &#8211; &#8220;John, The Wolf King Of L.A.&#8221; (Dunhill, 1970/ Varese Sarabande, 2006) Papa John]]></description>
+										<content:encoded><![CDATA[<p>John Phillips &#8211; &#8220;John, The Wolf King Of L.A.&#8221; (Dunhill, 1970/ Varese Sarabande, 2006)<br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B000HT366E/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000HT366E.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000HT366E" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p>Papa John</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/08/john-phillips-wolf-king-of-l-a-finally-on-cd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

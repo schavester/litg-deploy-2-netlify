@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>John Koury &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/john-koury/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Tue, 01 Jun 2010 17:22:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Deadbeat Poets Release New Album Called &#8220;Circustown&#8221;</title>
+		<link>https://www.lostinthegrooves.com/2010/06/01/deadbeat-poets-release-new-album-called-circustown/</link>
+					<comments>https://www.lostinthegrooves.com/2010/06/01/deadbeat-poets-release-new-album-called-circustown/#comments</comments>
+		
+		<dc:creator><![CDATA[Frankiefane]]></dc:creator>
+		<pubDate>Tue, 01 Jun 2010 17:22:35 +0000</pubDate>
+				<category><![CDATA[Blue Ash]]></category>
+		<category><![CDATA[Deadbeat Poets]]></category>
+		<category><![CDATA[Frank Secich]]></category>
+		<category><![CDATA[Infidela]]></category>
+		<category><![CDATA[John Koury]]></category>
+		<category><![CDATA[Pete Drivere]]></category>
+		<category><![CDATA[power pop]]></category>
+		<category><![CDATA[Terry Hartman]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Here&#8217;s a video promo for the new Deadbeat Poets album &#8220;Circustown&#8221; Circustown is available at: http://www.popdetective.com]]>/</description>
+										<content:encoded><![CDATA[<p>Here&#8217;s a video promo for the new Deadbeat Poets album &#8220;Circustown&#8221; Circustown is available at:<br />
+http://www.popdetective.com/<br />
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2010/06/01/deadbeat-poets-release-new-album-called-circustown/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

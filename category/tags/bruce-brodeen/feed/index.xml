@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bruce Brodeen &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/bruce-brodeen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Sep 2006 15:45:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Frank Secich Interview On Russian Website</title>
+		<link>https://www.lostinthegrooves.com/2006/09/26/frank-secich-interview-on-russian-website/</link>
+					<comments>https://www.lostinthegrooves.com/2006/09/26/frank-secich-interview-on-russian-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Frankiefane]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2006 15:45:42 +0000</pubDate>
+				<category><![CDATA[Bill Bartolin]]></category>
+		<category><![CDATA[Blue Ash]]></category>
+		<category><![CDATA[Bruce Brodeen]]></category>
+		<category><![CDATA[David Evans]]></category>
+		<category><![CDATA[Frank Secich]]></category>
+		<category><![CDATA[Greg Shaw]]></category>
+		<category><![CDATA[Jim Kendzor]]></category>
+		<category><![CDATA[power pop]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[The interview can be found at: http://powerpop.ru/interview/2006/frank_secich__eng.shtml This is a great new site run by St. Petersburg musician Iggi Scaldin and his wife Marina. &#160;Pictured below are Blue Ash in&#160;1969. Photo by Darla Bartolin]]></description>
+										<content:encoded><![CDATA[<p>The interview can be found at:</p>
+<p><a href="http://powerpop.ru/interview/2006/frank_secich__eng.shtml">http://powerpop.ru/interview/2006/frank_secich__eng.shtml</a> </p>
+<p>This is a great new site run by St. Petersburg musician Iggi Scaldin and his wife Marina.</p>
+<p>&nbsp;Pictured below are Blue Ash in&nbsp;1969. Photo by Darla Bartolin</p>
+<p><img loading="lazy" class="reflect" height="384" alt="" src="http://static.flickr.com/93/254521587_d96f4c8946.jpg?v=0" width="480" border="0" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/26/frank-secich-interview-on-russian-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

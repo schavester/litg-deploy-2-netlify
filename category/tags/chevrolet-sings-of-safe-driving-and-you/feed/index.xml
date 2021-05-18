@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chevrolet sings of safe driving and you &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/chevrolet-sings-of-safe-driving-and-you/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Thu, 09 Mar 2006 06:45:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>&#8220;a Cliffs Notes of the outr</title>
+		<link>https://www.lostinthegrooves.com/2006/03/09/a-cliffs-notes-of-the-outre-magnet/</link>
+					<comments>https://www.lostinthegrooves.com/2006/03/09/a-cliffs-notes-of-the-outre-magnet/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2006 06:45:04 +0000</pubDate>
+				<category><![CDATA[Book Reviews]]></category>
+		<category><![CDATA[chevrolet sings of safe driving and you]]></category>
+		<category><![CDATA[lou reed]]></category>
+		<category><![CDATA[magnet magazine]]></category>
+		<category><![CDATA[marvin gaye]]></category>
+		<category><![CDATA[metal machine music]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/a-cliffs-notes-of-the-outre-magnet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

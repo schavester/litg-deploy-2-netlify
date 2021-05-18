@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>oyvind holm &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/oyvind-holm/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 May 2006 20:16:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Record Review:</title>
+		<link>https://www.lostinthegrooves.com/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/</link>
+					<comments>https://www.lostinthegrooves.com/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Tue, 30 May 2006 20:16:38 +0000</pubDate>
+				<category><![CDATA[camera obscura]]></category>
+		<category><![CDATA[dipsomaniacs]]></category>
+		<category><![CDATA[Kim Cooper/ LITG]]></category>
+		<category><![CDATA[norway]]></category>
+		<category><![CDATA[oyvind holm]]></category>
+		<category><![CDATA[psychedelia]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Don]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.amazon.com/exec/obidos/ASIN/B000B7M8HK/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000B7M8HK.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000B7M8HK" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p>Don</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

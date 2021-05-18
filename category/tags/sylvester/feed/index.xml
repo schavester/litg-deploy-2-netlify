@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sylvester &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/sylvester/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Thu, 09 Mar 2006 06:46:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>4 stars (Mojo)</title>
+		<link>https://www.lostinthegrooves.com/2006/03/09/4-stars-mojo/</link>
+					<comments>https://www.lostinthegrooves.com/2006/03/09/4-stars-mojo/#comments</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2006 06:46:51 +0000</pubDate>
+				<category><![CDATA[Book Reviews]]></category>
+		<category><![CDATA[buckner and garcia]]></category>
+		<category><![CDATA[jeff tamarkin]]></category>
+		<category><![CDATA[john lennon]]></category>
+		<category><![CDATA[mojo magazine]]></category>
+		<category><![CDATA[sylvester]]></category>
+		<category><![CDATA[the loud family]]></category>
+		<category><![CDATA[yoko ono]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[True record-geekdom means championing music that no one else likes or even knows. It&#8217;s easy to pour on the irony in gushing about some chintzy garage-sale find, but what makes Lost in the Grooves a really groovy read is the honest passion its contributors exhibit for their lost-and-found faves. Doug Harvey tells of accidentally buying &#8230; <a href="https://www.lostinthegrooves.com/2006/03/09/4-stars-mojo/" class="more-link">Continue reading<span class="screen-reader-text"> "4 stars (Mojo)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>True record-geekdom means championing music that no one else likes or even knows. It&#8217;s easy to pour on the irony in gushing about some chintzy garage-sale find, but what makes Lost in the Grooves a really groovy read is the honest passion its contributors exhibit for their lost-and-found faves. Doug Harvey tells of accidentally buying Yoko Ono&#8217;s Plastic Ono Band thinking it was Lennon&#8217;s same-titled LP, and growing to love it. Others rave about deserving MIAs, from Harry &#8216;The Hipster&#8217; Gibson and Buckner &#038; Garcia to Sylvester and The Loud Family. Can we please draw the line at Aaron Carter though? (Jeff Tamarkin, Mojo, 4/5 Stars)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/4-stars-mojo/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

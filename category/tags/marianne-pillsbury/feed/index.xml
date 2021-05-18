@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marianne Pillsbury &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/marianne-pillsbury/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 May 2006 17:42:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Power, Pop, and CBGB</title>
+		<link>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/</link>
+					<comments>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/#comments</comments>
+		
+		<dc:creator><![CDATA[garypiggold]]></dc:creator>
+		<pubDate>Mon, 08 May 2006 17:42:54 +0000</pubDate>
+				<category><![CDATA[Dave Rave]]></category>
+		<category><![CDATA[Gary Pig Gold]]></category>
+		<category><![CDATA[Humbert]]></category>
+		<category><![CDATA[Marianne Pillsbury]]></category>
+		<category><![CDATA[pop]]></category>
+		<category><![CDATA[The Churchills]]></category>
+		<category><![CDATA[The Grip Weeds]]></category>
+		<category><![CDATA[The Next Big Thing]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[&#160;&#160; The New York Power Pop Page&#160; Presents 8 p.m. &#8211;&#160; Dave Rave with The Next Big Thing9 p.m. &#8211;&#160; The Churchills10 p.m. &#8211;&#160; The Grip Weeds11 p.m. &#8211;&#160; Marianne Pillsburymid &#8211;&#160; Humbert May 18th at&#160; CBGB 315 BoweryNY, NY]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="149" height="149" border="0" src="http://www.tomlou.com/box1.jpg" />&nbsp;&nbsp; The <a target="_self" href="http://powerpop.home.att.net/"><strong>New York Power Pop Page</strong></a>&nbsp; Presents</p>
+<p>8 p.m. &#8211;&nbsp; <a target="_self" href="http://www.dave-rave.com/"><strong>Dave Rave</strong></a> with <a target="_self" href="http://www.tomlou.com/nextbigthing.html"><strong>The Next Big Thing</strong></a><br />9 p.m. &#8211;&nbsp; <a target="_self" href="http://www.thechurchills.net/"><strong>The Churchills</strong></a><br />10 p.m. &#8211;&nbsp; <a target="_self" href="http://www.gripweeds.com/"><strong>The Grip Weeds</strong></a><br />11 p.m. &#8211;&nbsp; <a target="_self" href="http://www.mariannepillsbury.com/"><strong>Marianne Pillsbury</strong></a><br />mid &#8211;&nbsp; <a target="_self" href="http://www.humbert.net/"><strong>Humbert</strong></a></p>
+<p>May 18th <br />at&nbsp; <a target="_self" href="http://www.cbgb.com/"><strong>CBGB </strong></a><br />315 Bowery<br />NY, NY </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

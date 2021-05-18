@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gibson Bros &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/lost-in-the-grooves-2/artists-exclusive-mp3scds/gibson-bros/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Wed, 08 Mar 2006 08:50:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Big Pine Boogie</title>
+		<link>https://www.lostinthegrooves.com/2006/03/08/big-pine-boogie/</link>
+					<comments>https://www.lostinthegrooves.com/2006/03/08/big-pine-boogie/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Wed, 08 Mar 2006 08:50:07 +0000</pubDate>
+				<category><![CDATA[Artists (exclusive MP3s/CDs)]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[columbus ohio]]></category>
+		<category><![CDATA[dan dow]]></category>
+		<category><![CDATA[don howland]]></category>
+		<category><![CDATA[ellen hoover]]></category>
+		<category><![CDATA[Gibson Bros]]></category>
+		<category><![CDATA[gibson bros]]></category>
+		<category><![CDATA[jay hinman]]></category>
+		<category><![CDATA[jeff evans]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Gibson Bros&#8217; Big Pine Boogie is a Lost in the Grooves exclusive. Click to sample the music or purchase. Gibson Bros Big Pine Boogie (Okra, 1987 / Homestead, 1988) The debut from Columbus, OH blues and country archivists the Gibson Bros arrived at the height of indie rock]]></description>
+										<content:encoded><![CDATA[<p></a>Gibson Bros&#8217; <a href="http://www.maryattmusic.com/search_results.php?cd=MMG+24&#038;artist=66">Big Pine Boogie</a> is a Lost in the Grooves exclusive. Click to sample the music or purchase.</p>
+<p>Gibson Bros<br />
+Big Pine Boogie<br />
+(Okra, 1987 / Homestead, 1988)</p>
+<p>The debut from Columbus, OH blues and country archivists the Gibson Bros arrived at the height of indie rock</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/08/big-pine-boogie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

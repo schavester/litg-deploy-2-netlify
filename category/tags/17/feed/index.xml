@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>17 &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/17/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Mar 2006 23:53:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>cult of the week &#8211; 17 Pygmies</title>
+		<link>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/</link>
+					<comments>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/#comments</comments>
+		
+		<dc:creator><![CDATA[hisskiss]]></dc:creator>
+		<pubDate>Fri, 17 Mar 2006 23:53:53 +0000</pubDate>
+				<category><![CDATA[17]]></category>
+		<category><![CDATA[Cult of the Week]]></category>
+		<category><![CDATA[obscure]]></category>
+		<category><![CDATA[post-punk]]></category>
+		<category><![CDATA[savage republic]]></category>
+		<category><![CDATA[seventeen pygmies]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[artist: 17 Pygmies]]></description>
+										<content:encoded><![CDATA[<p>artist: 17 Pygmies</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

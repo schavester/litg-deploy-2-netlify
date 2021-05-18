@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Little Sisters &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/little-sisters/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Jun 2007 07:07:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Yes, It Is !!</title>
+		<link>https://www.lostinthegrooves.com/2007/06/13/gary50/</link>
+					<comments>https://www.lostinthegrooves.com/2007/06/13/gary50/#comments</comments>
+		
+		<dc:creator><![CDATA[garypiggold]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2007 07:07:08 +0000</pubDate>
+				<category><![CDATA[Dave Rave]]></category>
+		<category><![CDATA[Gary Pig Gold]]></category>
+		<category><![CDATA[Little Sisters]]></category>
+		<category><![CDATA[Mark Johnson]]></category>
+		<category><![CDATA[power pop]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[&#160; If you have read this tonight, Remember what The Little Sisters said tonight: &#160; ItÃ¢â‚¬â„¢s true ! YES IT IS, ItÃ¢â‚¬â„¢s true !!!]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://www.garypiggold.com/images/YesItIs.jpg" alt="" width="310" height="298" /></p>
+<p>&nbsp;</p>
+<p>If you have read this tonight,</p>
+<p>Remember what <a href="http://www.myspace.com/thelittlesistersmusic"><strong>The Little Sisters</strong></a> said tonight:</p>
+<p>&nbsp;</p>
+<p>ItÃ¢â‚¬â„¢s <em>true !</em></p>
+<p><a href="http://www.youtube.com/watch?v=yFpVViMYZMo">YES IT IS</a>,</p>
+<p>ItÃ¢â‚¬â„¢s true !!! </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2007/06/13/gary50/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

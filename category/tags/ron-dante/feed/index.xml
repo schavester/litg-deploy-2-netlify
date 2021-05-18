@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ron dante &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/ron-dante/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Thu, 09 Mar 2006 07:00:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>&#8220;invaluable&#8221; (Times of London)</title>
+		<link>https://www.lostinthegrooves.com/2006/03/09/invaluable-times-of-london/</link>
+					<comments>https://www.lostinthegrooves.com/2006/03/09/invaluable-times-of-london/#comments</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2006 07:00:46 +0000</pubDate>
+				<category><![CDATA[bee gees]]></category>
+		<category><![CDATA[bob stanley]]></category>
+		<category><![CDATA[Book Reviews]]></category>
+		<category><![CDATA[bubblegum]]></category>
+		<category><![CDATA[john cale]]></category>
+		<category><![CDATA[michael jackson]]></category>
+		<category><![CDATA[ron dante]]></category>
+		<category><![CDATA[st. etienne]]></category>
+		<category><![CDATA[toni wine]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[For the ones that got away IMAGINE the scene: a rock magazine is compiling the World]]></description>
+										<content:encoded><![CDATA[<p>For the ones that got away</p>
+<p>IMAGINE the scene: a rock magazine is compiling the World</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/invaluable-times-of-london/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

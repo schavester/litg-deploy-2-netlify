@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kev hopper palais schaumburg holger hiller &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/kev-hopper-palais-schaumburg-holger-hiller/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 May 2006 16:59:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>cult of the week &#8211; Stump</title>
+		<link>https://www.lostinthegrooves.com/2006/05/21/cult-of-the-week-stump/</link>
+					<comments>https://www.lostinthegrooves.com/2006/05/21/cult-of-the-week-stump/#respond</comments>
+		
+		<dc:creator><![CDATA[hisskiss]]></dc:creator>
+		<pubDate>Sun, 21 May 2006 16:59:44 +0000</pubDate>
+				<category><![CDATA[Cult of the Week]]></category>
+		<category><![CDATA[kev hopper palais schaumburg holger hiller]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[artist: Stump title: Quirk Out year: 1986 label: Stuff Records personnel: Mick Lynch (vocals), Chris Salmon (guitar), Kev Hopper (bass), Rob McKahey (drums) tracklisting: tupperware stripper, our fathers, kitchen table, buffalo, everything in its place, bit part actor further info: http://www.spoombung.co.uk/ cotw say]]></description>
+										<content:encoded><![CDATA[<p>artist: Stump</p>
+<p>title: Quirk Out</p>
+<p>year: 1986</p>
+<p>label: Stuff Records</p>
+<p>personnel: Mick Lynch (vocals), Chris Salmon (guitar), Kev Hopper (bass), Rob McKahey (drums)</p>
+<p>tracklisting: tupperware stripper, our fathers, kitchen table, buffalo, everything in its place, bit part actor</p>
+<p>further info: http://www.spoombung.co.uk/</p>
+<p>cotw say</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/21/cult-of-the-week-stump/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>christmas music &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/christmas-music/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Thu, 07 Dec 2006 07:13:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Have a HiFi Christmas !</title>
+		<link>https://www.lostinthegrooves.com/2006/12/07/have-a-hifi-christmas/</link>
+					<comments>https://www.lostinthegrooves.com/2006/12/07/have-a-hifi-christmas/#respond</comments>
+		
+		<dc:creator><![CDATA[garypiggold]]></dc:creator>
+		<pubDate>Thu, 07 Dec 2006 07:13:41 +0000</pubDate>
+				<category><![CDATA[catchy]]></category>
+		<category><![CDATA[christmas music]]></category>
+		<category><![CDATA[Gary Pig Gold]]></category>
+		<category><![CDATA[power pop]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[A digital sleigh-full of very good music(including a Christmas Song by yours very yule-ly) and all for a very good cause is Available Todayfor fun, frug-worthy, full-fidelity festivitiesthe whole year round ! Please,hear and have today &#8230;and Tell &#8216;em Santa Pig sentcha&#160;&#160; 😉]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="210" height="210" border="0" src="http://www.garypiggold.com/images/XmasParty2.jpg" /></p>
+<p>A digital sleigh-full of very good music<br />(including <a target="_self" href="http://www.garypiggold.com/music/ChristmasSong.mp3"><strong>a Christmas Song</strong></a> by yours very yule-ly)</p>
+<p>and all for <a target="_self" href="http://www.notlame.com/hifiorigin.htm"><strong>a <em>very</em> good cause</strong></a></p>
+<p>is <a target="_self" href="http://www.notlame.com/hifi.htm"><strong>Available Today</strong></a><br />for fun, frug-worthy, full-fidelity festivities<br />the whole year round ! </p>
+<p>Please,<br />hear and have today</p>
+<p>&#8230;and Tell &lsquo;em Santa Pig sentcha&nbsp;&nbsp; <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/12/07/have-a-hifi-christmas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

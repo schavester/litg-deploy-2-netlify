@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>steely dan &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/steely-dan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Jul 2006 23:46:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Steely Dan are miffed</title>
+		<link>https://www.lostinthegrooves.com/2006/07/24/steely-dan-are-miffed/</link>
+					<comments>https://www.lostinthegrooves.com/2006/07/24/steely-dan-are-miffed/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2006 23:46:48 +0000</pubDate>
+				<category><![CDATA[cousin dupree]]></category>
+		<category><![CDATA[intellectual property]]></category>
+		<category><![CDATA[Kim Cooper/ LITG]]></category>
+		<category><![CDATA[luke wilson]]></category>
+		<category><![CDATA[owen wilson]]></category>
+		<category><![CDATA[steely dan]]></category>
+		<category><![CDATA[you me and dupree]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Donald Fagen and Walter Becker ask Luke Wilson the somewhat loaded question: &#34;do you want to go down as the brother of the Zal Yanovsky of the 21st Century?&#34;]]></description>
+										<content:encoded><![CDATA[<p>Donald Fagen and Walter Becker <a href="http://steelydan.com/heyluke.html" target="_blank">ask</a> Luke Wilson the somewhat loaded question: &quot;do you want to go down as the brother of the Zal Yanovsky of the 21st Century?&quot;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/24/steely-dan-are-miffed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

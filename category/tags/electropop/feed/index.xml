@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>electropop &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/electropop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Sep 2006 19:25:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Prototypes &#8211; &#8220;Prototypes&#8221; CD (Minty Fresh)</title>
+		<link>https://www.lostinthegrooves.com/2006/09/13/prototypes-prototypes-cd-minty-fresh/</link>
+					<comments>https://www.lostinthegrooves.com/2006/09/13/prototypes-prototypes-cd-minty-fresh/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2006 19:25:47 +0000</pubDate>
+				<category><![CDATA[electropop]]></category>
+		<category><![CDATA[french]]></category>
+		<category><![CDATA[Kim Cooper/ LITG]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Bold, hand-clappy Francophone electropop trio fronted by Isabelle LeDoussal, whose snotty, sing-song tones lend a human face to the band&#8217;s mechanized synth-punk jingles. Think Bis meets Plastic Betrand, with a little splash of robotic sixties pop chanteuserie.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.amazon.com/exec/obidos/ASIN/B000FFP06E/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000FFP06E.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000FFP06E" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p>Bold, hand-clappy Francophone electropop trio fronted by Isabelle LeDoussal, whose snotty, sing-song tones lend a human face to the band&#8217;s mechanized synth-punk jingles. Think Bis meets Plastic Betrand, with a little splash of robotic sixties pop chanteuserie.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/13/prototypes-prototypes-cd-minty-fresh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

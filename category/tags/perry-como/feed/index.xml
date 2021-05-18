@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Perry Como &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/perry-como/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Sat, 13 May 2006 21:17:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>It Was Five Years Ago Today</title>
+		<link>https://www.lostinthegrooves.com/2006/05/13/it-was-five-years-ago-today/</link>
+					<comments>https://www.lostinthegrooves.com/2006/05/13/it-was-five-years-ago-today/#respond</comments>
+		
+		<dc:creator><![CDATA[garypiggold]]></dc:creator>
+		<pubDate>Sat, 13 May 2006 21:17:34 +0000</pubDate>
+				<category><![CDATA[Gary Pig Gold]]></category>
+		<category><![CDATA[Perry Como]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[&#160;&#160;&#160; Sunday, May 13, 2001&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The Associated Press MIAMI, Fla. &#8212; Perry Como, the crooning baritone barber who went from Canonsburg to the national stage but never forgot his roots, died yesterday after a lengthy illness.&#160; He was 87.]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="150" height="200" border="0" src="http://www.post-gazette.com/images2/20010513como.JPG" />&nbsp;&nbsp;&nbsp; Sunday, May 13, 2001<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Associated Press</p>
+<p>MIAMI, Fla. &#8212; Perry Como, the crooning baritone barber who went from Canonsburg to the national stage but never forgot his roots, died yesterday after a lengthy illness.&nbsp; </p>
+<p><a href="http://www.cosmik.com/aa-june01/gary72.html" target="_self"><strong>He was 87.</strong></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/13/it-was-five-years-ago-today/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

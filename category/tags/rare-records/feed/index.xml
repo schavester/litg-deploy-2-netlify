@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rare records &#8211; Lost In The Grooves</title>
+	<atom:link href="https://www.lostinthegrooves.com/category/tags/rare-records/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lostinthegrooves.com/</link>
+	<description></description>
+	<lastBuildDate>Thu, 09 Mar 2006 06:15:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>CD links</title>
+		<link>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/</link>
+					<comments>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/#comments</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2006 06:15:44 +0000</pubDate>
+				<category><![CDATA[cool]]></category>
+		<category><![CDATA[funk]]></category>
+		<category><![CDATA[jazz]]></category>
+		<category><![CDATA[LITG on Amazon]]></category>
+		<category><![CDATA[novelty]]></category>
+		<category><![CDATA[obscure]]></category>
+		<category><![CDATA[offbeat]]></category>
+		<category><![CDATA[psychedelic]]></category>
+		<category><![CDATA[punk]]></category>
+		<category><![CDATA[rare records]]></category>
+		<category><![CDATA[soul]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[A number of the albums featured in the book are available on CD. This link goes to a handy shopping guide to help you ferret them out.]]></description>
+										<content:encoded><![CDATA[<p></a>A number of the albums featured in the book are available on CD. This <a href="http://astore.amazon.com/bubblegumbook/103-8184293-0112651?%5Fencoding=UTF8&#038;node=5">link</a> goes to a handy shopping guide to help you ferret them out.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
