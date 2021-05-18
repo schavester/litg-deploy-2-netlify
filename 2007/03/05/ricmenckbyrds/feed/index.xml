@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -26,13 +26,13 @@
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-3</guid>
 
-					<description><![CDATA[	&lt;p&gt;&lt;img src=&quot;http://static.flickr.com/41/110997935_44111214c7_m.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; width=&quot;240&quot; height=&quot;86&quot; /&gt;&lt;/p&gt;&lt;p&gt;and, &lt;/p&gt;&lt;p&gt;To Everything,&lt;/p&gt;&lt;p&gt;These STILL is........&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.earcandymag.com/gpg-byrds.htm&quot;&gt;&lt;strong&gt;http://www.earcandymag.com/gpg-byrds.htm &lt;/strong&gt;&lt;/a&gt;     &lt;/p&gt;]]></description>
+					<description><![CDATA[	&lt;p&gt;&lt;img src=&quot;https://static.flickr.com/41/110997935_44111214c7_m.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; width=&quot;240&quot; height=&quot;86&quot; /&gt;&lt;/p&gt;&lt;p&gt;and, &lt;/p&gt;&lt;p&gt;To Everything,&lt;/p&gt;&lt;p&gt;These STILL is........&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.earcandymag.com/gpg-byrds.htm&quot;&gt;&lt;strong&gt;https://www.earcandymag.com/gpg-byrds.htm &lt;/strong&gt;&lt;/a&gt;     &lt;/p&gt;]]></description>
 			<content:encoded><![CDATA[
-<p><img src="http://static.flickr.com/41/110997935_44111214c7_m.jpg" border="0" alt="" width="240" height="86" /></p>
+<p><img src="https://static.flickr.com/41/110997935_44111214c7_m.jpg" border="0" alt="" width="240" height="86" /></p>
 <p>and, </p>
 <p>To Everything,</p>
 <p>These STILL is&#8230;&#8230;..</p>
-<p><a href="http://www.earcandymag.com/gpg-byrds.htm"><strong><a href="http://www.earcandymag.com/gpg-byrds.htm" rel="nofollow ugc">http://www.earcandymag.com/gpg-byrds.htm</a> </strong></a>     </p>
+<p><a href="https://www.earcandymag.com/gpg-byrds.htm"><strong><a href="https://www.earcandymag.com/gpg-byrds.htm" rel="nofollow ugc">https://www.earcandymag.com/gpg-byrds.htm</a> </strong></a>     </p>
 ]]></content:encoded>
 		
 			</item>

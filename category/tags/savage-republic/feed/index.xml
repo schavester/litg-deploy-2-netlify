@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -34,9 +34,9 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[You are hereby advised under threat of grave regret to come out and see 17 Pygmies in a rare live appearance as part of the International Pop Overthrow West Coast festival. Also on the bill, the delightful Prix! August, 7 2007 at Spaceland1717 Silver Lake Blvd., Los Angeles, 90026Cost : $8.00 IPO Los Angeles www.clubspaceland.com &#8230; <a href="https://www.lostinthegrooves.com/2007/07/31/17pygmieslive/" class="more-link">Continue reading<span class="screen-reader-text"> "17 Pygmies Rare LA showcase"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>You are hereby advised under threat of grave regret to come out and see <a href="http://www.myspace.com/17pygmies" target="_blank">17 Pygmies</a> in a rare live appearance as part of the International Pop Overthrow West Coast festival. Also on the bill, the delightful <a href="http://www.myspace.com/theprix" target="_blank">Prix</a>!</p>
+										<content:encoded><![CDATA[<p>You are hereby advised under threat of grave regret to come out and see <a href="https://www.myspace.com/17pygmies" target="_blank">17 Pygmies</a> in a rare live appearance as part of the International Pop Overthrow West Coast festival. Also on the bill, the delightful <a href="https://www.myspace.com/theprix" target="_blank">Prix</a>!</p>
 <p>August, 7 2007 at Spaceland<br />1717 Silver Lake Blvd., Los Angeles, 90026<br />Cost : $8.00</p>
-<p>IPO Los Angeles <br /><a href="http://www.clubspaceland.com/" target="_blank">www.clubspaceland.com</a> 323-661-4380<br />8:30 Io Perry<br />9:00 The Unbearables<br />9:30 17 Pygmies<br />10:00 The Red Button<br />10:30 Astra Heights<br />11:00 The Prix</p>
+<p>IPO Los Angeles <br /><a href="https://www.clubspaceland.com/" target="_blank">www.clubspaceland.com</a> 323-661-4380<br />8:30 Io Perry<br />9:00 The Unbearables<br />9:30 17 Pygmies<br />10:00 The Red Button<br />10:30 Astra Heights<br />11:00 The Prix</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/07/31/17pygmieslive/feed/</wfw:commentRss>

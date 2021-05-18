@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -35,8 +35,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[There is this casual friend of mine who has realised over the past year or so that I am intensely into music and that I am a certifiable Music Nerd. Though he is a fan of metal and knows that I am not so into that subgenre of Rock and Roll, he asked me if &#8230; <a href="https://www.lostinthegrooves.com/2006/08/04/time-for-some-elf-examination/" class="more-link">Continue reading<span class="screen-reader-text"> "Time For Some Elf Examination"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>    <a href="http://www.amazon.com/exec/obidos/ASIN/B000003ORJ/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000003ORJ.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000003ORJ" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+										<content:encoded><![CDATA[<p>    <a href="https://www.amazon.com/exec/obidos/ASIN/B000003ORJ/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000003ORJ.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000003ORJ" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>    There is this casual friend of mine who has realised over the past year or so that I am intensely into music and that I am a certifiable Music Nerd. Though he is a fan of metal and knows that I am not so into that subgenre of Rock and Roll, he asked me if I had any curios in my CD collection that he might like.</p>
 <p>    Knowing he likes other music besides metal (though metal is the main type of music he listens to) I went to my CD vault in hopes I might find a title which would stick out to me as something he would enjoy listening to.</p>
 <p>    Fortunately, I had to go no further than the &#8216;B&#8217; section to find something suitable for him.</p>

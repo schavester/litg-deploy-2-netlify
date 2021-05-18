@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -35,8 +35,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[I now interrupt your regularly scheduled blog reading to update you on someone very cool I am listening to &#8211; Sal Valentino. For those unfamiliar, let me say right off that the name has nothing to do with any member of the cast of the Sopranos, though being Italian and quite dashing at his general &#8230; <a href="https://www.lostinthegrooves.com/2006/07/14/be-my-sal-valentino/" class="more-link">Continue reading<span class="screen-reader-text"> "Be My Sal Valentino"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>      <a href="http://www.amazon.com/exec/obidos/ASIN/B000ERU3VK/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000ERU3VK.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000ERU3VK" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+										<content:encoded><![CDATA[<p>      <a href="https://www.amazon.com/exec/obidos/ASIN/B000ERU3VK/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000ERU3VK.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000ERU3VK" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>     I now interrupt your regularly scheduled blog reading to update you on someone very cool I am listening to &#8211; Sal Valentino.</p>
 <p>     For those unfamiliar, let me say right off that the name has nothing to do with any member of the cast of the Sopranos, though being Italian and quite dashing at his general age of late &#8217;50&#8217;s/early &#8217;60&#8217;s, might be enough reason to call the producers and maybe ask for a part. I am sure of one thing: Little Steven, alias Silvio Dante, no doubt knows who he is and would welcome him with open arms.</p>
 <p>      So who is this mystery man? </p>

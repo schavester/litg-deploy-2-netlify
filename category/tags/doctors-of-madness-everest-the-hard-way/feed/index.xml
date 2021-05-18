@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -37,7 +37,7 @@
 <p>label: Interphon Records </p>
 <p>personnel: Richard Strange (vocals), James T. Ford (electronic hardware), numerous guests </p>
 <p>tracklisting: damascus, the lion&#8217;s den, banco celestial, dominoes, the fall of the house of &#8216;u&#8217;, fear is the engine, wounded, love scare, pride time and inspiration, pioneering surgery</p>
-<p>further info: http://www.richardstrange.com/</p>
+<p>further info: https://www.richardstrange.com/</p>
 <p>cotw say</p>
 ]]></content:encoded>
 					

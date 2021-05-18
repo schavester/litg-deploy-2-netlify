@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -33,7 +33,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Just released in the UK is Zombies and Beyond, compiling a mix of classic Zombies music with some solo Colin Blunstone dreaminess and a smattering of Argent. Then there&#39;s the rarities-packed Cat Stevens career spanning box set, with some unfortunate cover art, but there&#39;s inevitably some baggage where Cat&#39;s concerned. Such sweet, sweet early tunes, &#8230; <a href="https://www.lostinthegrooves.com/2008/06/02/lostgrooves6308/" class="more-link">Continue reading<span class="screen-reader-text"> "Lost Grooves newly released for June 3, 2008"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Just released in the UK is <span><a href="http://www.amazon.com/exec/obidos/ASIN/B0018OGF8S/ref=nosim/bubblegumbook" target="_blank">Zombies and Beyond</a>, compiling a mix of classic Zombies music with some solo Colin Blunstone dreaminess and a smattering of Argent. Then there&#39;s the rarities-packed Cat Stevens career spanning <a href="http://www.amazon.com/exec/obidos/ASIN/B001675SK8/ref=nosim/bubblegumbook" target="_blank">box set</a>, with some unfortunate cover art, but there&#39;s inevitably some baggage where Cat&#39;s concerned. Such sweet, sweet early tunes, though&#8230;<br /></span></p>
+										<content:encoded><![CDATA[<p>Just released in the UK is <span><a href="https://www.amazon.com/exec/obidos/ASIN/B0018OGF8S/ref=nosim/bubblegumbook" target="_blank">Zombies and Beyond</a>, compiling a mix of classic Zombies music with some solo Colin Blunstone dreaminess and a smattering of Argent. Then there&#39;s the rarities-packed Cat Stevens career spanning <a href="https://www.amazon.com/exec/obidos/ASIN/B001675SK8/ref=nosim/bubblegumbook" target="_blank">box set</a>, with some unfortunate cover art, but there&#39;s inevitably some baggage where Cat&#39;s concerned. Such sweet, sweet early tunes, though&#8230;<br /></span></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2008/06/02/lostgrooves6308/feed/</wfw:commentRss>

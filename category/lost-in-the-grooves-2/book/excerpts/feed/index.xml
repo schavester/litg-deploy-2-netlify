@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -32,12 +32,12 @@
 
 					<description><![CDATA[These are brief excerpts from some of the essays in the Lost in the Grooves anthology, with links to available reissues. If you dig what you see here, please buy the book! The Action &#8211; Brain aka Rolled Gold (Recorded 1967-68, released Parasol, 2002) The Action swiped songcraft from Curtis Mayfield and Holland/Dozier/Holland and assurance &#8230; <a href="https://www.lostinthegrooves.com/2006/03/16/a-to-e/" class="more-link">Continue reading<span class="screen-reader-text"> "Part one"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>These are brief excerpts from some of the essays in the Lost in the Grooves anthology, with links to available reissues. If you dig what you see here, please buy the book! </p>
-<p><a href="http://www.amazon.com/exec/obidos/ASIN/B00006AL7G/ref=nosim/bubblegumbook"><img border="0" src="http://images.amazon.com/images/P/B00006AL7G.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00006AL7G" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p><a href="https://www.amazon.com/exec/obidos/ASIN/B00006AL7G/ref=nosim/bubblegumbook"><img border="0" src="https://images.amazon.com/images/P/B00006AL7G.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00006AL7G" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>The Action &#8211; <em>Brain </em>aka<em> Rolled Gold</em> </p>
 <p> (Recorded 1967-68, released Parasol, 2002) The Action swiped songcraft from Curtis Mayfield and Holland/Dozier/Holland and assurance from entertaining fickle London mods, but sound here as if they&rsquo;d been marinating in mescaline on the Strip&#8230;. As the songs flash past, the critic hears innocent wonder, loneliness in the middle of a gigantic youth culture and the rolling clang of cash registers. London label execs heard no such, and the Action died in an attar sweeter than the Zombies. (Ron Garmon)</p>
-<p><a href="http://www.amazon.com/exec/obidos/ASIN/B0000025L7/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B0000025L7.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B0000025L7" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p><a href="https://www.amazon.com/exec/obidos/ASIN/B0000025L7/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B0000025L7.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B0000025L7" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>Adam and the Ants &#8211; Kings of the Wild Frontier (Epic, 1980)</p>
 <p>There</p>
 ]]></content:encoded>

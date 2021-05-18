@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -30,14 +30,14 @@
 		<category><![CDATA[rought trade steve beresford david toop]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Ivor Cutler and Linda Hirst title: Privilege year: 1983 label: Rough Trade Records personnel: Ivor Cutler (harmonium, piano, drums, voice), Linda Hirst (voice), David Toop (alto flute, banjo, singin, percussion, effects, night insects), Steve Beresford (euphonium, piano, trumpet, singing, percussion and effects) tracklisting: lots! further info: http://www.ivorcutler.org/ cotw say]]></description>
+					<description><![CDATA[artist: Ivor Cutler and Linda Hirst title: Privilege year: 1983 label: Rough Trade Records personnel: Ivor Cutler (harmonium, piano, drums, voice), Linda Hirst (voice), David Toop (alto flute, banjo, singin, percussion, effects, night insects), Steve Beresford (euphonium, piano, trumpet, singing, percussion and effects) tracklisting: lots! further info: https://www.ivorcutler.org/ cotw say]]></description>
 										<content:encoded><![CDATA[<p>artist: Ivor Cutler and Linda Hirst</p>
 <p>title: Privilege</p>
 <p>year: 1983</p>
 <p>label: Rough Trade Records </p>
 <p>personnel: Ivor Cutler (harmonium, piano, drums, voice), Linda Hirst (voice), David Toop (alto flute, banjo, singin, percussion, effects, night insects), Steve Beresford (euphonium, piano, trumpet, singing, percussion and effects) </p>
 <p>tracklisting: lots!</p>
-<p>further info: http://www.ivorcutler.org/</p>
+<p>further info: https://www.ivorcutler.org/</p>
 <p>cotw say</p>
 ]]></content:encoded>
 					

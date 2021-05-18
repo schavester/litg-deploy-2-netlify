@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -38,7 +38,7 @@
 <p>label: Hot Records</p>
 <p>personnel: Simon Knuckley (lead guitar), Penny Ikinger (rhythm guitar), Nick Fisher (drums, scrotum), Tim Knuckley (bass, vocals), Louis Tillett (vocals, piano),Gary &#8216;Moneywoe Bradbury (rhythm and tapes), Dr. Bronstantine Karlarka (vocals), various (backing vocals) </p>
 <p>tracklisting: but mono never dies, last time around, unchain my heart, i&#8217;m gonna burn, you burn me up and down, i wanna come back, rich with nothing, nun&#8217;s strike, it&#8217;s gonna rain, hypnotized, in the past, vomit, bucktooth gobbler, love</p>
-<p>further info: http://www.louistillett.com/biography.html</p>
+<p>further info: https://www.louistillett.com/biography.html</p>
 <p>cotw say</p>
 ]]></content:encoded>
 					

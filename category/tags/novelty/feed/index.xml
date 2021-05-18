@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -40,7 +40,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[A number of the albums featured in the book are available on CD. This link goes to a handy shopping guide to help you ferret them out.]]></description>
-										<content:encoded><![CDATA[<p></a>A number of the albums featured in the book are available on CD. This <a href="http://astore.amazon.com/bubblegumbook/103-8184293-0112651?%5Fencoding=UTF8&#038;node=5">link</a> goes to a handy shopping guide to help you ferret them out.</p>
+										<content:encoded><![CDATA[<p></a>A number of the albums featured in the book are available on CD. This <a href="https://astore.amazon.com/bubblegumbook/103-8184293-0112651?%5Fencoding=UTF8&#038;node=5">link</a> goes to a handy shopping guide to help you ferret them out.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/feed/</wfw:commentRss>
@@ -68,7 +68,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[&#34;Chevrolet Sings&#34; is a Lost in the Grooves exclusive. Click to sample the music or purchase. The First Team Chevrolet Sings of Safe Driving and You (Columbia Special Products, n.d., likely c. 1965) Avoiding the Red Asphalt approach to driver&#8217;s ed., our corporate friends at Chevrolet decided folk-rock was the perfect medium to sell the &#8230; <a href="https://www.lostinthegrooves.com/2006/03/08/the-first-team/" class="more-link">Continue reading<span class="screen-reader-text"> "Chevrolet Sings of Safe Driving &#038; You"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>&quot;Chevrolet Sings&quot; is a Lost in the Grooves exclusive. <a href="http://www.maryattmusic.com/search_results_cd.php?cd=MMG+259&#038;artist=190" target="_blank">Click</a> to sample the music or purchase.  </p>
+										<content:encoded><![CDATA[<p>&quot;Chevrolet Sings&quot; is a Lost in the Grooves exclusive. <a href="https://www.maryattmusic.com/search_results_cd.php?cd=MMG+259&#038;artist=190" target="_blank">Click</a> to sample the music or purchase.  </p>
 <p>The First Team<br /> Chevrolet Sings of Safe Driving and You<br /> (Columbia Special Products, n.d., likely c. 1965)  </p>
 <p>Avoiding the <em>Red Asphalt</em> approach to driver&rsquo;s ed., our corporate friends at Chevrolet decided folk-rock was the perfect medium to sell the learner&rsquo;s permit crowd on appropriate automotive behavior. The result was a sort of Schoolhouse Rock for timid auto-jocks, a catchy set of rules and prohibitions meant to instill a sense of cautious confidence in young drivers. It&rsquo;s delightfully catchy, and achieves all its aims. &ldquo;Grown-up Baby&rdquo; (Driving Psychology) addresses those with a deadly weapon at their disposal who lack the emotional maturity to behave sensibly. Frenetic banjos build to a nervous climax as the hip parental narrators fuss about hotheads, wheel-squealers and other car-creeps. &ldquo;Cities and Towns&rdquo; (Driving in City and Heavy Traffic) skimps on the lyrical edumacation, but jangles like a lost Byrds track. &ldquo;Nowhere Fast&rdquo; (Observance and Enforcement) with its spooky, insinuating New England garage sound scans more like free verse than pop song: &ldquo;there are many other THINGS THAT you will have to know/ like when a sign says STOP that&rsquo;s what it means and not just slow.&rdquo; Flip the disk for the shouldabeen hit, &ldquo;Gentle Things&rdquo; (Adverse Driving Conditions), a Simon and Garfunkel-style beauty with aggressively mournful harmonica. Dad guilt-trips us with the message that expert drivers let the weather be their guide, but this listener is too blissed-out on the melody to think of rain (&ldquo;a gentle thing, except when you&rsquo;re driving&rdquo;) as a threat. &ldquo;The Natural Laws&rdquo; (Laws of Motion) is a cool little soul shouter about what a groove it is to be subject to centrifugal force, getting raunchy when the singer pants, &ldquo;they are all, UH HUH, natural laws.&rdquo; And &ldquo;Man-Made Laws&rdquo; (Common Sense Driving) is full of suggestions about rights of way, passing and distance. It&rsquo;s all very useful stuff, and I often find myself humming snippets while maneuvering around afternoon gridlock in L.A. There are no performer credits, but the label states that Lou Adessa and Vince Benay composed the songs. This same talented pair wrote Paul Revere and the Raiders&rsquo; &ldquo;SS 396,&rdquo; also released on Columbia Special Products and given away by Chevrolet dealers around 1965. (Kim Cooper, from the book <em>Lost in the Grooves: Scram&#8217;s Capricious Guide to the Music You Missed</em>) </p>
 ]]></content:encoded>

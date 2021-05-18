@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -33,12 +33,12 @@
 		<category><![CDATA[Smother]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Blue Ash&#8217;s song &#8220;Can&#8217;t Get Her Off My Mind&#8221; appears at 1:51 of the trailer. It was written by Frank Secich &#038; Bill Bartolin and performed by Blue Ash.&#8221;Smother&#8221; is a soon to be released comedy starring Liv Tyler, Dax Shepard and Diane Keaton. Here&#8217;s the link! http://youtube.com/watch?v=DdxLUW8Wscc]]></description>
+					<description><![CDATA[Blue Ash&#8217;s song &#8220;Can&#8217;t Get Her Off My Mind&#8221; appears at 1:51 of the trailer. It was written by Frank Secich &#038; Bill Bartolin and performed by Blue Ash.&#8221;Smother&#8221; is a soon to be released comedy starring Liv Tyler, Dax Shepard and Diane Keaton. Here&#8217;s the link! https://youtube.com/watch?v=DdxLUW8Wscc]]></description>
 										<content:encoded><![CDATA[<p>Blue Ash&#8217;s song &#8220;Can&#8217;t Get Her Off My Mind&#8221; appears at 1:51 of the trailer. It was written by Frank Secich &#038; Bill Bartolin and performed by Blue Ash.&#8221;Smother&#8221; is a soon to be released<br />
 comedy starring Liv Tyler, Dax Shepard<br />
 and Diane Keaton.</p>
 <p>Here&#8217;s the link!<br />
-http://youtube.com/watch?v=DdxLUW8Wscc</p>
+https://youtube.com/watch?v=DdxLUW8Wscc</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/feed/</wfw:commentRss>

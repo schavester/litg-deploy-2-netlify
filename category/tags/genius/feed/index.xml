@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -40,21 +40,21 @@
 
 					<description><![CDATA[a new anthology celebrating the greatest records you&#8217;ve never heard (but now you CAN!) Or download individual tracks in our custom iTunes music store LITG on iTunes (Action-Cowsills) LITG on iTunes (Crenshaw-Gaillard) LITG on iTunes (Gaye-Megadeth) LITG on iTunes (Mekons-Ramones) LITG on iTunes (Raspberries-Yoakum) You can buy the book at your favorite bookshop, or order &#8230; <a href="https://www.lostinthegrooves.com/2006/03/09/itunes/" class="more-link">Continue reading<span class="screen-reader-text"> "mp3 links"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<p align="left"><font face="Arial, Helvetica, sans-serif"><i><font size="+1">a new anthology celebrating the greatest records you&#8217;ve never heard</font><i><font size="+1"> (but now you <a href="http://litg.richardschave.com//lostinthegrooveslinks.html">CAN!</a>)</font></i></font></i></font></p>
+<p align="left"><font face="Arial, Helvetica, sans-serif"><i><font size="+1">a new anthology celebrating the greatest records you&#8217;ve never heard</font><i><font size="+1"> (but now you <a href="https://litg.richardschave.com//lostinthegrooveslinks.html">CAN!</a>)</font></i></font></i></font></p>
 <p>Or download individual tracks in our custom iTunes music store</font></p>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384616">LITG<br />
+<li><a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384616">LITG<br />
           on iTunes (Action-Cowsills)</a></li>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384628">LITG<br />
+<li><a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384628">LITG<br />
           on iTunes (Crenshaw-Gaillard)</a></li>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384634">LITG<br />
+<li><a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384634">LITG<br />
           on iTunes (Gaye-Megadeth)</a></li>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384635">LITG<br />
+<li><a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384635">LITG<br />
           on iTunes (Mekons-Ramones)</a></li>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384637">LITG<br />
+<li><a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPublishedPlaylist?id=384637">LITG<br />
           on iTunes (Raspberries-Yoakum)</a></li>
 <p>        </font> </p>
-<p align="left">You can buy the book at your favorite bookshop, or order online from <a href="http://www.amazon.com/exec/obidos/ASIN/0415969980/ref=nosim/bubblegumbook">Amazon,</a><br />
-          <a href="http://www.powells.com/cgi-bin/biblio?inkey=62-0415969980-0&#038;partner_id=26677">Powells</a> or <a href="http://service.bfast.com/bfast/click?bfmid=2181&#038;sourceid=41350606&#038;bfpid=0415969980&#038;bfmtype=book">Barnes and Noble.</a> You can also order from the <a href="http://routledge-ny.com/">publisher</a>.</font></p>
+<p align="left">You can buy the book at your favorite bookshop, or order online from <a href="https://www.amazon.com/exec/obidos/ASIN/0415969980/ref=nosim/bubblegumbook">Amazon,</a><br />
+          <a href="https://www.powells.com/cgi-bin/biblio?inkey=62-0415969980-0&#038;partner_id=26677">Powells</a> or <a href="https://service.bfast.com/bfast/click?bfmid=2181&#038;sourceid=41350606&#038;bfpid=0415969980&#038;bfmtype=book">Barnes and Noble.</a> You can also order from the <a href="https://routledge-ny.com/">publisher</a>.</font></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/itunes/feed/</wfw:commentRss>
@@ -81,10 +81,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Lost in the Grooves book is available at better bookshops or through Amazon. For other Scram book news, including live events and readings, click here. Lostinthegrooves.com is the online face of the Lost in the Grooves anthology and Scram magazine, the source for downloads and information about the great, neglected artists whose music deserves &#8230; <a href="https://www.lostinthegrooves.com/2006/03/08/lost-in-the-grooves/" class="more-link">Continue reading<span class="screen-reader-text"> "Lost in the Grooves"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.amazon.com/exec/obidos/ASIN/0415969980/ref=nosim/bubblegumbook"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://static.flickr.com/48/110018709_9b35f5ee45_o.jpg" alt="" border="0" /></a><br />
-</a>The Lost in the Grooves <a href="http://www.amazon.com/exec/obidos/ASIN/0415969980/bubblegumbook">book</a> is available at better bookshops or through Amazon. For other <a href="http://www.scrammagazine.com/">Scram</a> book news, including live events and readings, <a href="http://www.scrammagazine.com/scrambooks.html">click here</a>. </p>
-<p>Lostinthegrooves.com is the online face of the <em>Lost in the Grooves</em> anthology and Scram magazine, the source for downloads and information about the great, neglected artists whose music deserves wider acclaim. Visit our <a href="http://www.maryattmusic.com/lostinthegrooves.htm">online store</a> to sample and purchase music by Brute Force, Costes, Dream Lake Ukelele Band, The First Team (&#8220;Chevrolet Sings of Safe Driving and You&#8221;), Fugu, Garland, Gibson Bros, Juviley, The Lipstick Killers, The Orgone Box, Sex Clark 5, Suckdog and John Trubee.</p>
-<p>Check back soon for new music, featured artist blogs, concert announcements and more. Or sign up <a href="http://scram.notifylist.com/grooves_news.html">here</a> to be updated by email.</span></p>
+										<content:encoded><![CDATA[<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.amazon.com/exec/obidos/ASIN/0415969980/ref=nosim/bubblegumbook"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="https://static.flickr.com/48/110018709_9b35f5ee45_o.jpg" alt="" border="0" /></a><br />
+</a>The Lost in the Grooves <a href="https://www.amazon.com/exec/obidos/ASIN/0415969980/bubblegumbook">book</a> is available at better bookshops or through Amazon. For other <a href="https://www.scrammagazine.com/">Scram</a> book news, including live events and readings, <a href="https://www.scrammagazine.com/scrambooks.html">click here</a>. </p>
+<p>Lostinthegrooves.com is the online face of the <em>Lost in the Grooves</em> anthology and Scram magazine, the source for downloads and information about the great, neglected artists whose music deserves wider acclaim. Visit our <a href="https://www.maryattmusic.com/lostinthegrooves.htm">online store</a> to sample and purchase music by Brute Force, Costes, Dream Lake Ukelele Band, The First Team (&#8220;Chevrolet Sings of Safe Driving and You&#8221;), Fugu, Garland, Gibson Bros, Juviley, The Lipstick Killers, The Orgone Box, Sex Clark 5, Suckdog and John Trubee.</p>
+<p>Check back soon for new music, featured artist blogs, concert announcements and more. Or sign up <a href="https://scram.notifylist.com/grooves_news.html">here</a> to be updated by email.</span></p>
 <p>ABOUT THE BOOK: Pop music history is full of little-known musicians, whose work stands defiantly alone, too quirky, distinctive, or demented to appeal to a mass audience. And even the well-known musicians are frequently misplaced or misunderstood within that pop history. The book <em>Lost in the Grooves: Scram&rsquo;s Capricious Guide to the Music You Missed</em> explores the nooks and crannies of the pop music world, unearthing lost gems from should-have-been major artists (Sugarpie DeSanto, Judee Sill), revisiting lesser known works by established icons (Marvin Gaye&rsquo;s post-divorce kissoff album, <em>Here My Dear</em>; The Ramones&rsquo; <em>Subterranean Jungle</em>), and spotlighting musicians who simply don&rsquo;t fit into neat categories (k. mccarty, Exuma). The encyclopedic alphabetical structure throws off strange sparks as disparate genres and eras rub against each other: folk-psych iconoclasts face louche pop crooners; indie rock bumps against eighties soul which jostles proto-punk; outsider artists set their odd masterpieces down next to obscurities from the stars; lo-fi garage rock cuddles up with the French avant-garde; and roots rock weirdoes trip over bubblegum. This book will delight any jukebox junkie or pop culture enthusiast.</p>
 ]]></content:encoded>
 					

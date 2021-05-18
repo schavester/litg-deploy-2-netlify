@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -34,8 +34,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[It just seems like I can never write as much for this blog as I want to. Luckily, I have some free time and I am enjoying sitting around my house catching up on some little projects and listening to a great new album from Susan Cowsill. Released recently on the label Blue Corn Music, &#8230; <a href="https://www.lostinthegrooves.com/2006/07/21/heard-of-cowsills/" class="more-link">Continue reading<span class="screen-reader-text"> "Heard of Cowsills?"</span></a>]]></description>
-										<content:encoded><![CDATA[<p> <a href="http://www.amazon.com/exec/obidos/ASIN/B000BB188G/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000BB188G.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000BB188G" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+										<content:encoded><![CDATA[<p> <a href="https://www.amazon.com/exec/obidos/ASIN/B000BB188G/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000BB188G.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000BB188G" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>    It just seems like I can never write as much for this blog as I want to. Luckily, I have some free time and I am enjoying sitting around my house catching up on some little projects and listening to a great new album from Susan Cowsill.</p>
 <p>    Released recently on the label Blue Corn Music, the album is called Just Believe It and I am having a hard time doing just that. Just imagine, all of the horror of what has happened to New Orleans juxtaposed with the experience of listening to the heavenly vocals of one of the city&#8217;s most talented singer/songwriters.</p>
 <p>    For those who may not remember, or do not know at all, Susan is one of the celebrated Cowsills, a contemporary in concept to the Jackson 5 I guess you could say, only with more members and with a female vocalist in the person of Susan. In other words, the band was made up of brothers and one sister, Susan. The band had a few hits right out of the box in the late &#8217;60&#8217;s, possibly the most famous being the song &#8220;Hair&#8221; which you would remember from the play or the movie of the same name.<br />

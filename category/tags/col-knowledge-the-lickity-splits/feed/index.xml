@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -31,10 +31,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[My good budsCol. Knowledge &#38; the Lickity-Splits, who made, to what&#8217;s left of my ears,one of 2005&#8217;s Most Missed Albums, are On The Road Again! Please check out at least one of these shows; Bring the Whole Family even!! (tell &#8217;em Gary Pig Gold sentcha)&#8230;..]]></description>
-										<content:encoded><![CDATA[<p>My good buds<br /><a target="_self" href="http://www.colknowledge.com/"><strong>Col. Knowledge &amp; the Lickity-Splits</strong></a>,</p>
-<p>who made, to what&rsquo;s left of my ears,<br />one of <a target="_self" href="http://torpedopop.com/articles/page.asp?id=222"><strong>2005&rsquo;s Most Missed Albums</strong></a>, </p>
+										<content:encoded><![CDATA[<p>My good buds<br /><a target="_self" href="https://www.colknowledge.com/"><strong>Col. Knowledge &amp; the Lickity-Splits</strong></a>,</p>
+<p>who made, to what&rsquo;s left of my ears,<br />one of <a target="_self" href="https://torpedopop.com/articles/page.asp?id=222"><strong>2005&rsquo;s Most Missed Albums</strong></a>, </p>
 <p>are On The Road Again!</p>
-<p>Please check out at least one of <a target="_self" href="http://www.colknowledge.com/shows.html"><strong>these shows</strong></a>;</p>
+<p>Please check out at least one of <a target="_self" href="https://www.colknowledge.com/shows.html"><strong>these shows</strong></a>;</p>
 <p>Bring the Whole Family even!!</p>
 <p>(tell &#8217;em Gary Pig Gold sentcha)&hellip;..</p>
 ]]></content:encoded>

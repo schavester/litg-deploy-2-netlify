@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -31,9 +31,9 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[These 26 instro tracks, each named for an international rock venue, represent the fruits of the long collaboration between the versatile Canadian genre-hoppers and Ed &#8220;Big Daddy&#8221; Roth documentarian Ron Mann. I&#8217;ve not seen the film, but these concise, fuzzy and sometimes silly tracks certainly evoke the trashy spirit of 1960s kar kulture, with side &#8230; <a href="https://www.lostinthegrooves.com/2007/01/30/sadiesratfink/" class="more-link">Continue reading<span class="screen-reader-text"> "The Sadies &#8211; Tales of the Ratfink original soundtrack CD (Yep Roc)"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.amazon.com/exec/obidos/ASIN/B000I5YCM4/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000I5YCM4.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/exec/obidos/ASIN/B000I5YCM4/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000I5YCM4.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
 <p>These 26 instro tracks, each named for an international rock venue, represent the fruits of the long collaboration between the versatile Canadian genre-hoppers and Ed &#8220;Big Daddy&#8221; Roth documentarian Ron Mann. I&#8217;ve not seen the film, but these concise, fuzzy and sometimes silly tracks certainly evoke the trashy spirit of 1960s kar kulture, with side trips to the spaghetti west and Turkish cartoonland, and saved Mann the not inconsiderable headache of clearing twenty-plus vintage surf tracks with licenses owned by cranky old dudes.</p>
-<p><form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000I5YCM4" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p><form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000I5YCM4" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/01/30/sadiesratfink/feed/</wfw:commentRss>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -26,10 +26,10 @@
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-43</guid>
 
-					<description><![CDATA[More details on &quot;The Gas Chair&quot; and other releases can be found at http://www.crawlingchaos.co.uk/ ...Enough to satisfy the curious and clarify the Factory warblings.  This has been set up by an original member of the band, so he should know.  And it&#039;s not Uncle Harry&#039;s Last Freakout, yet.
+					<description><![CDATA[More details on &quot;The Gas Chair&quot; and other releases can be found at https://www.crawlingchaos.co.uk/ ...Enough to satisfy the curious and clarify the Factory warblings.  This has been set up by an original member of the band, so he should know.  And it&#039;s not Uncle Harry&#039;s Last Freakout, yet.
 
 ]]></description>
-			<content:encoded><![CDATA[<p>More details on &#8220;The Gas Chair&#8221; and other releases can be found at <a href="http://www.crawlingchaos.co.uk/" rel="nofollow ugc">http://www.crawlingchaos.co.uk/</a> &#8230;Enough to satisfy the curious and clarify the Factory warblings.  This has been set up by an original member of the band, so he should know.  And it&#8217;s not Uncle Harry&#8217;s Last Freakout, yet.</p>
+			<content:encoded><![CDATA[<p>More details on &#8220;The Gas Chair&#8221; and other releases can be found at <a href="https://www.crawlingchaos.co.uk/" rel="nofollow ugc">https://www.crawlingchaos.co.uk/</a> &#8230;Enough to satisfy the curious and clarify the Factory warblings.  This has been set up by an original member of the band, so he should know.  And it&#8217;s not Uncle Harry&#8217;s Last Freakout, yet.</p>
 ]]></content:encoded>
 		
 			</item>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -34,7 +34,7 @@
 
 					<description><![CDATA[&#160; sUite Slice of poP Pie The Original Motion Picture Soundtrack &#160; &#160;1. SLEEPY HEAD&#160; (2:24)&#160;&#160; Acid-eating Ramones&#160; &#160;2. IT&#8217;S LOVE&#160; (5:17)&#160;&#160; Bangles open The Doors &#160;3. TREE HOUSE&#160; (3:45)&#160;&#160; extremely Electric Prunes &#160;4. DON&#8217;T GET FOOLED (by the man)&#160; (3:56)&#160;&#160; wholly Boyce &#38; Hart-felt &#160;5. JUST ANOTHER RAINY DAY&#160; (2:16)&#160;&#160; Cliff Richard and the &#8230; <a href="https://www.lostinthegrooves.com/2006/09/17/required-viewing/" class="more-link">Continue reading<span class="screen-reader-text"> "Required Viewing !"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
-<p><img loading="lazy" width="200" height="200" border="0" src="http://covers.cdbaby.com/b/i/billrogers.jpg" /></p>
+<p><img loading="lazy" width="200" height="200" border="0" src="https://covers.cdbaby.com/b/i/billrogers.jpg" /></p>
 <p><em>sUite Slice of poP Pie</em></p>
 <p>The Original Motion Picture Soundtrack</p>
 <p>&nbsp;</p>
@@ -52,7 +52,7 @@
 <p>11. I DON&rsquo;T KNOW ABOUT LOVING YOU&nbsp; (2:40)&nbsp; Harper&rsquo;s <em>still </em>Bizarre !! </p>
 <p>&nbsp;</p>
 <p>All songs written, recorded, produced and performed by Bill Rogers<br />Copyright 2004</p>
-<p><a target="_self" href="http://www.480music.com/"><strong>www.480music.com</strong></a></p>
+<p><a target="_self" href="https://www.480music.com/"><strong>www.480music.com</strong></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/17/required-viewing/feed/</wfw:commentRss>

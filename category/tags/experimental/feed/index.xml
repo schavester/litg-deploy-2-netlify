@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -51,15 +51,15 @@ instros, one third wonky ballads, one percent je ne<br />
 sais quoi, and zero bullshit.<br />
 Sample clips:<br />
 Cosmic Metharthasis:<br />
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/jWz7HjHyiHU"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/jWz7HjHyiHU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/jWz7HjHyiHU"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/jWz7HjHyiHU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />
 Deep Sea Diver:<br />
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/u-IZq_V2czg"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/u-IZq_V2czg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/u-IZq_V2czg"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/u-IZq_V2czg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />
 Destroyer cover:<br />
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/EGf3dqG-0LU"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/EGf3dqG-0LU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/EGf3dqG-0LU"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/EGf3dqG-0LU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />
 Tribute To Sept. 11th:<br />
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/UkqnqKp4yJo"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/UkqnqKp4yJo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/UkqnqKp4yJo"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/UkqnqKp4yJo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
 <p>More videos found here on our YouTube page:<br />
-http://www.youtube.com/user/JulyFourthToilet</p>
+https://www.youtube.com/user/JulyFourthToilet</p>
 <p>Feel free to comment!<br />
 Ruv,<br />
 Robert</p>

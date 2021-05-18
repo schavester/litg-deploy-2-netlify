@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -73,8 +73,8 @@ Sunbeam Records</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The early success of the Beatles spawned a slew of nice boy popsters on the foggy side of the pond, and &#8220;David and Jonathan&#8221; (actually Rogers Cook and Greenaway, writing their own songs but performing pseudonymously from 1965-68) were so especially nice that George Martin himself produced their sides and let them have a crack &#8230; <a href="https://www.lostinthegrooves.com/2006/09/08/david-and-jonathan-david-and-jonathan-cd-rpm/" class="more-link">Continue reading<span class="screen-reader-text"> "David and Jonathan &#8211; &#8220;David and Jonathan&#8221; CD (RPM)"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.amazon.com/exec/obidos/ASIN/B000EWBNEG/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000EWBNEG.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000EWBNEG" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/exec/obidos/ASIN/B000EWBNEG/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000EWBNEG.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000EWBNEG" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>The early success of the Beatles spawned a slew of nice boy popsters on the foggy side of the pond, and &#8220;David and Jonathan&#8221; (actually Rogers Cook and Greenaway, writing their own songs but performing pseudonymously from 1965-68) were so especially nice that George Martin himself produced their sides and let them have a crack at &#8220;Michelle,&#8221; a top 20 hit in the US. In time, the duo would reclaim their names and become important producer-songwriters (&#8220;You&#8217;ve Got Your Troubles,&#8221; &#8220;I&#8217;d Like To Teach The World To Sing&#8221;), but first they dropped themselves into the gumball machine, with this turn offering idealistic folkster crooning over harpsichord (&#8220;Lovers of the World Unite&#8221;), the next nonsense big band bubblepop silliness (&#8220;Gilly Gilly Ossenfeffer Katzennellenbogen By The Sea&#8221;), and then anxious Beatle-penned melodrama (&#8220;She&#8217;s Leaving Home&#8221;). Dig lush production, Chad, Jeremy, Peter, Gordon and the Freddie? Then this, luv, is for you.</p>
 ]]></content:encoded>
 					

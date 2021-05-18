@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -36,7 +36,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[I read on my editor David Barker&#8217;s 33 1/3 blog this morning that the Neutral Milk Hotel book is the fastest pony in the paddock. One doesn&#8217;t like to brag about book sales, but you gotta understand, all my previous publications have been so proudly under the radar that it&#8217;s just a hoot to see &#8230; <a href="https://www.lostinthegrooves.com/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/" class="more-link">Continue reading<span class="screen-reader-text"> "Aeroplane book hits #5 on the sales chart"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>I read on my editor David Barker&#8217;s 33 1/3 <a href="http://33third.blogspot.com/2006/08/updated-sales-chart.html" target="_blank">blog</a> this morning that the <a href="http://www.amazon.com/exec/obidos/ASIN/082641690X/ref=nosim/bubblegumbook" target="_blank">Neutral Milk Hotel book</a> is the fastest pony in the paddock. One doesn&#8217;t like to brag about book sales, but you gotta understand, all my previous publications have been so proudly under the radar that it&#8217;s just a hoot to see something I&#8217;ve written be so popular. But there are plenty of great books on that list&#8211;collect &#8217;em all!
+										<content:encoded><![CDATA[<p>I read on my editor David Barker&#8217;s 33 1/3 <a href="https://33third.blogspot.com/2006/08/updated-sales-chart.html" target="_blank">blog</a> this morning that the <a href="https://www.amazon.com/exec/obidos/ASIN/082641690X/ref=nosim/bubblegumbook" target="_blank">Neutral Milk Hotel book</a> is the fastest pony in the paddock. One doesn&#8217;t like to brag about book sales, but you gotta understand, all my previous publications have been so proudly under the radar that it&#8217;s just a hoot to see something I&#8217;ve written be so popular. But there are plenty of great books on that list&#8211;collect &#8217;em all!
  </p>
 <p>David says:</p>
 <p>Not too much movement on the chart over the last couple of months &#8211; most of the books are still selling, but at a very similar rate. Notable exceptions being the <em>Forever Changes</em> book in the UK, on the back of Arthur Lee&#8217;s sad death, the DJ Shadow book, those on the Pixies and Beastie Boys, and of course the Neutral Milk Hotel book, which keeps going, week after week.</p>

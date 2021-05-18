@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -86,8 +86,8 @@ Rumour has it that Johnny Cash was so hopped up on amphetamines for this, his </
 
 					<description><![CDATA[So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day: Lee Hazlewood- &#8230; <a href="https://www.lostinthegrooves.com/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/" class="more-link">Continue reading<span class="screen-reader-text"> "Lee Hazlewood/ Porter wagoner- What Ain&#8217;t To Be, Just might happen"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day:<br />
-<a href="http://www.amazon.com/exec/obidos/ASIN/B00000IJGY/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B00000IJGY.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00000IJGY" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<a href="https://www.amazon.com/exec/obidos/ASIN/B00000IJGY/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B00000IJGY.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00000IJGY" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>Lee Hazlewood- Cowboy in Sweden (1970)<br />
 Apparently it was Hazlewood</p>
 ]]></content:encoded>

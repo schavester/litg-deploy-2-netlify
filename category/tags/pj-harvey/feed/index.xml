@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -36,7 +36,7 @@
 
 					<description><![CDATA[On March 26, I&#39;ll be reading a short excerpt from my 33 1/3 book about &#34;In the Aeroplane Over The Sea&#34; as part of a 33 1/3 &#8211; Writers on Music panel at Housing Works Used Book Cafe in NYC. Also appearing are Andrew Hultkrans (&#34;Love&#39;s &#39;Forever Changes&#39;&#34;), Amanda Petrusich (&#34;Nick Drake&#39;s &#39;Pink Moon&#39;&#34;), and &#8230; <a href="https://www.lostinthegrooves.com/2008/03/14/housingworks/" class="more-link">Continue reading<span class="screen-reader-text"> "Aeroplane and others at NYC 33 1/3 series reading"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>On March 26, I&#39;ll be reading a short excerpt from my 33 1/3 book about &quot;In the Aeroplane Over The Sea&quot; as part of a 33 1/3 &#8211; Writers on Music panel at Housing Works Used Book Cafe in NYC. Also appearing are Andrew Hultkrans (&quot;Love&#39;s &#39;Forever Changes&#39;&quot;), Amanda Petrusich (&quot;Nick Drake&#39;s &#39;Pink Moon&#39;&quot;), and Kate Schatz (&quot;PJ Harvey&#39;s &#39;Rid of Me&#39;&quot;). The reading is followed by a Q&amp;A hosted by writer/director Keith Bearden (&quot;The Raftman&#39;s Razor&quot;).</p>
-<p>WHAT: 33 1/3- Writers on Music event<br />WHERE: Housing Works Used Book Cafe, 126 Crosby Street, NYC 10012<br />WHEN: Tuesday March 25, 7pm-9pm<br />COST: free<br />INFO: <a href="http://33third.blogspot.com/2008/03/33-13-authors-at-housing-works-nyc.html" target="_blank">http://33third.blogspot.com/2008/03/33-13-authors-at-housing-works-nyc.html</a></p>
+<p>WHAT: 33 1/3- Writers on Music event<br />WHERE: Housing Works Used Book Cafe, 126 Crosby Street, NYC 10012<br />WHEN: Tuesday March 25, 7pm-9pm<br />COST: free<br />INFO: <a href="https://33third.blogspot.com/2008/03/33-13-authors-at-housing-works-nyc.html" target="_blank">https://33third.blogspot.com/2008/03/33-13-authors-at-housing-works-nyc.html</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2008/03/14/housingworks/feed/</wfw:commentRss>

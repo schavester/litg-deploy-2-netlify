@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -33,9 +33,9 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[It&#8217;s a lovely week to be a fan of mercurial sixties singer-songwriter P.F. Sloan, with his first US album release since 1972&#8217;s Raised on Records (my review of Sailover is here), a feature story in the L.A. Times (which I had a small part in, passing contact info for Phil&#8217;s one-time songwriting partner and Bubblegum &#8230; <a href="https://www.lostinthegrooves.com/2006/08/23/if-youve-been-seeking-p-f-sloan/" class="more-link">Continue reading<span class="screen-reader-text"> "If you&#8217;ve been seeking P.F. Sloan&#8230;"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.amazon.com/exec/obidos/ASIN/B000GW8QFS/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000GW8QFS.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000GW8QFS" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
-<p>It&#8217;s a lovely week to be a fan of mercurial sixties singer-songwriter P.F. Sloan, with his first US album release since 1972&#8217;s <em>Raised on Records</em> (my review of <em>Sailover</em> is <a href="https://www.lostinthegrooves.com/pfsloansailover" target="_self">here</a>), a feature story in the <a href="http://www.latimes.com/entertainment/news/cl-et-sloan22aug22,1,7846190.story?" target="_blank"><em>L.A. Times</em></a> (which I had a small part in, passing contact info for Phil&#8217;s one-time songwriting partner and Bubblegum Award recipient Steve Barri along to writer Richard Cromelin) and a terrific <a href="http://youtube.com/watch?v=RJQ7YS4QDaM" target="_blank">electronic press kit</a> over on YouTube, where Phil wanders around London, talks about the record with producer Jon Tiven, leafs through old photo proof sets and lets slip the secret identity of Hallowe&#8217;en Mary. It&#8217;s great to see Phil looking so happy, and getting the recognition he&#8217;s so long deserved.</p>
+										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/exec/obidos/ASIN/B000GW8QFS/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000GW8QFS.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000GW8QFS" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p>It&#8217;s a lovely week to be a fan of mercurial sixties singer-songwriter P.F. Sloan, with his first US album release since 1972&#8217;s <em>Raised on Records</em> (my review of <em>Sailover</em> is <a href="https://www.lostinthegrooves.com/pfsloansailover" target="_self">here</a>), a feature story in the <a href="https://www.latimes.com/entertainment/news/cl-et-sloan22aug22,1,7846190.story?" target="_blank"><em>L.A. Times</em></a> (which I had a small part in, passing contact info for Phil&#8217;s one-time songwriting partner and Bubblegum Award recipient Steve Barri along to writer Richard Cromelin) and a terrific <a href="https://youtube.com/watch?v=RJQ7YS4QDaM" target="_blank">electronic press kit</a> over on YouTube, where Phil wanders around London, talks about the record with producer Jon Tiven, leafs through old photo proof sets and lets slip the secret identity of Hallowe&#8217;en Mary. It&#8217;s great to see Phil looking so happy, and getting the recognition he&#8217;s so long deserved.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/23/if-youve-been-seeking-p-f-sloan/feed/</wfw:commentRss>

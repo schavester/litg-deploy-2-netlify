@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -26,12 +26,12 @@
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false">#comment-11</guid>
 
-					<description><![CDATA[	&lt;p&gt;&lt;img width=&quot;240&quot; height=&quot;86&quot; border=&quot;0&quot; alt=&quot;&quot; src=&quot;http://static.flickr.com/41/110997935_44111214c7_m.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Hey there, Scott !!&lt;/p&gt;&lt;p&gt;and Don&#039;t Forget that most harmonious &#034;Nick and Dave sing The Everly Brothers&#034; EP which was lovingly tucked inside the original 12-inch &lt;em&gt;Seconds Of Pleasure&lt;/em&gt;&lt;/p&gt;&lt;p&gt;....not to mention the One and Only &lt;a target=&quot;_self&quot; href=&quot;http://www.mark-johnson.com/page14.html&quot;&gt;&lt;strong&gt;Mark Johnson&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;who wrote the greatest Edmunds song EVER (imho).....&#160;&lt;/p&gt;]]></description>
+					<description><![CDATA[	&lt;p&gt;&lt;img width=&quot;240&quot; height=&quot;86&quot; border=&quot;0&quot; alt=&quot;&quot; src=&quot;https://static.flickr.com/41/110997935_44111214c7_m.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Hey there, Scott !!&lt;/p&gt;&lt;p&gt;and Don&#039;t Forget that most harmonious &#034;Nick and Dave sing The Everly Brothers&#034; EP which was lovingly tucked inside the original 12-inch &lt;em&gt;Seconds Of Pleasure&lt;/em&gt;&lt;/p&gt;&lt;p&gt;....not to mention the One and Only &lt;a target=&quot;_self&quot; href=&quot;https://www.mark-johnson.com/page14.html&quot;&gt;&lt;strong&gt;Mark Johnson&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;who wrote the greatest Edmunds song EVER (imho).....&#160;&lt;/p&gt;]]></description>
 			<content:encoded><![CDATA[
-<p><img width="240" height="86" border="0" alt="" src="http://static.flickr.com/41/110997935_44111214c7_m.jpg" /></p>
+<p><img width="240" height="86" border="0" alt="" src="https://static.flickr.com/41/110997935_44111214c7_m.jpg" /></p>
 <p>Hey there, Scott !!</p>
 <p>and Don&#8217;t Forget that most harmonious &quot;Nick and Dave sing The Everly Brothers&quot; EP which was lovingly tucked inside the original 12-inch <em>Seconds Of Pleasure</em></p>
-<p>&#8230;.not to mention the One and Only <a target="_self" href="http://www.mark-johnson.com/page14.html"><strong>Mark Johnson</strong></a></p>
+<p>&#8230;.not to mention the One and Only <a target="_self" href="https://www.mark-johnson.com/page14.html"><strong>Mark Johnson</strong></a></p>
 <p>who wrote the greatest Edmunds song EVER (imho)&#8230;..&nbsp;</p>
 ]]></content:encoded>
 		

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -30,14 +30,14 @@
 		<category><![CDATA[kev hopper palais schaumburg holger hiller]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Stump title: Quirk Out year: 1986 label: Stuff Records personnel: Mick Lynch (vocals), Chris Salmon (guitar), Kev Hopper (bass), Rob McKahey (drums) tracklisting: tupperware stripper, our fathers, kitchen table, buffalo, everything in its place, bit part actor further info: http://www.spoombung.co.uk/ cotw say]]></description>
+					<description><![CDATA[artist: Stump title: Quirk Out year: 1986 label: Stuff Records personnel: Mick Lynch (vocals), Chris Salmon (guitar), Kev Hopper (bass), Rob McKahey (drums) tracklisting: tupperware stripper, our fathers, kitchen table, buffalo, everything in its place, bit part actor further info: https://www.spoombung.co.uk/ cotw say]]></description>
 										<content:encoded><![CDATA[<p>artist: Stump</p>
 <p>title: Quirk Out</p>
 <p>year: 1986</p>
 <p>label: Stuff Records</p>
 <p>personnel: Mick Lynch (vocals), Chris Salmon (guitar), Kev Hopper (bass), Rob McKahey (drums)</p>
 <p>tracklisting: tupperware stripper, our fathers, kitchen table, buffalo, everything in its place, bit part actor</p>
-<p>further info: http://www.spoombung.co.uk/</p>
+<p>further info: https://www.spoombung.co.uk/</p>
 <p>cotw say</p>
 ]]></content:encoded>
 					

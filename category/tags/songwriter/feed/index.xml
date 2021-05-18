@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -38,7 +38,7 @@
 					<description><![CDATA[Lost in the Grooves now offers full-service sub-publishing Bands/labels &#8211; are you missing out on overseas (or domestic) royalties? If you can answer yes to the following questions, we may be able to help you. We have skilled sub-publishers in every part of the world who are very experienced in claiming lost monies owed for &#8230; <a href="https://www.lostinthegrooves.com/2006/05/09/sub-publishing-for-bands-and-labels/" class="more-link">Continue reading<span class="screen-reader-text"> "Sub-publishing for bands and labels"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Lost in the Grooves now offers full-service sub-publishing  </p>
 <p>Bands/labels &#8211; are you missing out on overseas (or domestic) royalties? If you can answer yes to the following questions, we may be able to help you. We have skilled sub-publishers in every part of the world who are very experienced in claiming lost monies owed for live performances (also called Neighboring Rights), record sales and any licensing done outside the US.  </p>
-<p>If these facts are true for you, please drop a line to Kim c/o <a href="http://www.lostinthegrooves.local/feedback">this site</a> to find out what we can do for you and/or your artists </p>
+<p>If these facts are true for you, please drop a line to Kim c/o <a href="https://www.lostinthegrooves.local/feedback">this site</a> to find out what we can do for you and/or your artists </p>
 <p>1) Does the band/label have no other publishing deal?</p>
 <p>2) Has (or will) the band / label release or distribute CD/LPs in any part of the world?  </p>
 <p>3) Has the band played shows in Europe or Japan?  </p>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -34,10 +34,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Only the supremely melodic Tim Anthonycould help me put the words &#8220;Gomez Addams,&#8221; &#8220;Stella Stevens,&#8221; &#8220;The Flashcubes,&#8221;&#8220;Mark David Chapman&#8221; and even &#8220;New Zealand&#8221; into one single Fufkin.com column&#8230;..]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" width="120" height="120" border="0" src="http://www.jealousy-records.com/images/cover_ta_happydoor.gif" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" width="120" height="120" border="0" src="https://www.jealousy-records.com/images/cover_ta_happydoor.gif" /></p>
 <p>Only the supremely melodic Tim Anthony<br />could help me put the words</p>
-<p>&ldquo;Gomez Addams,&rdquo; &ldquo;Stella Stevens,&rdquo; &ldquo;<a href="http://www.theflashcubes.com/home.htm" target="_self"><strong>The Flashcubes</strong></a>,&rdquo;<br />&ldquo;Mark David Chapman&rdquo; and even &ldquo;New Zealand&rdquo;</p>
-<p>into one single <a href="http://www.fufkin.com/columns/gold/gold_05_06.htm" target="_self"><strong>Fufkin.com column&#8230;..</strong></a></p>
+<p>&ldquo;Gomez Addams,&rdquo; &ldquo;Stella Stevens,&rdquo; &ldquo;<a href="https://www.theflashcubes.com/home.htm" target="_self"><strong>The Flashcubes</strong></a>,&rdquo;<br />&ldquo;Mark David Chapman&rdquo; and even &ldquo;New Zealand&rdquo;</p>
+<p>into one single <a href="https://www.fufkin.com/columns/gold/gold_05_06.htm" target="_self"><strong>Fufkin.com column&#8230;..</strong></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/22/through-the-happy-door/feed/</wfw:commentRss>

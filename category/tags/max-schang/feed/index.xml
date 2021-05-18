@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -35,10 +35,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Blue Ash members Frank Secich, Bill &#8220;Cupid&#8221; Bartolin, Jim Kendzor, Jeffrey Rozniata &#038; Bobby Darke will be playing in concert at the Barrow Civic Theater in Franklin, PA on January 17th. Also, on the bill are the Max Schang Blues Band &#038; Ransom. Ticket informatiom and details are above. Blue Ash&#8217;s debut album &#8220;No More, &#8230; <a href="https://www.lostinthegrooves.com/2008/11/22/blue-ash-at-barrow-civic-theater-january-17th/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash At Barrow Civic Theater January 17TH!"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://s145.photobucket.com/albums/r233/Frankiefane/?action=view&#038;current=blueashposter.jpg" target="_blank"><img src="http://i145.photobucket.com/albums/r233/Frankiefane/blueashposter.jpg" border="0" alt="Photobucket"></a></p>
+										<content:encoded><![CDATA[<p><a href="https://s145.photobucket.com/albums/r233/Frankiefane/?action=view&#038;current=blueashposter.jpg" target="_blank"><img src="https://i145.photobucket.com/albums/r233/Frankiefane/blueashposter.jpg" border="0" alt="Photobucket"></a></p>
 <p>Blue Ash members Frank Secich, Bill &#8220;Cupid&#8221; Bartolin, Jim Kendzor, Jeffrey Rozniata &#038; Bobby Darke will be playing in concert at the Barrow Civic Theater in Franklin, PA on January 17th. Also, on the bill are the Max Schang Blues Band &#038; Ransom. Ticket informatiom and details are above.<br />
 Blue Ash&#8217;s debut album &#8220;No More, No Less&#8221; has also just been reissued on CD by Collectors&#8217; Choice.<br />
-http://www.ccmusic.com/</p>
+https://www.ccmusic.com/</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2008/11/22/blue-ash-at-barrow-civic-theater-january-17th/feed/</wfw:commentRss>

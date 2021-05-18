@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -44,7 +44,7 @@
 <p>label: Atatak Records</p>
 <p>personnel: Uwe Jahnke (guitars), Harry Rag (vocals), Jojo Wolter (bass), Ralf Bauerfeind (druns) </p>
 <p>tracklisting: 11. frau im harem, die matchbox-generation, mein esel ist kaputt, oliver, but the girls, schwesterlein, platz da, julischka, pop horror, geteert un gefedert, sturm auf dich, taris</p>
-<p>further info: http://www.syph.de/</p>
+<p>further info: https://www.syph.de/</p>
 <p>cotw say</p>
 ]]></content:encoded>
 					

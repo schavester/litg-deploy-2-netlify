@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -246,7 +246,7 @@
 <p>It&#8217;s a great idea. Somewhere in the overflowing cut out bin of a dusty store in Scuntthorpe, lies your favourite record &#8211; and you don&#8217;t even know it exists. To help you locate it, a bunch of American fanzine writers have nominated their own neglected &#8216;classics&#8217; in a book designed to &#8216;nudge the cannon so that lost records tumble out&#8217;.</p>
 <p>They&#8217;ve come up with a fascinating list, full of records too demented and generally out there to have round mass appeal. Not all of the 200 or so reclaimed masterpieces are in the same league as Nick Drake, and quite why the editors &#8220;want Mekon fans to check out Kylie Minogue&#8221; is never clear, but there&#8217;s enough unhinged zeal in the writing to make you want to track down most things here.</p>
 <p>Uncut readers will take some convincing that they have unfairly overlooked David Cassidy Live! all these years. But it&#8217;s a resounding &#8216;yes&#8217; to Joe E Covington&#8217;s Fat Fandango, Ron Nagle&#8217;s Bad Rice, John Phillips&#8217; The Wolf King of LA and Bridget St. John&#8217;s Songs for the Gentle Man. The latter appeared on John Peel&#8217;s Dandelion label in 1971, and makes you wonder why the great man himself never wrote a book like this.</p>
-<p>If your own lost classic isn&#8217;t included, don&#8217;t sit there fulminating. Get in touch via www.lostinthegrooves.com <http://www.lostinthegrooves.local>/ because they&#8217;re planning a follow up. (Nigel Williamson, Uncut)</p>
+<p>If your own lost classic isn&#8217;t included, don&#8217;t sit there fulminating. Get in touch via www.lostinthegrooves.com <https://www.lostinthegrooves.local>/ because they&#8217;re planning a follow up. (Nigel Williamson, Uncut)</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/quirkily-irresistable-uncut/feed/</wfw:commentRss>

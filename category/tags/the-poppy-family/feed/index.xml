@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -34,7 +34,7 @@
 
 					<description><![CDATA[Brian Greene has conducted a new interview with Susan Jacks, giving insight into her exquisite and eerie recordings as a member of the Poppy Family and as a solo artist, plus some of the challenges she faced as a female artist seeking personal and creative independence after she split with husband Terry Jacks. This is &#8230; <a href="https://www.lostinthegrooves.com/2006/11/29/susan-jacks-interview-at-scram/" class="more-link">Continue reading<span class="screen-reader-text"> "Susan Jacks interview at Scram"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Brian Greene has conducted a new interview with Susan Jacks, giving insight into her exquisite and eerie recordings as a member of the Poppy Family and as a solo artist, plus some of the challenges she faced as a female artist seeking personal and creative independence after she split with husband Terry Jacks.</p>
-<p>This is a Scram online exclusive over at<br /><a href="http://www.scrammagazine.com/susanjacks" target="_blank">http://www.scrammagazine.com/susanjacks</a></p>
+<p>This is a Scram online exclusive over at<br /><a href="https://www.scrammagazine.com/susanjacks" target="_blank">https://www.scrammagazine.com/susanjacks</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2006/11/29/susan-jacks-interview-at-scram/feed/</wfw:commentRss>

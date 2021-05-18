@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -40,7 +40,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Orgone Box&#8217; self-titled debut is a Lost in the Grooves exclusive. We are also pleased to feature the follow up, &#8220;Things That Happened Then.&#8221; Click to sample the music or purchase. The Orgone Box The Orgone Box (Minus Zero UK, 2001) Too many bedroom bands drink at the trough of Evolution and Revolver, fire &#8230; <a href="https://www.lostinthegrooves.com/2006/03/08/the-orgone-box/" class="more-link">Continue reading<span class="screen-reader-text"> "The Orgone Box &#038; more"</span></a>]]></description>
-										<content:encoded><![CDATA[<p></a>The Orgone Box&#8217; <a href="http://www.maryattmusic.com/catalogs_artists.php?pageNum_rs_catalogs=1&#038;totalRows_rs_catalogs=11&#038;catalog=6">self-titled debut</a> is a Lost in the Grooves exclusive. We are also pleased to feature the follow up, &#8220;Things That Happened Then.&#8221; Click to sample the music or purchase.</p>
+										<content:encoded><![CDATA[<p></a>The Orgone Box&#8217; <a href="https://www.maryattmusic.com/catalogs_artists.php?pageNum_rs_catalogs=1&#038;totalRows_rs_catalogs=11&#038;catalog=6">self-titled debut</a> is a Lost in the Grooves exclusive. We are also pleased to feature the follow up, &#8220;Things That Happened Then.&#8221; Click to sample the music or purchase.</p>
 <p>The Orgone Box<br />
 <em>The Orgone Box</em><br />
 (Minus Zero UK, 2001)</p>

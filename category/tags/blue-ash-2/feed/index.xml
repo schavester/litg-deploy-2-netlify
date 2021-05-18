@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -33,9 +33,9 @@
 		<category><![CDATA[Terry Hartman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Frank Secich interview on Youngstown Rock http://youngstownrock.com/wordpress/?p=1638]]></description>
+					<description><![CDATA[Frank Secich interview on Youngstown Rock https://youngstownrock.com/wordpress/?p=1638]]></description>
 										<content:encoded><![CDATA[<p>Frank Secich interview on Youngstown Rock</p>
-<p>http://youngstownrock.com/wordpress/?p=1638</p>
+<p>https://youngstownrock.com/wordpress/?p=1638</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2010/06/15/p1638/feed/</wfw:commentRss>
@@ -60,10 +60,10 @@
 		<category><![CDATA[Terry Hartman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Here&#8217;s a video promo for the new Deadbeat Poets album &#8220;Circustown&#8221; Circustown is available at: http://www.popdetective.com]]>/</description>
+					<description><![CDATA[Here&#8217;s a video promo for the new Deadbeat Poets album &#8220;Circustown&#8221; Circustown is available at: https://www.popdetective.com]]>/</description>
 										<content:encoded><![CDATA[<p>Here&#8217;s a video promo for the new Deadbeat Poets album &#8220;Circustown&#8221; Circustown is available at:<br />
-http://www.popdetective.com/<br />
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object></p>
+https://www.popdetective.com/<br />
+<object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2010/06/01/deadbeat-poets-release-new-album-called-circustown/feed/</wfw:commentRss>
@@ -88,10 +88,10 @@ http://www.popdetective.com/<br />
 
 					<description><![CDATA[Blue Ash guitarist Bill &#8220;Cupid&#8221; Bartolin has passed away. Bill had been dignosed with lung cancer and brain cancer shortly after Labor Day and died of complications on October 3rd. Bill &#8220;Cupid&#8221; Bartolin April 21, 1951-October 3, 2009 RIP There&#8217;s was a nice tribute to Bill by Mike Sin on WFMU from New York yesterday. &#8230; <a href="https://www.lostinthegrooves.com/2009/10/13/blue-ash-guitarist-bill-cupid-bartolin-rip/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash Guitarist Bill &#8220;Cupid&#8221; Bartolin RIP"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Blue Ash guitarist Bill &#8220;Cupid&#8221; Bartolin has passed away. Bill had been dignosed with lung cancer and brain cancer shortly after Labor Day and died of complications on October 3rd.</p>
-<p><a href="http://s145.photobucket.com/albums/r233/Frankiefane/?action=view&#038;current=4919.jpg" target="_blank"><img src="http://i145.photobucket.com/albums/r233/Frankiefane/4919.jpg" border="0" alt="Photobucket"></a><br />
+<p><a href="https://s145.photobucket.com/albums/r233/Frankiefane/?action=view&#038;current=4919.jpg" target="_blank"><img src="https://i145.photobucket.com/albums/r233/Frankiefane/4919.jpg" border="0" alt="Photobucket"></a><br />
 Bill &#8220;Cupid&#8221; Bartolin April 21, 1951-October 3, 2009 RIP</p>
 <p>There&#8217;s was a nice tribute to Bill by Mike Sin on WFMU from New York yesterday. Here&#8217;s the link:</p>
-<p>http://wfmu.org/playlists/shows/33232</p>
+<p>https://wfmu.org/playlists/shows/33232</p>
 <p>Here&#8217;s Bill in action with Blue Ash at the IPO Festival in Youngstown, Ohio in November of 2008.</p>
 <p><iframe loading="lazy" width="840" height="630" src="https://www.youtube.com/embed/tYy4dDLQmsM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
@@ -117,10 +117,10 @@ Bill &#8220;Cupid&#8221; Bartolin April 21, 1951-October 3, 2009 RIP</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Blue Ash members Frank Secich, Bill &#8220;Cupid&#8221; Bartolin, Jim Kendzor, Jeffrey Rozniata &#038; Bobby Darke will be playing in concert at the Barrow Civic Theater in Franklin, PA on January 17th. Also, on the bill are the Max Schang Blues Band &#038; Ransom. Ticket informatiom and details are above. Blue Ash&#8217;s debut album &#8220;No More, &#8230; <a href="https://www.lostinthegrooves.com/2008/11/22/blue-ash-at-barrow-civic-theater-january-17th/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash At Barrow Civic Theater January 17TH!"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://s145.photobucket.com/albums/r233/Frankiefane/?action=view&#038;current=blueashposter.jpg" target="_blank"><img src="http://i145.photobucket.com/albums/r233/Frankiefane/blueashposter.jpg" border="0" alt="Photobucket"></a></p>
+										<content:encoded><![CDATA[<p><a href="https://s145.photobucket.com/albums/r233/Frankiefane/?action=view&#038;current=blueashposter.jpg" target="_blank"><img src="https://i145.photobucket.com/albums/r233/Frankiefane/blueashposter.jpg" border="0" alt="Photobucket"></a></p>
 <p>Blue Ash members Frank Secich, Bill &#8220;Cupid&#8221; Bartolin, Jim Kendzor, Jeffrey Rozniata &#038; Bobby Darke will be playing in concert at the Barrow Civic Theater in Franklin, PA on January 17th. Also, on the bill are the Max Schang Blues Band &#038; Ransom. Ticket informatiom and details are above.<br />
 Blue Ash&#8217;s debut album &#8220;No More, No Less&#8221; has also just been reissued on CD by Collectors&#8217; Choice.<br />
-http://www.ccmusic.com/</p>
+https://www.ccmusic.com/</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2008/11/22/blue-ash-at-barrow-civic-theater-january-17th/feed/</wfw:commentRss>
@@ -142,10 +142,10 @@ http://www.ccmusic.com/</p>
 		<category><![CDATA[Raspberries]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Blue Ash Special Bonus CD&#8217;s! There will be a special limited free bonus CD when ordering Blue Ash&#8217;s &#8220;No More, No Less&#8221; from Not Lame or Kool Kat Musik. The Not Lame bonus CD will feature unreleased songs from 1973 that were done &#8220;live&#8221; in Peppermint Studios. http://www.notlame.com/BLUE_ASH/Page_1/CDBLUEASH1.html The tracks are: Hippy, Hippy Shake (Chan &#8230; <a href="https://www.lostinthegrooves.com/2008/10/18/blue-ash-special-bonus-cds/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash Special Bonus CD&#8217;s!"</span></a>]]></description>
+					<description><![CDATA[Blue Ash Special Bonus CD&#8217;s! There will be a special limited free bonus CD when ordering Blue Ash&#8217;s &#8220;No More, No Less&#8221; from Not Lame or Kool Kat Musik. The Not Lame bonus CD will feature unreleased songs from 1973 that were done &#8220;live&#8221; in Peppermint Studios. https://www.notlame.com/BLUE_ASH/Page_1/CDBLUEASH1.html The tracks are: Hippy, Hippy Shake (Chan &#8230; <a href="https://www.lostinthegrooves.com/2008/10/18/blue-ash-special-bonus-cds/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash Special Bonus CD&#8217;s!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Blue Ash Special Bonus CD&#8217;s! </p>
 <p>There will be a special limited free bonus CD when ordering Blue Ash&#8217;s &#8220;No More, No Less&#8221; from Not Lame or Kool Kat Musik. The Not Lame bonus CD will feature unreleased songs from 1973 that were done &#8220;live&#8221; in Peppermint Studios.</p>
-<p>http://www.notlame.com/BLUE_ASH/Page_1/CDBLUEASH1.html</p>
+<p>https://www.notlame.com/BLUE_ASH/Page_1/CDBLUEASH1.html</p>
 <p>The tracks are:<br />
 Hippy, Hippy Shake<br />
 (Chan Romero)<br />
@@ -198,7 +198,7 @@ glad you snagged this little piece o&#8217; Power Pop<br />
 history!</p>
 <p>orders@koolkatmusik.com</p>
 <p>856-468-2442</p>
-<p>http://www.koolkatmusik.com/showproduct.aspx?Productid=4920&#038;Sectionid=1<br />
+<p>https://www.koolkatmusik.com/showproduct.aspx?Productid=4920&#038;Sectionid=1<br />
 .. type=text/javascript> hasEML = false; ..> </p>
 ]]></content:encoded>
 					
@@ -221,8 +221,8 @@ history!</p>
 		<category><![CDATA[power pop]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Blue Ash&#39;s 1973 debut album &#34;No More, No Less&#34; has been issued for the first time ever by the good folks at Collectors&#39; Choice. Here&#39;s the link: http://www.ccmusic.com/item.cfm?itemid=CCM0963]]></description>
-										<content:encoded><![CDATA[<p>Blue Ash&#39;s 1973 debut album &quot;No More, No Less&quot; has been issued for the first time ever by the good folks at Collectors&#39; Choice. Here&#39;s the link: http://www.ccmusic.com/item.cfm?itemid=CCM0963 </p>
+					<description><![CDATA[Blue Ash&#39;s 1973 debut album &#34;No More, No Less&#34; has been issued for the first time ever by the good folks at Collectors&#39; Choice. Here&#39;s the link: https://www.ccmusic.com/item.cfm?itemid=CCM0963]]></description>
+										<content:encoded><![CDATA[<p>Blue Ash&#39;s 1973 debut album &quot;No More, No Less&quot; has been issued for the first time ever by the good folks at Collectors&#39; Choice. Here&#39;s the link: https://www.ccmusic.com/item.cfm?itemid=CCM0963 </p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2008/09/01/blue-ashs-no-more-no-less-out-on-cd/feed/</wfw:commentRss>
@@ -245,7 +245,7 @@ history!</p>
 		<category><![CDATA[Stiv Bators]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Deadbeat Poets At SXSW! The Deadbeat Poets will be playing this year&#8217;s SXSW Festival at: Lambert&#8217;s Patio 401 W. 2nd St. Austin, Texas The band goes on at 9:00 pm Thursday, March 13th. More info on the Deadbeat Poets at: http://www.myspace.com/deadbeatpoets http://www.popdetective.com/ About The Deadbeat Poets The Deadbeat Poets were formed in Youngstown, Ohio in &#8230; <a href="https://www.lostinthegrooves.com/2008/03/03/deadbeat-poets-at-sxsw/" class="more-link">Continue reading<span class="screen-reader-text"> "Deadbeat Poets At SXSW!"</span></a>]]></description>
+					<description><![CDATA[Deadbeat Poets At SXSW! The Deadbeat Poets will be playing this year&#8217;s SXSW Festival at: Lambert&#8217;s Patio 401 W. 2nd St. Austin, Texas The band goes on at 9:00 pm Thursday, March 13th. More info on the Deadbeat Poets at: https://www.myspace.com/deadbeatpoets https://www.popdetective.com/ About The Deadbeat Poets The Deadbeat Poets were formed in Youngstown, Ohio in &#8230; <a href="https://www.lostinthegrooves.com/2008/03/03/deadbeat-poets-at-sxsw/" class="more-link">Continue reading<span class="screen-reader-text"> "Deadbeat Poets At SXSW!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Deadbeat Poets At SXSW! </p>
 <p>The Deadbeat Poets will be playing this year&#8217;s SXSW Festival at:<br />
 Lambert&#8217;s Patio<br />
@@ -253,8 +253,8 @@ Lambert&#8217;s Patio<br />
 Austin, Texas</p>
 <p>The band goes on at 9:00 pm Thursday, March 13th.<br />
 More info on the Deadbeat Poets at:<br />
-http://www.myspace.com/deadbeatpoets<br />
-http://www.popdetective.com/</p>
+https://www.myspace.com/deadbeatpoets<br />
+https://www.popdetective.com/</p>
 <p>About The Deadbeat Poets<br />
 The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The band consists of veteran Ohio musicians with eclectic credentials: Frank Secich (Blue Ash, Club Wow, Stiv Bators Band), Terry Hartman (Backdoor Men, Napoleon In Rags, Terry &#038; The Tornadoes), Pete Drivere (Infidels, Pretty Demons) and John Koury (Infidels, Slackjaw). Their debut album (which was recorded over the first few months of 2007 at Youngstown&#8217;s Ampreon Recorder) is now available on Pop Detective Records in America &#038; in Japan on Vivid Sound Records. Also, making guest appearances on the album are Bill &#8220;Cupid&#8221; Bartolin on guitar and Chris Leonardi on piano and organ. </p>
 <p>Soon, you&#8217;ll be able to sit back and relax (pop the top and set the sail) as the Deadbeat Poets take you on a timely journey. To such places&#8230;. romantic places like Beaver Falls (via Mahoningtown) you&#8217;ll go. You&#8217;ll travel to the exotic northside of Youngstown, Cleveland, the depths of the Atlantic Ocean, Toronto, Geneva-On-The-Lake, New York, LA, London, the far reaches of outer space, Paris, Mt. Pilot, The Bering Sea, St. Paul and of course Buffalo, NY. You&#8217;ll meet fun lovin&#8217;, sex-crazed aliens in &#8220;The Truth About Flying Saucers&#8221;. You&#8217;ll hear the tale of the legendary Ray Robinson who once roamed the dark, back-country roads of Western, PA in &#8220;The Green Man&#8221;. You&#8217;ll encounter semi-romantic mountain men and their passions in &#8220;Ernest T&#8221; and ride along with Stiv Bators as he once terrorized the western world in &#8220;The Stiv Bators Ghost Tour&#8221;. You&#8217;ll find out the connection between Ernest Hemmingway and Gertrude Stein and French bidets in &#8220;Where Was I When I Needed Me?&#8221;. You&#8217;ll raise glasses and bottles with the lads in &#8220;No Island Like The Mind, No Ship Like Beer&#8221; and be sadly disappointed by gangsters and thieves as &#8220;The Goody Wagon&#8221; never arrives. If floating in a psychedelic flutter is your inclination then &#8220;What Part Of Cognitive Dissonance Don&#8217;t You Understand?&#8221; will probably be your cup of tea. Then again, you may find that after all of this &#8230;..well that &#8220;It&#8217;s Nothing&#8221; to you. Then again, you may start getting &#8220;A Funny Little Feeling&#8221; that you will enjoy the Deadbeat Poets. </p>
@@ -281,9 +281,9 @@ The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The ba
 		<category><![CDATA[Stiv Bators]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The following is a recent Frank Secich &#038; David Steinberg interview by Chris Duda in SugarBuzz magazine. http://www.sugarbuzzmagazine.com/bands/disconnected/stiv.html]]></description>
+					<description><![CDATA[The following is a recent Frank Secich &#038; David Steinberg interview by Chris Duda in SugarBuzz magazine. https://www.sugarbuzzmagazine.com/bands/disconnected/stiv.html]]></description>
 										<content:encoded><![CDATA[<p>The following is a recent Frank Secich &#038; David Steinberg interview by Chris Duda in SugarBuzz magazine.</p>
-<p>http://www.sugarbuzzmagazine.com/bands/disconnected/stiv.html</p>
+<p>https://www.sugarbuzzmagazine.com/bands/disconnected/stiv.html</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/12/01/frank-secich-david-steinberg-interview/feed/</wfw:commentRss>
@@ -305,12 +305,12 @@ The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The ba
 		<category><![CDATA[Smother]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Blue Ash&#8217;s song &#8220;Can&#8217;t Get Her Off My Mind&#8221; appears at 1:51 of the trailer. It was written by Frank Secich &#038; Bill Bartolin and performed by Blue Ash.&#8221;Smother&#8221; is a soon to be released comedy starring Liv Tyler, Dax Shepard and Diane Keaton. Here&#8217;s the link! http://youtube.com/watch?v=DdxLUW8Wscc]]></description>
+					<description><![CDATA[Blue Ash&#8217;s song &#8220;Can&#8217;t Get Her Off My Mind&#8221; appears at 1:51 of the trailer. It was written by Frank Secich &#038; Bill Bartolin and performed by Blue Ash.&#8221;Smother&#8221; is a soon to be released comedy starring Liv Tyler, Dax Shepard and Diane Keaton. Here&#8217;s the link! https://youtube.com/watch?v=DdxLUW8Wscc]]></description>
 										<content:encoded><![CDATA[<p>Blue Ash&#8217;s song &#8220;Can&#8217;t Get Her Off My Mind&#8221; appears at 1:51 of the trailer. It was written by Frank Secich &#038; Bill Bartolin and performed by Blue Ash.&#8221;Smother&#8221; is a soon to be released<br />
 comedy starring Liv Tyler, Dax Shepard<br />
 and Diane Keaton.</p>
 <p>Here&#8217;s the link!<br />
-http://youtube.com/watch?v=DdxLUW8Wscc</p>
+https://youtube.com/watch?v=DdxLUW8Wscc</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/feed/</wfw:commentRss>
@@ -337,7 +337,7 @@ http://youtube.com/watch?v=DdxLUW8Wscc</p>
 
 					<description><![CDATA[Deadbeat Poets&#39; Notes from the Underground is a featured Lost in the Grooves release. To preview and download single or multiple tracks, or to purchase the CD, click here. Deadbeat Poets press release: The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The band consists of veteran Ohio musicians with eclectic &#8230; <a href="https://www.lostinthegrooves.com/2007/08/27/deadbeatpoets/" class="more-link">Continue reading<span class="screen-reader-text"> "Deadbeat Poets &#8220;Notes from the Underground&#8221; CD is LITG&#8217;s featured release"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Deadbeat Poets&#39; <em>Notes from the Underground</em> is a featured Lost in the Grooves release. To preview and download single or multiple tracks, or to purchase the CD, click <a href="https://www.maryattmusic.com/store/cd_info.php?id=MMG+346" target="_blank">here</a>.  </p>
-<p>Deadbeat Poets press release: <br />The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The band consists of veteran Ohio musicians with eclectic credentials: Frank Secich (Blue Ash, Club Wow, Stiv Bators Band), Terry Hartman (Backdoor Men, Napoleon In Rags, Terry &amp; The Tornadoes), Pete Drivere (Infidels, Pretty Demons) and John Koury (Infidels, Slackjaw). Their debut album (which was recorded over the first few months of 2007 at Youngstown&#39;s Ampreon Recorder) is now released on <a href="http://www.PopDetective.com/" target="_blank">Pop Detective Records</a> and is available online through Lost in the Grooves and MMG, and in Japan on Vivid Sound Records. Also, making guest appearances on the album are Bill &quot;Cupid&quot; Bartolin on guitar and Chris Leonardi on piano and organ.</p>
+<p>Deadbeat Poets press release: <br />The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The band consists of veteran Ohio musicians with eclectic credentials: Frank Secich (Blue Ash, Club Wow, Stiv Bators Band), Terry Hartman (Backdoor Men, Napoleon In Rags, Terry &amp; The Tornadoes), Pete Drivere (Infidels, Pretty Demons) and John Koury (Infidels, Slackjaw). Their debut album (which was recorded over the first few months of 2007 at Youngstown&#39;s Ampreon Recorder) is now released on <a href="https://www.PopDetective.com/" target="_blank">Pop Detective Records</a> and is available online through Lost in the Grooves and MMG, and in Japan on Vivid Sound Records. Also, making guest appearances on the album are Bill &quot;Cupid&quot; Bartolin on guitar and Chris Leonardi on piano and organ.</p>
 <p>Soon, you&#39;ll be able to sit back and relax (pop the top and set the sail) as the Deadbeat Poets take you on a timely journey. To such places&#8230;. romantic places like Beaver Falls (via Mahoningtown) you&#39;ll go. You&#39;ll travel to the exotic northside of Youngstown, Cleveland, the depths of the Atlantic Ocean, Toronto, Geneva-On-The-Lake, New York, LA, London, the far reaches of outer space, Paris, Mt. Pilot, The Bering Sea, St. Paul and of course Buffalo, NY. You&#39;ll meet fun lovin&#39;, sex-crazed aliens in &quot;The Truth About Flying Saucers&quot;. You&#39;ll hear the tale of the legendary Ray Robinson who once roamed the dark, back-country roads of Western, PA in &quot;The Green Man&quot;. You&#39;ll encounter semi-romantic mountain men and their passions in &quot;Ernest T&quot; and ride along with Stiv Bators as he once terrorized the western world in &quot;The Stiv Bators Ghost Tour&quot;. You&#39;ll find out the connection between Ernest Hemmingway and Gertrude Stein and French bidets in &quot;Where Was I When I Needed Me?&quot; You&#39;ll raise glasses and bottles with the lads in &quot;No Island Like The Mind, No Ship Like Beer&quot; and be sadly disappointed by gangsters and thieves as &quot;The Goody Wagon&quot; never arrives. If floating in a psychedelic flutter is your inclination then &quot;What Part Of Cognitive Dissonance Don&#39;t You Understand?&quot; will probably be your cup of tea. Then again, you may find that after all of this &#8230;..well that &quot;It&#39;s Nothing&quot; to you. Then again, you may start getting &quot;A Funny Little Feeling&quot; that you will enjoy the Deadbeat Poets.</p>
 ]]></content:encoded>
 					

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -35,8 +35,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Reissue of a 1969 harmony-pop disk on Capitol, produced by David Axelrod under the not-quite-anagramic Lex de Azevedo. The cousins King were music industry pros with a family TV show and the connections to get their nascent quartet a regular slot on John Davidson&#8217;s Kraft Summer Music Hall. Blonde, slick and resoundingly old-fashioned despite the &#8230; <a href="https://www.lostinthegrooves.com/2006/07/26/the-four-king-cousins-introducing-cd-el/" class="more-link">Continue reading<span class="screen-reader-text"> "The Four King Cousins &#8211; &#8220;Introducing&#8221; CD (El)"</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.amazon.com/exec/obidos/ASIN/B000EWBNFK/ref=nosim/bubblegumbook"><img src="http://images.amazon.com/images/P/B000EWBNFK.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
-<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000EWBNFK" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/exec/obidos/ASIN/B000EWBNFK/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000EWBNFK.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
+<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000EWBNFK" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>Reissue of a 1969 harmony-pop disk on Capitol, produced by David Axelrod under the not-quite-anagramic Lex de Azevedo. The cousins King were music industry pros with a family TV show and the connections to get their nascent quartet a regular slot on John Davidson&rsquo;s <em>Kraft Summer Music Hall</em>. Blonde, slick and resoundingly old-fashioned despite the matching mini-dresses on the cover, in the studio they brought their frosty, elevator-ready pipes to arrangements of Beatles, Boyce &amp; Hart, Hamlisch, Bacharach-David and Nichols-Asher that veer from the tasteful to the mildly twangy and tuff. The best track is &ldquo;God Only Knows,&rdquo; where their ethereal ice princess sexiness really suits the material. Like an estrogenic Carpenters without the angst, these four twenty-somethings made music for people the sum of their combined ages. </p>
 ]]></content:encoded>
 					

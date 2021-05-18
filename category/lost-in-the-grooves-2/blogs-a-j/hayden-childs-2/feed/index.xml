@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -30,8 +30,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[While I was out of town at my parents&#8217; farm near Samson, Alabama, the other editors of The High Hat, aka the best damn magazine on the web, managed to pull together Issue No. 9 without any help from yours truly at all. This goes without saying, but I&#8217;m going to say it, anyway: they &#8230; <a href="https://www.lostinthegrooves.com/2007/11/06/while-i-was-out-of/" class="more-link">Continue reading<span class="screen-reader-text"> "While I was out of"</span></a>]]></description>
-										<content:encoded><![CDATA[<div><a href="http://www.thehighhat.com/images/009/menubar01.gif"><img style="WIDTH: 150px; CURSOR: hand" alt="" src="http://www.thehighhat.com/images/009/menubar01.gif" border="0" /></a></p>
-<div><a href="http://www.thehighhat.com/images/HH_front09_01.gif"></a><a href="http://www.thehighhat.com/images/009/menubar11.gif"><img style="WIDTH: 150px; CURSOR: hand" alt="" src="http://www.thehighhat.com/images/009/menubar11.gif" border="0" /></a></div>
+										<content:encoded><![CDATA[<div><a href="https://www.thehighhat.com/images/009/menubar01.gif"><img style="WIDTH: 150px; CURSOR: hand" alt="" src="https://www.thehighhat.com/images/009/menubar01.gif" border="0" /></a></p>
+<div><a href="https://www.thehighhat.com/images/HH_front09_01.gif"></a><a href="https://www.thehighhat.com/images/009/menubar11.gif"><img style="WIDTH: 150px; CURSOR: hand" alt="" src="https://www.thehighhat.com/images/009/menubar11.gif" border="0" /></a></div>
 <p></p>
 <div></div>
 <div></div>
@@ -49,10 +49,10 @@
 <div></div>
 <div></div>
 <div></div>
-<div><a href="http://www.thehighhat.com/images/HH_front09_07.gif"></a></div>
-<p>While I was out of town at my parents&#8217; farm near Samson, Alabama, the other editors of <a href="http://www.thehighhat.com/">The High Hat</a>, aka the best damn magazine on the web, managed to pull together Issue No. 9 without any help from yours truly at all. This goes without saying, but I&#8217;m going to say it, anyway: they are mindblowingly, forkbendingly, breathtakingly, worldshakingly awesome people, and it&#8217;s due to their smarts and diligence that every issue of the Hat is better than the last. </p>
-<p>This one is dedicated to places, and is chock-full of stand-out articles, including <a href="http://www.thehighhat.com/Potlatch/009/jahneke_911.html">Erika Jahneke on the ghosts of 9/11 in <em>Rescue Me </em>and <em>World Trade Center</em></a>, <a href="http://www.thehighhat.com/Potlatch/009/mckenna_trip.html">Shauna McKenna on <em>Roma </em>and <em>Tokyo-Ga</em></a>, and tons of brilliance, especially from the extra-prolific Phil Nugent and Steve Hicken.</p>
-<p>I contributed<a href="http://www.thehighhat.com/Nitrate/009/childs_alone.html"> a semi-considered article on the films <em>Gerry </em>and <em>Grizzly Man </em>and the tv shows <em>Survivorman </em>and <em>Man Vs. Wild</em></a>, all of which deal with little people lost in the huge indifference of Nature. Go check it out. </p>
+<div><a href="https://www.thehighhat.com/images/HH_front09_07.gif"></a></div>
+<p>While I was out of town at my parents&#8217; farm near Samson, Alabama, the other editors of <a href="https://www.thehighhat.com/">The High Hat</a>, aka the best damn magazine on the web, managed to pull together Issue No. 9 without any help from yours truly at all. This goes without saying, but I&#8217;m going to say it, anyway: they are mindblowingly, forkbendingly, breathtakingly, worldshakingly awesome people, and it&#8217;s due to their smarts and diligence that every issue of the Hat is better than the last. </p>
+<p>This one is dedicated to places, and is chock-full of stand-out articles, including <a href="https://www.thehighhat.com/Potlatch/009/jahneke_911.html">Erika Jahneke on the ghosts of 9/11 in <em>Rescue Me </em>and <em>World Trade Center</em></a>, <a href="https://www.thehighhat.com/Potlatch/009/mckenna_trip.html">Shauna McKenna on <em>Roma </em>and <em>Tokyo-Ga</em></a>, and tons of brilliance, especially from the extra-prolific Phil Nugent and Steve Hicken.</p>
+<p>I contributed<a href="https://www.thehighhat.com/Nitrate/009/childs_alone.html"> a semi-considered article on the films <em>Gerry </em>and <em>Grizzly Man </em>and the tv shows <em>Survivorman </em>and <em>Man Vs. Wild</em></a>, all of which deal with little people lost in the huge indifference of Nature. Go check it out. </p>
 <p>On another note, if you left me a comment asking for an email and haven&#8217;t received one yet, please let me know. I&#8217;ve tried to answer all the emails, but I&#8217;ve been a bit extra-scattered and smothered and even a little covered lately, what with my book in endgame plus stress of family tragedy and distractions related to our little nuclear family. </p>
 </div>
 ]]></content:encoded>
@@ -96,9 +96,9 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[I&#8217;ve long thought Deborah Solomon was a terrible interviewer. Her short fluffy NYT Magazine interviews have a strangely aloof quality to them, as if there is a disconnect between what is asked and what is answered. As it turns out, that appears to be the case. This is ok for satirists like Colbert and the &#8230; <a href="https://www.lostinthegrooves.com/2007/10/16/ive-long-thought-deborah-solomon-was-a/" class="more-link">Continue reading<span class="screen-reader-text"> "I&#8217;ve long thought Deborah Solomon was a"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>I&#8217;ve long thought Deborah Solomon was a terrible interviewer. Her short fluffy NYT Magazine interviews have a strangely aloof quality to them, as if there is a disconnect between what is asked and what is answered. As it turns out, <a href="http://www.nytimes.com/2007/10/14/opinion/14pubed.html?_r=4&amp;n=Top/Opinion/The%20Public%20Editor&amp;oref=slogin&amp;pagewanted=print&amp;oref=slogin">that appears to be the case</a>. This is ok for satirists like Colbert and the Daily Show guys, but it&#8217;s not so great for the Grey Lady.</p>
-<p>I also want to point out Phil Nugent&#8217;s <a href="http://philnugentexperience.blogspot.com/2007/10/living-dream.html">clear-eyed analysis of the Bush Administration&#8217;s weird ethical gymnastics</a>. It&#8217;s a thing of truth and beauty.</p>
-<p>Last, but definitely not least, the 33 1/3 blog has <a href="http://33third.blogspot.com/2007/10/tom-waits-swordfishtrombones.html">an excerpt from David Smay&#8217;s upcoming book on <em>Swordfishtrombones</em></a>.  Smay is not just a good friend and a hell of a writer; he&#8217;s the guy who first gave me a break when he and Kim Cooper accepted my submissions to <u><a href="http://www.amazon.com/Lost-Grooves-Scrams-Capricious-Missed/dp/0415969980/ref=pd_bbs_sr_1/104-7931346-9736766?ie=UTF8&amp;s=books&amp;qid=1192563899&amp;sr=8-1">Lost In The Grooves</a></u>.  This excerpt excites me quite a bit.  I think it&#8217;s going to be a hell of a great book, and I&#8217;m looking forward to seeing any parallels between <a href="http://www.amazon.com/Tom-Waits-Swordfishtrombones-33-3/dp/0826427820/ref=sr_1_1/104-7931346-9736766?ie=UTF8&amp;s=books&amp;qid=1192563996&amp;sr=1-1">his work </a>and <a href="http://www.amazon.com/Richard-Linda-Thompsons-Shoot-Lights/dp/082642791X/ref=sr_1_1/104-7931346-9736766?ie=UTF8&amp;s=books&amp;qid=1192564032&amp;sr=1-1">my own</a>.</p>
+										<content:encoded><![CDATA[<p>I&#8217;ve long thought Deborah Solomon was a terrible interviewer. Her short fluffy NYT Magazine interviews have a strangely aloof quality to them, as if there is a disconnect between what is asked and what is answered. As it turns out, <a href="https://www.nytimes.com/2007/10/14/opinion/14pubed.html?_r=4&amp;n=Top/Opinion/The%20Public%20Editor&amp;oref=slogin&amp;pagewanted=print&amp;oref=slogin">that appears to be the case</a>. This is ok for satirists like Colbert and the Daily Show guys, but it&#8217;s not so great for the Grey Lady.</p>
+<p>I also want to point out Phil Nugent&#8217;s <a href="https://philnugentexperience.blogspot.com/2007/10/living-dream.html">clear-eyed analysis of the Bush Administration&#8217;s weird ethical gymnastics</a>. It&#8217;s a thing of truth and beauty.</p>
+<p>Last, but definitely not least, the 33 1/3 blog has <a href="https://33third.blogspot.com/2007/10/tom-waits-swordfishtrombones.html">an excerpt from David Smay&#8217;s upcoming book on <em>Swordfishtrombones</em></a>.  Smay is not just a good friend and a hell of a writer; he&#8217;s the guy who first gave me a break when he and Kim Cooper accepted my submissions to <u><a href="https://www.amazon.com/Lost-Grooves-Scrams-Capricious-Missed/dp/0415969980/ref=pd_bbs_sr_1/104-7931346-9736766?ie=UTF8&amp;s=books&amp;qid=1192563899&amp;sr=8-1">Lost In The Grooves</a></u>.  This excerpt excites me quite a bit.  I think it&#8217;s going to be a hell of a great book, and I&#8217;m looking forward to seeing any parallels between <a href="https://www.amazon.com/Tom-Waits-Swordfishtrombones-33-3/dp/0826427820/ref=sr_1_1/104-7931346-9736766?ie=UTF8&amp;s=books&amp;qid=1192563996&amp;sr=1-1">his work </a>and <a href="https://www.amazon.com/Richard-Linda-Thompsons-Shoot-Lights/dp/082642791X/ref=sr_1_1/104-7931346-9736766?ie=UTF8&amp;s=books&amp;qid=1192564032&amp;sr=1-1">my own</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/10/16/ive-long-thought-deborah-solomon-was-a/feed/</wfw:commentRss>
@@ -117,7 +117,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Great New Yorker article about David Simon, the genius behind &#8220;The Wire&#8221;. It&#8217;s long but absolutely necessary for fans.]]></description>
-										<content:encoded><![CDATA[<p><a href="http://www.newyorker.com/reporting/2007/10/22/071022fa_fact_talbot?currentPage=all">Great New Yorker article about David Simon, the genius behind &#8220;The Wire&#8221;.  It&#8217;s long but absolutely necessary for fans.</a></p>
+										<content:encoded><![CDATA[<p><a href="https://www.newyorker.com/reporting/2007/10/22/071022fa_fact_talbot?currentPage=all">Great New Yorker article about David Simon, the genius behind &#8220;The Wire&#8221;.  It&#8217;s long but absolutely necessary for fans.</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/10/15/great-new-yorker-article-about/feed/</wfw:commentRss>
@@ -138,7 +138,7 @@
 					<description><![CDATA[&#8220;I&#8217;m not trashing your book. I&#8217;m trashing your philosophy of life.&#8221; This may be the best Jon Stewart interview yet. Watch him deconstruct Chris Matthews.]]></description>
 										<content:encoded><![CDATA[<p>&#8220;I&#8217;m not trashing your book. I&#8217;m trashing your philosophy of life.&#8221;</p>
 <p>This may be the best Jon Stewart interview yet. Watch him deconstruct Chris Matthews.</p>
-<p><embed name="comedy_central_player" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" src="http://www.comedycentral.com/sitewide/video_player/view/default/swf.jhtml" width="332" height="316" type="application/x-shockwave-flash" flashvars="videoId=104548" quality="high" bgcolor="#cccccc" allowscriptaccess="always" allownetworking="external"></embed></p>
+<p><embed name="comedy_central_player" pluginspage="https://www.macromedia.com/go/getflashplayer" align="middle" src="https://www.comedycentral.com/sitewide/video_player/view/default/swf.jhtml" width="332" height="316" type="application/x-shockwave-flash" flashvars="videoId=104548" quality="high" bgcolor="#cccccc" allowscriptaccess="always" allownetworking="external"></embed></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/10/03/im-not-trashing-your-book-im/feed/</wfw:commentRss>
@@ -158,7 +158,7 @@
 
 					<description><![CDATA[Who has time to maintain a blog? Not me! I just wanted to pop in and mention that my friend Phil Freeman has an excellent opinion piece in today&#8217;s LA Times on the continued viability of the album as a coherent artwork. But he says it better. He&#8217;d almost have to.]]></description>
 										<content:encoded><![CDATA[<p>Who has time to maintain a blog?  Not me!</p>
-<p>I just wanted to pop in and mention that <a href="http://www.latimes.com/news/opinion/la-oe-freeman20sep20,0,509425.story">my friend Phil Freeman has an excellent opinion piece in today&#8217;s LA Times on the continued viability of the album as a coherent artwork</a>.  But he says it better.  He&#8217;d almost have to.</p>
+<p>I just wanted to pop in and mention that <a href="https://www.latimes.com/news/opinion/la-oe-freeman20sep20,0,509425.story">my friend Phil Freeman has an excellent opinion piece in today&#8217;s LA Times on the continued viability of the album as a coherent artwork</a>.  But he says it better.  He&#8217;d almost have to.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/09/20/who-has-time-to-maintain-a-blog-not/feed/</wfw:commentRss>
@@ -177,7 +177,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><a href="http://bp3.blogger.com/_OPbDddmMqUk/Rs3QFbhvBcI/AAAAAAAAAAk/J3UOhyrD_Vo/s1600-h/gen-1.jpg"><img id="BLOGGER_PHOTO_ID_5101962744587814338" style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand" alt="" src="http://bp3.blogger.com/_OPbDddmMqUk/Rs3QFbhvBcI/AAAAAAAAAAk/J3UOhyrD_Vo/s320/gen-1.jpg" border="0" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://bp3.blogger.com/_OPbDddmMqUk/Rs3QFbhvBcI/AAAAAAAAAAk/J3UOhyrD_Vo/s1600-h/gen-1.jpg"><img id="BLOGGER_PHOTO_ID_5101962744587814338" style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand" alt="" src="https://bp3.blogger.com/_OPbDddmMqUk/Rs3QFbhvBcI/AAAAAAAAAAk/J3UOhyrD_Vo/s320/gen-1.jpg" border="0" /></a></p>
 <div></div>
 ]]></content:encoded>
 					
@@ -198,9 +198,9 @@
 
 					<description><![CDATA[Geneva Elise Barrett Childs Born 5:35 am, 8/2. 8 lbs 1 oz. She came about ~30 seconds after the water broke with no one in the room but a very surprised nurse (who&#8217;d just arrived), the doula, and me. The nurse was next to me, struggling to pull on her glove, cursing, maybe stressed. I &#8230; <a href="https://www.lostinthegrooves.com/2007/08/05/geneva-elise-barrett-childsborn-535-am-82/" class="more-link">Continue reading<span class="screen-reader-text"> "Geneva Elise Barrett ChildsBorn 5:35 am, 8/2.  &#8230;"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Geneva Elise Barrett Childs</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_OPbDddmMqUk/RrVMIllrSWI/AAAAAAAAAAM/fq8YcqQKqjc/s1600-h/August+4,+2007+129.JPG"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://bp0.blogger.com/_OPbDddmMqUk/RrVMIllrSWI/AAAAAAAAAAM/fq8YcqQKqjc/s320/August+4,+2007+129.JPG" alt="" id="BLOGGER_PHOTO_ID_5095062263852386658" border="0" /></a><br />Born 5:35 am, 8/2.  8 lbs 1 oz.</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://bp0.blogger.com/_OPbDddmMqUk/RrVMIllrSWI/AAAAAAAAAAM/fq8YcqQKqjc/s1600-h/August+4,+2007+129.JPG"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="https://bp0.blogger.com/_OPbDddmMqUk/RrVMIllrSWI/AAAAAAAAAAM/fq8YcqQKqjc/s320/August+4,+2007+129.JPG" alt="" id="BLOGGER_PHOTO_ID_5095062263852386658" border="0" /></a><br />Born 5:35 am, 8/2.  8 lbs 1 oz.</p>
 <p>She came about ~30 seconds after the water broke with no one in the room but a very surprised nurse (who&#8217;d just arrived), the doula, and me.  The nurse was next to me, struggling to pull on her glove, cursing, maybe stressed.  I was telling her to calm down, but then I looked down and saw my little girl&#8217;s head, already out.   I reached down and caught her as she was born into the world, and that was one of the most beautiful moments of my life.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_OPbDddmMqUk/RrVNGllrSXI/AAAAAAAAAAU/cFixwDtQfVQ/s1600-h/August+4,+2007+090.JPG"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://bp0.blogger.com/_OPbDddmMqUk/RrVNGllrSXI/AAAAAAAAAAU/cFixwDtQfVQ/s320/August+4,+2007+090.JPG" alt="" id="BLOGGER_PHOTO_ID_5095063329004276082" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp3.blogger.com/_OPbDddmMqUk/RrVOdVlrSYI/AAAAAAAAAAc/oIONclSbqtQ/s1600-h/August+4,+2007+071.JPG"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://bp3.blogger.com/_OPbDddmMqUk/RrVOdVlrSYI/AAAAAAAAAAc/oIONclSbqtQ/s320/August+4,+2007+071.JPG" alt="" id="BLOGGER_PHOTO_ID_5095064819357927810" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://bp0.blogger.com/_OPbDddmMqUk/RrVNGllrSXI/AAAAAAAAAAU/cFixwDtQfVQ/s1600-h/August+4,+2007+090.JPG"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="https://bp0.blogger.com/_OPbDddmMqUk/RrVNGllrSXI/AAAAAAAAAAU/cFixwDtQfVQ/s320/August+4,+2007+090.JPG" alt="" id="BLOGGER_PHOTO_ID_5095063329004276082" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://bp3.blogger.com/_OPbDddmMqUk/RrVOdVlrSYI/AAAAAAAAAAc/oIONclSbqtQ/s1600-h/August+4,+2007+071.JPG"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="https://bp3.blogger.com/_OPbDddmMqUk/RrVOdVlrSYI/AAAAAAAAAAc/oIONclSbqtQ/s320/August+4,+2007+071.JPG" alt="" id="BLOGGER_PHOTO_ID_5095064819357927810" border="0" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/08/05/geneva-elise-barrett-childsborn-535-am-82/feed/</wfw:commentRss>
@@ -220,7 +220,7 @@
 
 					<description><![CDATA[This makes me incredibly happy. The song is Can&#8217;s &#8220;Vitamin C&#8221;. Krautrock for the b-boys!]]></description>
 										<content:encoded><![CDATA[<p>This makes me incredibly happy.  The song is Can&#8217;s &#8220;Vitamin C&#8221;.  Krautrock for the b-boys!</p>
-<p><embed src="http://www.youtube.com/v/1pwHQlv4tuA" width="425" height="350" type="application/x-shockwave-flash" wmode="transparent"></embed></p>
+<p><embed src="https://www.youtube.com/v/1pwHQlv4tuA" width="425" height="350" type="application/x-shockwave-flash" wmode="transparent"></embed></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.lostinthegrooves.com/2007/07/19/this-makes-me-incredibly-happy-the-song-is-cans/feed/</wfw:commentRss>
