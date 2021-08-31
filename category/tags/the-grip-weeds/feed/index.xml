@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Grip Weeds &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/the-grip-weeds/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/the-grip-weeds/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 01 Jan 2009 21:58:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Ten You May Have Missed In 2008</title>
-		<link>https://www.lostinthegrooves.com/2009/01/01/gary63/</link>
-					<comments>https://www.lostinthegrooves.com/2009/01/01/gary63/#comments</comments>
+		<link>/2009/01/01/gary63/</link>
+					<comments>/2009/01/01/gary63/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Thu, 01 Jan 2009 21:58:50 +0000</pubDate>
@@ -40,7 +40,7 @@
 		<category><![CDATA[The Squires Of The Subterrain]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[If any of the following remarkable soundsgot lost from your grooves last year, by all meanshesitate no longerin lending both ears repeatedlytowards&#8230;.. &#160; 1. APARTMENT Sparkle Bicycle (Waikiki Record) 2. SCOTTY CAMPBELL AND HIS WARDENAIRES SmokinÃ¢â‚¬â„¢ and DrinkinÃ¢â‚¬â„¢ (Black Sparrow Records) 3. JOHNNY DOWD A DrunkardÃ¢â‚¬â„¢s Masterpiece (BongoBeat Records) 4. GARFIELDS BIRTHDAY Let Them Eat &#8230; <a href="https://www.lostinthegrooves.com/2009/01/01/gary63/" class="more-link">Continue reading<span class="screen-reader-text"> "Ten You May Have Missed In 2008"</span></a>]]></description>
+					<description><![CDATA[If any of the following remarkable soundsgot lost from your grooves last year, by all meanshesitate no longerin lending both ears repeatedlytowards&#8230;.. &#160; 1. APARTMENT Sparkle Bicycle (Waikiki Record) 2. SCOTTY CAMPBELL AND HIS WARDENAIRES SmokinÃ¢â‚¬â„¢ and DrinkinÃ¢â‚¬â„¢ (Black Sparrow Records) 3. JOHNNY DOWD A DrunkardÃ¢â‚¬â„¢s Masterpiece (BongoBeat Records) 4. GARFIELDS BIRTHDAY Let Them Eat &#8230; <a href="/2009/01/01/gary63/" class="more-link">Continue reading<span class="screen-reader-text"> "Ten You May Have Missed In 2008"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.garypiggold.com/images/2008TenLITG.jpg" alt="" width="260" height="220" /></p>
 <p>If <em>any</em> of the following remarkable sounds<br />got lost from your grooves last year,</p>
 <p>by all means<br />hesitate no longer<br />in lending both ears repeatedly<br />towards&#8230;..</p>
@@ -63,15 +63,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2009/01/01/gary63/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/01/01/gary63/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Power, Pop, and CBGB</title>
-		<link>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/#comments</comments>
+		<link>/2006/05/08/power-pop-and-cbgb/</link>
+					<comments>/2006/05/08/power-pop-and-cbgb/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 08 May 2006 17:42:54 +0000</pubDate>
@@ -91,7 +91,7 @@
 <p>May 18th <br />at&nbsp; <a target="_self" href="https://www.cbgb.com/"><strong>CBGB </strong></a><br />315 Bowery<br />NY, NY </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/08/power-pop-and-cbgb/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

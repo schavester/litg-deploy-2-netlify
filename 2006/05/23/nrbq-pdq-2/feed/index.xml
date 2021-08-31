@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: NRBQ PDQ 2	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/</link>
+	<atom:link href="/2006/05/23/nrbq-pdq-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/05/23/nrbq-pdq-2/</link>
 	<description></description>
 	<lastBuildDate>Tue, 23 May 2006 16:12:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Tony Sclafani		</title>
-		<link>https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/#comment-13</link>
+		<link>/2006/05/23/nrbq-pdq-2/#comment-13</link>
 
 		<dc:creator><![CDATA[Tony Sclafani]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<item>
 		<title>
 		By: pete		</title>
-		<link>https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/#comment-23</link>
+		<link>/2006/05/23/nrbq-pdq-2/#comment-23</link>
 
 		<dc:creator><![CDATA[pete]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

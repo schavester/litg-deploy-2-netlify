@@ -9,8 +9,8 @@
 
 <channel>
 	<title>new releases &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/new-releases/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/new-releases/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 01 May 2008 01:12:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Lost Grooves newly released for April 29, 2008</title>
-		<link>https://www.lostinthegrooves.com/2008/05/01/lostgrooves42908/</link>
-					<comments>https://www.lostinthegrooves.com/2008/05/01/lostgrooves42908/#comments</comments>
+		<link>/2008/05/01/lostgrooves42908/</link>
+					<comments>/2008/05/01/lostgrooves42908/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 01 May 2008 01:12:46 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[reissues]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Peel an eye and ear for these interesting new releases and reissues&#8230; The Archies, Sugar Sugar: Greatest Hits The Chipmunks, Sing the Beatles Hits James Brown, Playlist Plus Steve Earle, Copperhead Road [EXTRA TRACKS] [ORIGINAL RECORDING REMASTERED] Fairport Convention, Meet on the Ledge [LIVE] The Flamin&#39; Groovies, Flamingo Robert Forster, The Evangelist David Johansen, David &#8230; <a href="https://www.lostinthegrooves.com/2008/05/01/lostgrooves42908/" class="more-link">Continue reading<span class="screen-reader-text"> "Lost Grooves newly released for April 29, 2008"</span></a>]]></description>
+					<description><![CDATA[Peel an eye and ear for these interesting new releases and reissues&#8230; The Archies, Sugar Sugar: Greatest Hits The Chipmunks, Sing the Beatles Hits James Brown, Playlist Plus Steve Earle, Copperhead Road [EXTRA TRACKS] [ORIGINAL RECORDING REMASTERED] Fairport Convention, Meet on the Ledge [LIVE] The Flamin&#39; Groovies, Flamingo Robert Forster, The Evangelist David Johansen, David &#8230; <a href="/2008/05/01/lostgrooves42908/" class="more-link">Continue reading<span class="screen-reader-text"> "Lost Grooves newly released for April 29, 2008"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><strong>Peel an eye and ear for these interesting new releases and reissues&#8230;</strong></p>
 <p>The Archies, <a href="https://www.amazon.com/exec/obidos/ASIN/B0013XW9Y8/ref=nosim/bubblegumbook"><strong class="sans"><span>Sugar Sugar: Greatest Hits</span></strong></a></p>
 <p>The Chipmunks, <a href="https://www.amazon.com/exec/obidos/ASIN/B0015XL7SA/ref=nosim/bubblegumbook"><strong class="sans"><span>Sing the Beatles Hits</span></strong></a></p>
@@ -55,7 +55,7 @@
 <p><strong class="sans"><span><a href="https://www.amazon.com/exec/obidos/ASIN/B0016CP1G4/ref=nosim/bubblegumbook"></a>Ã‚Â  </span></strong></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/05/01/lostgrooves42908/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/05/01/lostgrooves42908/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

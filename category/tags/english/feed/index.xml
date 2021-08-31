@@ -9,8 +9,8 @@
 
 <channel>
 	<title>english &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/english/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/english/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 31 Mar 2007 19:52:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Onethirtyeight &#8211; The Sister CD (Tuesdays Music)</title>
-		<link>https://www.lostinthegrooves.com/2007/03/31/onethirtyeight/</link>
-					<comments>https://www.lostinthegrooves.com/2007/03/31/onethirtyeight/#comments</comments>
+		<link>/2007/03/31/onethirtyeight/</link>
+					<comments>/2007/03/31/onethirtyeight/#comments</comments>
 		
 		<dc:creator><![CDATA[Kkuvo]]></dc:creator>
 		<pubDate>Sat, 31 Mar 2007 19:52:08 +0000</pubDate>
@@ -32,11 +32,11 @@
 		<category><![CDATA[Kkuvo's Scram reviews]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Only 6 tracks long, but the simple sonic atmosphere of The Sister has that slow timeless feeling of a journey on a leaky paddleboat through a swamp or an amusement park ride, with a mumbling old man and his sad lilÃ¢â‚¬â„¢ granddaughter as your underpaid tour guides. Is this a Funeral March record? I donÃ¢â‚¬â„¢t &#8230; <a href="https://www.lostinthegrooves.com/2007/03/31/onethirtyeight/" class="more-link">Continue reading<span class="screen-reader-text"> "Onethirtyeight &#8211; The Sister CD (Tuesdays Music)"</span></a>]]></description>
+					<description><![CDATA[Only 6 tracks long, but the simple sonic atmosphere of The Sister has that slow timeless feeling of a journey on a leaky paddleboat through a swamp or an amusement park ride, with a mumbling old man and his sad lilÃ¢â‚¬â„¢ granddaughter as your underpaid tour guides. Is this a Funeral March record? I donÃ¢â‚¬â„¢t &#8230; <a href="/2007/03/31/onethirtyeight/" class="more-link">Continue reading<span class="screen-reader-text"> "Onethirtyeight &#8211; The Sister CD (Tuesdays Music)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><span><span style="font-family: Times New Roman; font-size: 16px" class="Apple-style-span">Only 6 tracks long, but the simple sonic atmosphere of The Sister has that slow timeless feeling of a journey on a leaky paddleboat through a swamp or an amusement park ride, with a mumbling old man and his sad lilÃ¢â‚¬â„¢ granddaughter as your underpaid tour guides. Is this a Funeral March record? I donÃ¢â‚¬â„¢t think so. YouÃ¢â‚¬â„¢ll feel bad about the fate of the curious Squid Boy, and be glad to move on to another track until you realize itÃ¢â‚¬â„¢s about Sssix Foot Albino Penguins! YouÃ¢â‚¬â„¢ll wonder if the Earl On Mars doesnÃ¢â‚¬â„¢t really know heÃ¢â‚¬â„¢s putting on a show, and then google Alexandra Elsbeth to find out how to bring her flowers! All the songs were written and performed by one guy named Dan who is very good at pulling out the dark somber moods from his guitars and keys. Highly recommended, even if you already are depressed.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/03/31/onethirtyeight/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/31/onethirtyeight/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

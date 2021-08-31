@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Col. Knowledge &#038; the Lickity-Splits &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/col-knowledge-the-lickity-splits/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/col-knowledge-the-lickity-splits/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Mar 2006 08:08:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Fall In Love All Over Again</title>
-		<link>https://www.lostinthegrooves.com/2006/03/17/fall-in-love-all-over-again/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/17/fall-in-love-all-over-again/#comments</comments>
+		<link>/2006/03/17/fall-in-love-all-over-again/</link>
+					<comments>/2006/03/17/fall-in-love-all-over-again/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Fri, 17 Mar 2006 08:08:46 +0000</pubDate>
@@ -39,7 +39,7 @@
 <p>(tell &#8217;em Gary Pig Gold sentcha)&hellip;..</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/17/fall-in-love-all-over-again/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/17/fall-in-love-all-over-again/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

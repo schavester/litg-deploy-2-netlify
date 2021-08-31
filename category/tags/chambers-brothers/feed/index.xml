@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Chambers Brothers &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/chambers-brothers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/chambers-brothers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 11 Apr 2008 16:08:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Betty Davis&#8217; Thighs</title>
-		<link>https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/#comments</comments>
+		<link>/2008/04/11/betty-davis-thighs/</link>
+					<comments>/2008/04/11/betty-davis-thighs/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 16:08:10 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[Sly Stone]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Nothing like some great obscure soul to get your body moving. Betty Davis &#8211; Betty Davis Betty Davis &#8211; They Say I&#8217;m Different Light In the Attic Stand up and shout hallelujah! Two of the greatest lost soul albums of the &#8217;70&#8217;s have finally been reissued after way too many years out of print. Kudos &#8230; <a href="https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/" class="more-link">Continue reading<span class="screen-reader-text"> "Betty Davis&#8217; Thighs"</span></a>]]></description>
+					<description><![CDATA[Nothing like some great obscure soul to get your body moving. Betty Davis &#8211; Betty Davis Betty Davis &#8211; They Say I&#8217;m Different Light In the Attic Stand up and shout hallelujah! Two of the greatest lost soul albums of the &#8217;70&#8217;s have finally been reissued after way too many years out of print. Kudos &#8230; <a href="/2008/04/11/betty-davis-thighs/" class="more-link">Continue reading<span class="screen-reader-text"> "Betty Davis&#8217; Thighs"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>   Nothing like some great obscure soul to get your body moving.</p>
 <p>   Betty Davis &#8211; Betty Davis<br />
    Betty Davis &#8211; They Say I&#8217;m   Different<br />
@@ -49,7 +49,7 @@
 <p>   Fans of funk need these albums in their collections. It isn&#8217;t an issue of &#8220;wanting&#8221; these reissues &#8211; if you are a fan of funk and soul music these are albums you simply have to acquire or settle for having a mediocre collection. You wouldn&#8217;t want that, would you? Then rush to your local store and order this right away. You will not be sorry &#8211; this is some of the most blazing funk of all time!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/11/betty-davis-thighs/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

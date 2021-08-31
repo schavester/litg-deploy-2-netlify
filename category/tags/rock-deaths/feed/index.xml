@@ -9,8 +9,8 @@
 
 <channel>
 	<title>rock deaths &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/rock-deaths/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/rock-deaths/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 04 Aug 2006 19:19:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Arthur Lee Has Died</title>
-		<link>https://www.lostinthegrooves.com/2006/08/04/arthur-lee-has-died/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/04/arthur-lee-has-died/#respond</comments>
+		<link>/2006/08/04/arthur-lee-has-died/</link>
+					<comments>/2006/08/04/arthur-lee-has-died/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 04 Aug 2006 19:19:50 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[rock deaths]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Love leader Arthur Lee died yesterday in Memphis from the leukemia he has been fighting all year. He was 61. Growing up in Los Angeles, one heard many strange stories about Arthur, who was already pretty far gone by the time I discovered Forever Changes and realized all the astonishing things that this homegrown black &#8230; <a href="https://www.lostinthegrooves.com/2006/08/04/arthur-lee-has-died/" class="more-link">Continue reading<span class="screen-reader-text"> "Arthur Lee Has Died"</span></a>]]></description>
+					<description><![CDATA[Love leader Arthur Lee died yesterday in Memphis from the leukemia he has been fighting all year. He was 61. Growing up in Los Angeles, one heard many strange stories about Arthur, who was already pretty far gone by the time I discovered Forever Changes and realized all the astonishing things that this homegrown black &#8230; <a href="/2006/08/04/arthur-lee-has-died/" class="more-link">Continue reading<span class="screen-reader-text"> "Arthur Lee Has Died"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/exec/obidos/ASIN/B000058983/ref=nosim/bubblegumbook"><img border="0" alt="Small Image" src="https://images.amazon.com/images/P/B000058983.01.TZZZZZZZ.jpg" /></a></p>
 <p>Love leader Arthur Lee died yesterday in Memphis from the leukemia he has been fighting all year. He was 61.</p>
 <p>Growing up in Los Angeles, one heard many strange stories about Arthur, who was already pretty far gone by the time I discovered <em>Forever Changes</em> and realized all the astonishing things that this homegrown black psychedelicist had done with the genre. Paired with Bryan MacLean, a beautiful blonde Beverly Hills boy with a jones for Broadway show tunes, this smart, weird, twitchy kid transformed pop with an aggressive ease that made it all look effortless. Black people didn&#8217;t look or act or sing like that in the sixties; Arthur Lee was so original, he might as well have been an alien. </p>
@@ -50,7 +50,7 @@
 <p> <a href="https://www.amazon.com/exec/obidos/ASIN/1900924595/ref=nosim/bubblegumbook"><img border="0" alt="Small Image" src="https://images.amazon.com/images/P/1900924595.01.TZZZZZZZ.jpg" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/04/arthur-lee-has-died/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/04/arthur-lee-has-died/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Terry Manning &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/terry-manning/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/terry-manning/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 17 May 2007 15:18:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Manning Overboard</title>
-		<link>https://www.lostinthegrooves.com/2007/05/17/manning-overboard/</link>
-					<comments>https://www.lostinthegrooves.com/2007/05/17/manning-overboard/#comments</comments>
+		<link>/2007/05/17/manning-overboard/</link>
+					<comments>/2007/05/17/manning-overboard/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Thu, 17 May 2007 15:18:52 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Terry Manning]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Over the past year or so, I&#8217;ve gotten into some real esoteric music. Since my refusal of buying over the Internet means that sometimes I can&#8217;t find anything that strikes me at the local Record Hut, I have begun buying the weirdest thing I can find in the store at any time, just to test &#8230; <a href="https://www.lostinthegrooves.com/2007/05/17/manning-overboard/" class="more-link">Continue reading<span class="screen-reader-text"> "Manning Overboard"</span></a>]]></description>
+					<description><![CDATA[Over the past year or so, I&#8217;ve gotten into some real esoteric music. Since my refusal of buying over the Internet means that sometimes I can&#8217;t find anything that strikes me at the local Record Hut, I have begun buying the weirdest thing I can find in the store at any time, just to test &#8230; <a href="/2007/05/17/manning-overboard/" class="more-link">Continue reading<span class="screen-reader-text"> "Manning Overboard"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>    Over the past year or so, I&#8217;ve gotten into some real esoteric music. Since my refusal of buying over the Internet means that sometimes I can&#8217;t find anything that strikes me at the local Record Hut, I have begun buying the weirdest thing I can find in the store at any time, just to test my musical limits. It has led me to a few great discoveries and a lot of things I&#8217;ll never listen to again, though I do feel enlightened after giving them a try. I recommend trying it sometime just to expand your musical horizons and to explore some different influences.</p>
 <p>    The album below, though I got it from a record company to review, is the sort of thing I would pick up during one of these binges. Made by a well-known engineer and producer, it is nonetheless one of the weirdest rock records you are going to find. I am not sure if I will ever listen to it again, but it blew my mind when I checked it out and it was a very, very interesting listen.</p>
 <p>    Check it out:</p>
@@ -48,7 +48,7 @@ Sunbeam Records</p>
 <p>    The Music Nerd Knows&#8230;&#8230;..free stuff! </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/05/17/manning-overboard/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/17/manning-overboard/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		

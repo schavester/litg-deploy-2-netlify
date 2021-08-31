@@ -9,8 +9,8 @@
 
 <channel>
 	<title>vashti bunyan &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/vashti-bunyan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/vashti-bunyan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 30 Apr 2006 05:53:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>New issue of Scram hot off the presses</title>
-		<link>https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/#comments</comments>
+		<link>/2006/04/30/new-issue-of-scram-hot-off-the-presses/</link>
+					<comments>/2006/04/30/new-issue-of-scram-hot-off-the-presses/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sun, 30 Apr 2006 05:53:16 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[vashti bunyan]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[It is a banner day: I just got back from picking up Scram 22 from the printer, and I&#8217;m dizzy with ink fumes. The new issue of the journal of unpopular culture includes a feature comprised of the interviews that informed the Ruston section of my 33 1/3 book about Neutral Millk Hotel. Robert Schneider, &#8230; <a href="https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/" class="more-link">Continue reading<span class="screen-reader-text"> "New issue of Scram hot off the presses"</span></a>]]></description>
+					<description><![CDATA[It is a banner day: I just got back from picking up Scram 22 from the printer, and I&#8217;m dizzy with ink fumes. The new issue of the journal of unpopular culture includes a feature comprised of the interviews that informed the Ruston section of my 33 1/3 book about Neutral Millk Hotel. Robert Schneider, &#8230; <a href="/2006/04/30/new-issue-of-scram-hot-off-the-presses/" class="more-link">Continue reading<span class="screen-reader-text"> "New issue of Scram hot off the presses"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>It is a banner day: I just got back from picking up Scram 22 from the printer, and I&#8217;m dizzy with ink fumes. </p>
 <p> The new issue of the journal of unpopular culture includes a feature comprised of the interviews that informed the Ruston section of my 33 1/3 book about Neutral Millk Hotel. Robert Schneider, Laura Carter, Julian Koster and Scott Spillane all speak at greater length than they did in the book about E6 pre-Athens, and Robert shares some live photos from 1996 that I think have not been published previously.</p>
 <p> Also in this issue: nature-loving folkie Vashti Bunyan, gay glam-punk Paul &quot;Baby Bones&quot; Vanase, private librarian and African literary scholar Kurt Thometz, Chicago bluesman Nick Gravenites and session piano cat Lincoln Mayorga, plus scads of reviews.</p>
@@ -44,7 +44,7 @@
 <p> thanks,<br /> Kim<br /> Editrix</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/30/new-issue-of-scram-hot-off-the-presses/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

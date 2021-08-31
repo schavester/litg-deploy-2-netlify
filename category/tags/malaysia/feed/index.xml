@@ -9,8 +9,8 @@
 
 <channel>
 	<title>malaysia &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/malaysia/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/malaysia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 21 Mar 2006 20:21:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Truck &#8211; Surprise, Surprise</title>
-		<link>https://www.lostinthegrooves.com/2006/03/21/truck-surprise-surprise/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/21/truck-surprise-surprise/#comments</comments>
+		<link>/2006/03/21/truck-surprise-surprise/</link>
+					<comments>/2006/03/21/truck-surprise-surprise/#comments</comments>
 		
 		<dc:creator><![CDATA[Amerika First]]></dc:creator>
 		<pubDate>Tue, 21 Mar 2006 20:21:06 +0000</pubDate>
@@ -38,7 +38,7 @@
 <p>Though no tree-climbing marsupials or idyllic, unspoiled vistas likely greeted the exhausted and bewhiskered band of Ugly Things</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/21/truck-surprise-surprise/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/21/truck-surprise-surprise/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

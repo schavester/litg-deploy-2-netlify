@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gottdiscs &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/gottdiscs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/gottdiscs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 05 Sep 2006 06:20:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>McStakes In McLagan</title>
-		<link>https://www.lostinthegrooves.com/2006/09/05/mcstakes-in-mclagan/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/05/mcstakes-in-mclagan/#respond</comments>
+		<link>/2006/09/05/mcstakes-in-mclagan/</link>
+					<comments>/2006/09/05/mcstakes-in-mclagan/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 05 Sep 2006 06:20:14 +0000</pubDate>
@@ -31,14 +31,14 @@
 		<category><![CDATA[Music Nerd]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[As a fallible person, I want to correct a mistake in my Mac with No Cheese blog about great ex-Faces keyboardist Ian McLagan. I have mis-identified the record label that recently reissued his two obscure late &#8217;70&#8217;s albums on CD. The correct name of the label is Gott Discs, not Gott Records as I mistakenly &#8230; <a href="https://www.lostinthegrooves.com/2006/09/05/mcstakes-in-mclagan/" class="more-link">Continue reading<span class="screen-reader-text"> "McStakes In McLagan"</span></a>]]></description>
+					<description><![CDATA[As a fallible person, I want to correct a mistake in my Mac with No Cheese blog about great ex-Faces keyboardist Ian McLagan. I have mis-identified the record label that recently reissued his two obscure late &#8217;70&#8217;s albums on CD. The correct name of the label is Gott Discs, not Gott Records as I mistakenly &#8230; <a href="/2006/09/05/mcstakes-in-mclagan/" class="more-link">Continue reading<span class="screen-reader-text"> "McStakes In McLagan"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>     As a fallible person, I want to correct a mistake in my Mac with No Cheese blog about great ex-Faces keyboardist Ian McLagan.</p>
 <p>     I have mis-identified the record label that recently reissued his two obscure late &#8217;70&#8217;s albums on CD. The correct name of the label is Gott Discs, not Gott Records as I mistakenly listed and you can check out the label&#8217;s releases (and maybe order the McLagan CD and a few others) at Gottdiscs.com.</p>
 <p>     Sorry about the error.</p>
 <p>     The Music Nerd&#8230;.doesn&#8217;t always know&#8230;..</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/05/mcstakes-in-mclagan/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/05/mcstakes-in-mclagan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

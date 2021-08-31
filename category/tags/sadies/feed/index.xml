@@ -9,8 +9,8 @@
 
 <channel>
 	<title>sadies &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/sadies/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/sadies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 Jan 2007 20:38:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>The Sadies &#8211; Tales of the Ratfink original soundtrack CD (Yep Roc)</title>
-		<link>https://www.lostinthegrooves.com/2007/01/30/sadiesratfink/</link>
-					<comments>https://www.lostinthegrooves.com/2007/01/30/sadiesratfink/#respond</comments>
+		<link>/2007/01/30/sadiesratfink/</link>
+					<comments>/2007/01/30/sadiesratfink/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 30 Jan 2007 20:38:51 +0000</pubDate>
@@ -30,13 +30,13 @@
 		<category><![CDATA[sadies]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[These 26 instro tracks, each named for an international rock venue, represent the fruits of the long collaboration between the versatile Canadian genre-hoppers and Ed &#8220;Big Daddy&#8221; Roth documentarian Ron Mann. I&#8217;ve not seen the film, but these concise, fuzzy and sometimes silly tracks certainly evoke the trashy spirit of 1960s kar kulture, with side &#8230; <a href="https://www.lostinthegrooves.com/2007/01/30/sadiesratfink/" class="more-link">Continue reading<span class="screen-reader-text"> "The Sadies &#8211; Tales of the Ratfink original soundtrack CD (Yep Roc)"</span></a>]]></description>
+					<description><![CDATA[These 26 instro tracks, each named for an international rock venue, represent the fruits of the long collaboration between the versatile Canadian genre-hoppers and Ed &#8220;Big Daddy&#8221; Roth documentarian Ron Mann. I&#8217;ve not seen the film, but these concise, fuzzy and sometimes silly tracks certainly evoke the trashy spirit of 1960s kar kulture, with side &#8230; <a href="/2007/01/30/sadiesratfink/" class="more-link">Continue reading<span class="screen-reader-text"> "The Sadies &#8211; Tales of the Ratfink original soundtrack CD (Yep Roc)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/exec/obidos/ASIN/B000I5YCM4/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000I5YCM4.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
 <p>These 26 instro tracks, each named for an international rock venue, represent the fruits of the long collaboration between the versatile Canadian genre-hoppers and Ed &#8220;Big Daddy&#8221; Roth documentarian Ron Mann. I&#8217;ve not seen the film, but these concise, fuzzy and sometimes silly tracks certainly evoke the trashy spirit of 1960s kar kulture, with side trips to the spaghetti west and Turkish cartoonland, and saved Mann the not inconsiderable headache of clearing twenty-plus vintage surf tracks with licenses owned by cranky old dudes.</p>
 <p><form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000I5YCM4" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/01/30/sadiesratfink/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/30/sadiesratfink/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

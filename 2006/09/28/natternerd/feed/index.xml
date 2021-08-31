@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Nerdly Natterings	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/09/28/natternerd/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/09/28/natternerd/</link>
+	<atom:link href="/2006/09/28/natternerd/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/09/28/natternerd/</link>
 	<description></description>
 	<lastBuildDate>Thu, 28 Sep 2006 05:58:39 +0000</lastBuildDate>
 	<sy:updatePeriod>

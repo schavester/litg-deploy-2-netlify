@@ -9,8 +9,8 @@
 
 <channel>
 	<title>David Gilmour &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/david-gilmour/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/david-gilmour/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Jan 2007 16:23:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>C&#8217;mere ya Pretty Thing</title>
-		<link>https://www.lostinthegrooves.com/2007/01/10/cmere-ya-pretty-thing/</link>
-					<comments>https://www.lostinthegrooves.com/2007/01/10/cmere-ya-pretty-thing/#respond</comments>
+		<link>/2007/01/10/cmere-ya-pretty-thing/</link>
+					<comments>/2007/01/10/cmere-ya-pretty-thing/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Wed, 10 Jan 2007 16:23:00 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Zoho Records]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[While I am fairly sure most of the music experts frequenting this blog have heard of the fabulous British band The Pretty Things, I would like to devote this blog to a fairly rare album of theirs that blew my mind the minute I listened to it. Now, before you start guessing &#8211; it is &#8230; <a href="https://www.lostinthegrooves.com/2007/01/10/cmere-ya-pretty-thing/" class="more-link">Continue reading<span class="screen-reader-text"> "C&#8217;mere ya Pretty Thing"</span></a>]]></description>
+					<description><![CDATA[While I am fairly sure most of the music experts frequenting this blog have heard of the fabulous British band The Pretty Things, I would like to devote this blog to a fairly rare album of theirs that blew my mind the minute I listened to it. Now, before you start guessing &#8211; it is &#8230; <a href="/2007/01/10/cmere-ya-pretty-thing/" class="more-link">Continue reading<span class="screen-reader-text"> "C&#8217;mere ya Pretty Thing"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>   While I am fairly sure most of the music experts frequenting this blog have heard of the fabulous British band The Pretty Things, I would like to devote this blog to a fairly rare album of theirs that blew my mind the minute I listened to it.</p>
 <p>   Now, before you start guessing &#8211; it is NOT one of the band&#8217;s classic &#8217;60&#8217;s albums like S.F. Sorrow or even one of their &#8217;70&#8217;s albums recorded when the band started leaning away from their punky/garage/dirty-bluesy beginnings and attempted some classic arena rock sounds. No, this album was recorded by the band wayyyyyy back in the good old days of 1999. The album I am talking about is the expertly titled latter-day masterpiece Rage Before Beauty (on Snapper Records), their first true album since 1980&#8217;s supposed swan-song Crosstalk</p>
 <p>   Note to sticklers: the Pretties did get together to record one new album about a year before Rage Before Beauty came out and the story behind it is really quite cool. The band had decided to regroup for a one-off webcast of their music and, putting their heads together for a concept, decided to record a live concert performing their old concept album SF Sorrow in it&#8217;s entirety for the first time since the album was released in 1968. Wanting to make the event extra special, the band enlisted two ringers: Pink Floyd guitarist David Gilmour to augment the band as only he and his guitar work can, and veteran English rocker Arthur Brown to add extra narration and cohesion to the storyline. Needless to say, the resulting album Resurrection is an absolute joy and should be searched out and acquired as soon as possible. Often found in a version that packages it with the original version of SF Sorrow, while not eclipsing the original, shows the band is more than capable of continuing their legend without showing the usual signs of age or obsolecense often all-too-present in the middle-age-rock set.</p>
@@ -45,7 +45,7 @@
 <p>   The Music Nerd knows&#8230;&#8230;..  </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/01/10/cmere-ya-pretty-thing/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/10/cmere-ya-pretty-thing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

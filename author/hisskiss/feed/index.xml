@@ -9,8 +9,8 @@
 
 <channel>
 	<title>hisskiss &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/author/hisskiss/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/author/hisskiss/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Sep 2006 23:23:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>S.Y.P.H. &#8211; Am Rhein</title>
-		<link>https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/#comments</comments>
+		<link>/2006/09/07/s-y-p-h-am-rhein/</link>
+					<comments>/2006/09/07/s-y-p-h-am-rhein/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Thu, 07 Sep 2006 23:23:28 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[SYPH]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[cult of the week makes a tentative return this week&#8230;watch these spaces! artist: S.Y.P.H. title: Am Rhein year: 1987 label: Atatak Records personnel: Uwe Jahnke (guitars), Harry Rag (vocals), Jojo Wolter (bass), Ralf Bauerfeind (druns) tracklisting: 11. frau im harem, die matchbox-generation, mein esel ist kaputt, oliver, but the girls, schwesterlein, platz da, julischka, pop &#8230; <a href="https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/" class="more-link">Continue reading<span class="screen-reader-text"> "S.Y.P.H. &#8211; Am Rhein"</span></a>]]></description>
+					<description><![CDATA[cult of the week makes a tentative return this week&#8230;watch these spaces! artist: S.Y.P.H. title: Am Rhein year: 1987 label: Atatak Records personnel: Uwe Jahnke (guitars), Harry Rag (vocals), Jojo Wolter (bass), Ralf Bauerfeind (druns) tracklisting: 11. frau im harem, die matchbox-generation, mein esel ist kaputt, oliver, but the girls, schwesterlein, platz da, julischka, pop &#8230; <a href="/2006/09/07/s-y-p-h-am-rhein/" class="more-link">Continue reading<span class="screen-reader-text"> "S.Y.P.H. &#8211; Am Rhein"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>cult of the week makes a tentative return this week&#8230;watch these spaces!</p>
 <p>artist: S.Y.P.H.</p>
 <p>title: Am Rhein</p>
@@ -48,15 +48,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/07/s-y-p-h-am-rhein/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Stump</title>
-		<link>https://www.lostinthegrooves.com/2006/05/21/cult-of-the-week-stump/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/21/cult-of-the-week-stump/#respond</comments>
+		<link>/2006/05/21/cult-of-the-week-stump/</link>
+					<comments>/2006/05/21/cult-of-the-week-stump/#respond</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Sun, 21 May 2006 16:59:44 +0000</pubDate>
@@ -75,15 +75,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/21/cult-of-the-week-stump/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/21/cult-of-the-week-stump/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Wet Taxis</title>
-		<link>https://www.lostinthegrooves.com/2006/05/07/cult-of-the-week-wet-taxis/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/07/cult-of-the-week-wet-taxis/#comments</comments>
+		<link>/2006/05/07/cult-of-the-week-wet-taxis/</link>
+					<comments>/2006/05/07/cult-of-the-week-wet-taxis/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Sun, 07 May 2006 18:50:44 +0000</pubDate>
@@ -92,7 +92,7 @@
 		<category><![CDATA[Severed Heads]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Wet Taxis title: From the Archives year: 1984 label: Hot Records personnel: Simon Knuckley (lead guitar), Penny Ikinger (rhythm guitar), Nick Fisher (drums, scrotum), Tim Knuckley (bass, vocals), Louis Tillett (vocals, piano),Gary &#8216;Moneywoe Bradbury (rhythm and tapes), Dr. Bronstantine Karlarka (vocals), various (backing vocals) tracklisting: but mono never dies, last time around, unchain my &#8230; <a href="https://www.lostinthegrooves.com/2006/05/07/cult-of-the-week-wet-taxis/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Wet Taxis"</span></a>]]></description>
+					<description><![CDATA[artist: Wet Taxis title: From the Archives year: 1984 label: Hot Records personnel: Simon Knuckley (lead guitar), Penny Ikinger (rhythm guitar), Nick Fisher (drums, scrotum), Tim Knuckley (bass, vocals), Louis Tillett (vocals, piano),Gary &#8216;Moneywoe Bradbury (rhythm and tapes), Dr. Bronstantine Karlarka (vocals), various (backing vocals) tracklisting: but mono never dies, last time around, unchain my &#8230; <a href="/2006/05/07/cult-of-the-week-wet-taxis/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Wet Taxis"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>artist: Wet Taxis</p>
 <p>title: From the Archives</p>
 <p>year: 1984</p>
@@ -103,15 +103,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/07/cult-of-the-week-wet-taxis/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/07/cult-of-the-week-wet-taxis/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Asphixiation</title>
-		<link>https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/#comments</comments>
+		<link>/2006/05/01/cult-of-the-week-asphixiation/</link>
+					<comments>/2006/05/01/cult-of-the-week-asphixiation/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Mon, 01 May 2006 01:06:48 +0000</pubDate>
@@ -121,7 +121,7 @@
 		<category><![CDATA[Tch Tch Tch]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Asphixiation title: What is this thing called &#8216;Disco&#8217;? year: 1980 label: No label personnel: Jane, Leigh, Maria, Ralph, Philip, David and Chris tracklisting: the beat aesthetic, feelings, asphixiation, blurred movement, hunger-food-nausea, innocent rhythms, aural risk, tradition europe, self denial (is a beautiful thing), african disco queen, + l&#8217;acrostique d&#8217;amour, the crush (bonus twelve inch) &#8230; <a href="https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Asphixiation"</span></a>]]></description>
+					<description><![CDATA[artist: Asphixiation title: What is this thing called &#8216;Disco&#8217;? year: 1980 label: No label personnel: Jane, Leigh, Maria, Ralph, Philip, David and Chris tracklisting: the beat aesthetic, feelings, asphixiation, blurred movement, hunger-food-nausea, innocent rhythms, aural risk, tradition europe, self denial (is a beautiful thing), african disco queen, + l&#8217;acrostique d&#8217;amour, the crush (bonus twelve inch) &#8230; <a href="/2006/05/01/cult-of-the-week-asphixiation/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Asphixiation"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>artist: Asphixiation</p>
 <p>title: What is this thing called &#8216;Disco&#8217;?</p>
 <p>year: 1980</p>
@@ -132,15 +132,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/01/cult-of-the-week-asphixiation/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Suburban Lawns</title>
-		<link>https://www.lostinthegrooves.com/2006/04/23/cult-of-the-week-suburban-lawns/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/23/cult-of-the-week-suburban-lawns/#respond</comments>
+		<link>/2006/04/23/cult-of-the-week-suburban-lawns/</link>
+					<comments>/2006/04/23/cult-of-the-week-suburban-lawns/#respond</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Sun, 23 Apr 2006 17:17:18 +0000</pubDate>
@@ -158,15 +158,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/23/cult-of-the-week-suburban-lawns/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/23/cult-of-the-week-suburban-lawns/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Pauline Murray and the Invisible Girls</title>
-		<link>https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/#respond</comments>
+		<link>/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/</link>
+					<comments>/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/#respond</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Sun, 16 Apr 2006 17:23:31 +0000</pubDate>
@@ -174,7 +174,7 @@
 		<category><![CDATA[martin hannett penetration]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Pauline Murray and the Invisible Girls title: Pauline Murray and the Invisible Girls year: 1980 label: RSO Records personnel: Pauline Murray, Martin Hannett, Steve Hopkins, Robert Blamire, John Maher, Dave Rowbotham, Dave Hassell, Vini Reilly tracklisting: screaming in the darkness, dream sequence, european eyes, shoot you down, sympathy, time slipping, drummer boy, thundertunes, when &#8230; <a href="https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Pauline Murray and the Invisible Girls"</span></a>]]></description>
+					<description><![CDATA[artist: Pauline Murray and the Invisible Girls title: Pauline Murray and the Invisible Girls year: 1980 label: RSO Records personnel: Pauline Murray, Martin Hannett, Steve Hopkins, Robert Blamire, John Maher, Dave Rowbotham, Dave Hassell, Vini Reilly tracklisting: screaming in the darkness, dream sequence, european eyes, shoot you down, sympathy, time slipping, drummer boy, thundertunes, when &#8230; <a href="/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Pauline Murray and the Invisible Girls"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>artist: Pauline Murray and the Invisible Girls</p>
 <p>title: Pauline Murray and the Invisible Girls</p>
 <p>year: 1980</p>
@@ -188,15 +188,15 @@
 <p>invisible, perhaps. but let&#8217;s hope not for much longer.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Ivor Cutler and Linda Hirst</title>
-		<link>https://www.lostinthegrooves.com/2006/04/05/cult-of-the-week-ivor-cutler-and-linda-hirst/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/05/cult-of-the-week-ivor-cutler-and-linda-hirst/#respond</comments>
+		<link>/2006/04/05/cult-of-the-week-ivor-cutler-and-linda-hirst/</link>
+					<comments>/2006/04/05/cult-of-the-week-ivor-cutler-and-linda-hirst/#respond</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Wed, 05 Apr 2006 01:58:04 +0000</pubDate>
@@ -215,15 +215,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/05/cult-of-the-week-ivor-cutler-and-linda-hirst/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/05/cult-of-the-week-ivor-cutler-and-linda-hirst/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Richard Strange and the Engine Room</title>
-		<link>https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/#respond</comments>
+		<link>/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/</link>
+					<comments>/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/#respond</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Sat, 25 Mar 2006 22:46:16 +0000</pubDate>
@@ -231,7 +231,7 @@
 		<category><![CDATA[doctors of madness everest the hard way]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Richard Strange and the Engine Room title: Going-Gone year: 1987 label: Interphon Records personnel: Richard Strange (vocals), James T. Ford (electronic hardware), numerous guests tracklisting: damascus, the lion&#8217;s den, banco celestial, dominoes, the fall of the house of &#8216;u&#8217;, fear is the engine, wounded, love scare, pride time and inspiration, pioneering surgery further info: &#8230; <a href="https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Richard Strange and the Engine Room"</span></a>]]></description>
+					<description><![CDATA[artist: Richard Strange and the Engine Room title: Going-Gone year: 1987 label: Interphon Records personnel: Richard Strange (vocals), James T. Ford (electronic hardware), numerous guests tracklisting: damascus, the lion&#8217;s den, banco celestial, dominoes, the fall of the house of &#8216;u&#8217;, fear is the engine, wounded, love scare, pride time and inspiration, pioneering surgery further info: &#8230; <a href="/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Richard Strange and the Engine Room"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>artist: Richard Strange and the Engine Room</p>
 <p>title: Going-Gone</p>
 <p>year: 1987</p>
@@ -242,15 +242,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; Crawling Chaos</title>
-		<link>https://www.lostinthegrooves.com/2006/03/20/cult-of-the-week-crawling-chaos/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/20/cult-of-the-week-crawling-chaos/#comments</comments>
+		<link>/2006/03/20/cult-of-the-week-crawling-chaos/</link>
+					<comments>/2006/03/20/cult-of-the-week-crawling-chaos/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Mon, 20 Mar 2006 11:00:15 +0000</pubDate>
@@ -268,15 +268,15 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/20/cult-of-the-week-crawling-chaos/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/20/cult-of-the-week-crawling-chaos/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>cult of the week &#8211; 17 Pygmies</title>
-		<link>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/#comments</comments>
+		<link>/2006/03/17/cult-of-the-week-17-pygmies/</link>
+					<comments>/2006/03/17/cult-of-the-week-17-pygmies/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Fri, 17 Mar 2006 23:53:53 +0000</pubDate>
@@ -292,7 +292,7 @@
 										<content:encoded><![CDATA[<p>artist: 17 Pygmies</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/17/cult-of-the-week-17-pygmies/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

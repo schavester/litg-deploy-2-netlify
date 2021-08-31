@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lost in the Grooves	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/03/08/lost-in-the-grooves/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/03/08/lost-in-the-grooves/</link>
+	<atom:link href="/2006/03/08/lost-in-the-grooves/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/03/08/lost-in-the-grooves/</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Mar 2006 21:34:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

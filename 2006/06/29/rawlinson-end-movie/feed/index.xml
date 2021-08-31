@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Rawlinson End movie	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/06/29/rawlinson-end-movie/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/06/29/rawlinson-end-movie/</link>
+	<atom:link href="/2006/06/29/rawlinson-end-movie/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/06/29/rawlinson-end-movie/</link>
 	<description></description>
 	<lastBuildDate>Thu, 29 Jun 2006 23:56:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: garypiggold		</title>
-		<link>https://www.lostinthegrooves.com/2006/06/29/rawlinson-end-movie/#comment-19</link>
+		<link>/2006/06/29/rawlinson-end-movie/#comment-19</link>
 
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

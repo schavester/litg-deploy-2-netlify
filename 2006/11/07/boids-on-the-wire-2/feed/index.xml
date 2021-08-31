@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Boids on the Wire	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/11/07/boids-on-the-wire-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/11/07/boids-on-the-wire-2/</link>
+	<atom:link href="/2006/11/07/boids-on-the-wire-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/11/07/boids-on-the-wire-2/</link>
 	<description></description>
 	<lastBuildDate>Tue, 07 Nov 2006 20:10:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Infidela &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/infidela/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/infidela/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 01 Jun 2010 17:22:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Deadbeat Poets Release New Album Called &#8220;Circustown&#8221;</title>
-		<link>https://www.lostinthegrooves.com/2010/06/01/deadbeat-poets-release-new-album-called-circustown/</link>
-					<comments>https://www.lostinthegrooves.com/2010/06/01/deadbeat-poets-release-new-album-called-circustown/#comments</comments>
+		<link>/2010/06/01/deadbeat-poets-release-new-album-called-circustown/</link>
+					<comments>/2010/06/01/deadbeat-poets-release-new-album-called-circustown/#comments</comments>
 		
 		<dc:creator><![CDATA[Frankiefane]]></dc:creator>
 		<pubDate>Tue, 01 Jun 2010 17:22:35 +0000</pubDate>
@@ -42,7 +42,7 @@ https://www.popdetective.com/<br />
 <object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/OOnEpLGiPRY&#038;hl=en_US&#038;fs=1&#038;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2010/06/01/deadbeat-poets-release-new-album-called-circustown/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/06/01/deadbeat-poets-release-new-album-called-circustown/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

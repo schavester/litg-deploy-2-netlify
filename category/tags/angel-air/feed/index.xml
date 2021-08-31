@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Angel Air &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/angel-air/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/angel-air/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 01 Mar 2007 16:07:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Care to Meet Big Boy Pete?</title>
-		<link>https://www.lostinthegrooves.com/2007/03/01/care-to-meet-big-boy-pete/</link>
-					<comments>https://www.lostinthegrooves.com/2007/03/01/care-to-meet-big-boy-pete/#comments</comments>
+		<link>/2007/03/01/care-to-meet-big-boy-pete/</link>
+					<comments>/2007/03/01/care-to-meet-big-boy-pete/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Thu, 01 Mar 2007 16:07:01 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Music Nerd]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Yeah, I know, I ain&#8217;t been here in a while. No excuses &#8211; been too busy listening to great music to crawl out and scrawl out about it. Hopefully that will change. Here&#8217;s something I recently discovered. I think anyone into late &#8217;60&#8217;s/early &#8217;70&#8217;s rock will get a kick out of it just as much &#8230; <a href="https://www.lostinthegrooves.com/2007/03/01/care-to-meet-big-boy-pete/" class="more-link">Continue reading<span class="screen-reader-text"> "Care to Meet Big Boy Pete?"</span></a>]]></description>
+					<description><![CDATA[Yeah, I know, I ain&#8217;t been here in a while. No excuses &#8211; been too busy listening to great music to crawl out and scrawl out about it. Hopefully that will change. Here&#8217;s something I recently discovered. I think anyone into late &#8217;60&#8217;s/early &#8217;70&#8217;s rock will get a kick out of it just as much &#8230; <a href="/2007/03/01/care-to-meet-big-boy-pete/" class="more-link">Continue reading<span class="screen-reader-text"> "Care to Meet Big Boy Pete?"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Yeah, I know, I ain&#8217;t been here in a while. No excuses &#8211; been too busy listening to great music to crawl out and scrawl out about it.</p>
 <p>Hopefully that will change. Here&#8217;s something I recently discovered. I think anyone into late &#8217;60&#8217;s/early &#8217;70&#8217;s rock will get a kick out of it just as much as I did. In fact, I still got a footprint shaped indentation in my ass that this album left.</p>
 <p>Big Boy Pete &#8211; The Perennial Enigma<br />
@@ -44,7 +44,7 @@ Angel Air<br />
 <p>          As more of his work gets discovered (thanks to all the collectors who have suddenly started digging under every thing not nailed down for unreleased and rare psyche) and released Pete Miller may yet claim his crown as the king of British psychedelic rock.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/03/01/care-to-meet-big-boy-pete/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/01/care-to-meet-big-boy-pete/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>JDub &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/jdub/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/jdub/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 31 Mar 2006 07:23:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Matisyahu&#8211; JDub on the Fringe</title>
-		<link>https://www.lostinthegrooves.com/2006/03/31/matisyahu-jdub-on-the-fringe/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/31/matisyahu-jdub-on-the-fringe/#respond</comments>
+		<link>/2006/03/31/matisyahu-jdub-on-the-fringe/</link>
+					<comments>/2006/03/31/matisyahu-jdub-on-the-fringe/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Edelman]]></dc:creator>
 		<pubDate>Fri, 31 Mar 2006 07:23:44 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Matisyahu]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[In the 1920&#8217;s, when Jazz and Big Band music was at it&#8217;s apex, a new type of sound started to appear. Invented by church choirs across the south, it was pioneered by Blues luminaries like Thomas A. Dorsey, Sallie Martin, Dr. Mattie Moss Clark, Willie Mae Ford Smith. It was originally known as &#34;holy rolling,&#34; &#8230; <a href="https://www.lostinthegrooves.com/2006/03/31/matisyahu-jdub-on-the-fringe/" class="more-link">Continue reading<span class="screen-reader-text"> "Matisyahu&#8211; JDub on the Fringe"</span></a>]]></description>
+					<description><![CDATA[In the 1920&#8217;s, when Jazz and Big Band music was at it&#8217;s apex, a new type of sound started to appear. Invented by church choirs across the south, it was pioneered by Blues luminaries like Thomas A. Dorsey, Sallie Martin, Dr. Mattie Moss Clark, Willie Mae Ford Smith. It was originally known as &#34;holy rolling,&#34; &#8230; <a href="/2006/03/31/matisyahu-jdub-on-the-fringe/" class="more-link">Continue reading<span class="screen-reader-text"> "Matisyahu&#8211; JDub on the Fringe"</span></a>]]></description>
 										<content:encoded><![CDATA[<p align="left">In the 1920&#8217;s, when Jazz and Big Band music was at it&#8217;s apex, a new type of sound started to appear. Invented by church choirs across the south, it was pioneered by Blues luminaries like Thomas A. Dorsey, Sallie Martin, Dr. Mattie Moss Clark, Willie Mae Ford Smith. It was originally known as &quot;holy rolling,&quot; but would evolve into what became known as Gospel. Gospel, originally a grassroots movement, would influence Ray Charles and James Brown to give us soul, help Elvis Presley swing his hips, and let singers like Wilson Pickett, Marvin Gaye, Aretha Franklin and Al Green find their groove. </p>
 <p>Today, another grassroots movement is emerging. A stranger genre, more obscure today&nbsp;then Gospel was 90 years ago&#8211; Jewish Modern Music. </p>
 <p>Like all good grassroots movements, Jewish Music, or JDub&nbsp;to some of it&#8217;s fans, has had it&#8217;s own&nbsp; Thomas A. Dorsey&#8211; an Alternative music sensation named&nbsp;Matisyahu&nbsp;who has been capturing the interest of orthodox Jewish teens who otherwise might not pay the slightest attention to music. <a title="Matisyahu" href="https://www.matisyahu.org/" target="_blank">Matisyahu</a> has not only provided Jews a look into the music world, he has provided the music world a look&nbsp;into JDub music, and all that it has to offer. <img loading="lazy" title="Matisyahu" height="383" alt="Matisyahu" src="https://www.mlk.com/images/artists/matisyahu/matisyahu2005/head.matisyahu.jpg" width="375" align="left" border="0" /></p>
@@ -50,7 +50,7 @@
 <p>Avi just smiled&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/31/matisyahu-jdub-on-the-fringe/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/31/matisyahu-jdub-on-the-fringe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

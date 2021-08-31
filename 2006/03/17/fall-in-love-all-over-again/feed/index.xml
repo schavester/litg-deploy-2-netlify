@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Fall In Love All Over Again	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/03/17/fall-in-love-all-over-again/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/03/17/fall-in-love-all-over-again/</link>
+	<atom:link href="/2006/03/17/fall-in-love-all-over-again/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/03/17/fall-in-love-all-over-again/</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Mar 2006 08:08:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Amerika First		</title>
-		<link>https://www.lostinthegrooves.com/2006/03/17/fall-in-love-all-over-again/#comment-2</link>
+		<link>/2006/03/17/fall-in-love-all-over-again/#comment-2</link>
 
 		<dc:creator><![CDATA[Amerika First]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

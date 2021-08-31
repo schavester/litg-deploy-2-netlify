@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Freddie Steady 5 &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/freddie-steady-5/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/freddie-steady-5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Feb 2008 03:35:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>10 You May Have Missed In 2007</title>
-		<link>https://www.lostinthegrooves.com/2008/02/07/gary57/</link>
-					<comments>https://www.lostinthegrooves.com/2008/02/07/gary57/#comments</comments>
+		<link>/2008/02/07/gary57/</link>
+					<comments>/2008/02/07/gary57/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Thu, 07 Feb 2008 03:35:27 +0000</pubDate>
@@ -42,7 +42,7 @@
 		<category><![CDATA[Tim Boykin]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[They Came,throughout 2007, and I Heard,as I do always try to. but Just in case you havenÃ¢â‚¬â„¢t,or didnÃ¢â‚¬â„¢t yet, Here to hear are the ten discs(listed strictly alphabetically of course) that I most urge your ears immediately uponÃ¢â‚¬Â¦ &#160; 1. DEBRIS Static Disposal (Anopheles Records) 2. THE DOUGHBOYS Is It Now? (Ram Records) 3. THE &#8230; <a href="https://www.lostinthegrooves.com/2008/02/07/gary57/" class="more-link">Continue reading<span class="screen-reader-text"> "10 You May Have Missed In 2007"</span></a>]]></description>
+					<description><![CDATA[They Came,throughout 2007, and I Heard,as I do always try to. but Just in case you havenÃ¢â‚¬â„¢t,or didnÃ¢â‚¬â„¢t yet, Here to hear are the ten discs(listed strictly alphabetically of course) that I most urge your ears immediately uponÃ¢â‚¬Â¦ &#160; 1. DEBRIS Static Disposal (Anopheles Records) 2. THE DOUGHBOYS Is It Now? (Ram Records) 3. THE &#8230; <a href="/2008/02/07/gary57/" class="more-link">Continue reading<span class="screen-reader-text"> "10 You May Have Missed In 2007"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.greenchairpress.com/blog/wp-content/uploads/2007/07/pig-1.jpg" alt="" width="220" height="220" /></p>
 <p>They Came,<br />throughout 2007,</p>
 <p>and I Heard,<br />as I do always try to.</p>
@@ -65,7 +65,7 @@
 <p>Uncover even more<br />about 07Ã¢â‚¬â„¢s Top Lost Grooves<br />Right <a href="https://torpedopop.com/articles/page.asp?id=315"><strong>HERE</strong></a> !!  </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/02/07/gary57/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/02/07/gary57/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

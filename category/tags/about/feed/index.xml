@@ -9,8 +9,8 @@
 
 <channel>
 	<title>about &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/about/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/about/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Mar 2006 06:25:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	
 	<item>
 		<title>about</title>
-		<link>https://www.lostinthegrooves.com/2006/03/08/about/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/08/about/#respond</comments>
+		<link>/2006/03/08/about/</link>
+					<comments>/2006/03/08/about/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 08 Mar 2006 06:25:18 +0000</pubDate>
 				<category><![CDATA[about]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Lost in the Grooves is an anthology, edited by myself and David Smay celebrating several hundred great, underappreciated records. The Lost in the Grooves website is the book&#8217;s digital face, where the celebration extends to offering some of those hard-to-find and out-of-print recordings for purchase, as MP3s or physical CDs. The site will also feature &#8230; <a href="https://www.lostinthegrooves.com/2006/03/08/about/" class="more-link">Continue reading<span class="screen-reader-text"> "about"</span></a>]]></description>
+					<description><![CDATA[Lost in the Grooves is an anthology, edited by myself and David Smay celebrating several hundred great, underappreciated records. The Lost in the Grooves website is the book&#8217;s digital face, where the celebration extends to offering some of those hard-to-find and out-of-print recordings for purchase, as MP3s or physical CDs. The site will also feature &#8230; <a href="/2006/03/08/about/" class="more-link">Continue reading<span class="screen-reader-text"> "about"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Lost in the Grooves</em> is an anthology, edited by myself and David Smay celebrating several hundred great, underappreciated records.</p>
 <p>The Lost in the Grooves website is the book&#8217;s digital face, where the celebration extends to offering some of those hard-to-find and out-of-print recordings for purchase, as MP3s or physical CDs. The site will also feature other wonderful, neglected music not featured in the book.  </p>
 <p>LITG music is licensed directly from the artists, and they are paid for every track sold. And due to our partnership with Maryatt Music Group, you might even hear some of these tracks on soundtracks or in ads.</p>
@@ -40,7 +40,7 @@
 <p> &nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/08/about/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/08/about/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

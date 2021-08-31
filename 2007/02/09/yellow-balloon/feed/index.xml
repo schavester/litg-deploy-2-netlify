@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Yellow Balloon	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/02/09/yellow-balloon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/02/09/yellow-balloon/</link>
+	<atom:link href="/2007/02/09/yellow-balloon/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/02/09/yellow-balloon/</link>
 	<description></description>
 	<lastBuildDate>Fri, 09 Feb 2007 19:32:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Tony Sclafani		</title>
-		<link>https://www.lostinthegrooves.com/2007/02/09/yellow-balloon/#comment-36</link>
+		<link>/2007/02/09/yellow-balloon/#comment-36</link>
 
 		<dc:creator><![CDATA[Tony Sclafani]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Modern Lovers &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/modern-lovers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/modern-lovers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Jul 2006 15:38:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Hackamore Brick</title>
-		<link>https://www.lostinthegrooves.com/2006/07/25/hackamore-brick/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/25/hackamore-brick/#respond</comments>
+		<link>/2006/07/25/hackamore-brick/</link>
+					<comments>/2006/07/25/hackamore-brick/#respond</comments>
 		
 		<dc:creator><![CDATA[paul aarstad]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2006 15:38:07 +0000</pubDate>
@@ -36,7 +36,7 @@
 										<content:encoded><![CDATA[<p>Christgau</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/25/hackamore-brick/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/25/hackamore-brick/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

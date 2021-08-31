@@ -9,8 +9,8 @@
 
 <channel>
 	<title>wiltern theater &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/wiltern-theater/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/wiltern-theater/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Sep 2006 21:10:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Don Waller on Radio Birdman</title>
-		<link>https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/#respond</comments>
+		<link>/2006/09/07/don-waller-on-radio-birdman/</link>
+					<comments>/2006/09/07/don-waller-on-radio-birdman/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 07 Sep 2006 21:10:53 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[wiltern theater]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Last Wednesday, I cornered rock crit and bon vivant Don Waller in the lobby of the Wiltern Theater between the BellRays and Radio Birdman sets to get his thoughts on this historic event. Before I started the tape recorder, he told me I was wasting my time, since he had nothing much to say. I &#8230; <a href="https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/" class="more-link">Continue reading<span class="screen-reader-text"> "Don Waller on Radio Birdman"</span></a>]]></description>
+					<description><![CDATA[Last Wednesday, I cornered rock crit and bon vivant Don Waller in the lobby of the Wiltern Theater between the BellRays and Radio Birdman sets to get his thoughts on this historic event. Before I started the tape recorder, he told me I was wasting my time, since he had nothing much to say. I &#8230; <a href="/2006/09/07/don-waller-on-radio-birdman/" class="more-link">Continue reading<span class="screen-reader-text"> "Don Waller on Radio Birdman"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><strong>Last Wednesday, I cornered rock crit and bon vivant Don Waller in the lobby of the Wiltern Theater between the BellRays and Radio Birdman sets to get his thoughts on this historic event. Before I started the tape recorder, he told me I was wasting my time, since he had nothing much to say. I know Don well enough to know how absurd that statement was. Here&#8217;s the &quot;Back Door Man&quot; zine founder on the state of rock when Radio Birdman first came &#8217;round, the underappreciated glories of the Australian scene, and his expectations for the evening&#8230;</strong></p>
 <p>Lost in the Grooves: Do you remember Radio Birdman from 1976, when the record came out in the US?</p>
 <p>Don Waller: Yes.</p>
@@ -53,15 +53,15 @@
 <p align="right"><strong>above, Radio Birdman live at the Wiltern, pic: Kim Cooper</strong>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/07/don-waller-on-radio-birdman/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Radios Appear on Wilshire Boulevard</title>
-		<link>https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/</link>
-					<comments>https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/#respond</comments>
+		<link>/2006/06/17/radios-appear-on-wilshire-boulevard/</link>
+					<comments>/2006/06/17/radios-appear-on-wilshire-boulevard/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sat, 17 Jun 2006 22:41:43 +0000</pubDate>
@@ -72,11 +72,11 @@
 		<category><![CDATA[wiltern theater]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Tickets are on sale now for the debut U.S. date for Radio Birdman, August 30. I never dared expect that my favorite band, and subject of the first music feature I ever wrote, would be kicking off their American tour at the art deco Wiltern in my home town of L.A., but it&#8217;s true. Tix &#8230; <a href="https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/" class="more-link">Continue reading<span class="screen-reader-text"> "Radios Appear on Wilshire Boulevard"</span></a>]]></description>
+					<description><![CDATA[Tickets are on sale now for the debut U.S. date for Radio Birdman, August 30. I never dared expect that my favorite band, and subject of the first music feature I ever wrote, would be kicking off their American tour at the art deco Wiltern in my home town of L.A., but it&#8217;s true. Tix &#8230; <a href="/2006/06/17/radios-appear-on-wilshire-boulevard/" class="more-link">Continue reading<span class="screen-reader-text"> "Radios Appear on Wilshire Boulevard"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Tickets are <a href="https://www.ticketmaster.com/event/09003CCF9ED839C3?artistid=1041796&#038;majorcatid=10001&#038;minorcatid=1" target="_blank">on sale now</a> for the debut U.S. date for <a href="https://www.radio-birdman.com/news.html" target="_blank">Radio Birdman</a>, August 30. I never dared expect that my favorite band, and subject of the first music feature I ever wrote, would be kicking off their American tour at the art deco Wiltern in my home town of L.A., but it&#8217;s true. Tix are $25, and the BellRays open. See you there?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/17/radios-appear-on-wilshire-boulevard/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

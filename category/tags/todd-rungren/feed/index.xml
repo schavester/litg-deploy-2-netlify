@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Todd Rungren &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/todd-rungren/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/todd-rungren/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 08 May 2007 15:35:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Hey, Hey, Heyman!</title>
-		<link>https://www.lostinthegrooves.com/2007/05/08/hey-hey-heyman/</link>
-					<comments>https://www.lostinthegrooves.com/2007/05/08/hey-hey-heyman/#respond</comments>
+		<link>/2007/05/08/hey-hey-heyman/</link>
+					<comments>/2007/05/08/hey-hey-heyman/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 08 May 2007 15:35:14 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Todd Rungren]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Hello all! Thought I would lead off this week with a little heads up about a new album from one of the best artists in all of power-pop and maybe music as a whole itself. Not only that, but a hell of a nice guy to boot. I recently had a chance to do an &#8230; <a href="https://www.lostinthegrooves.com/2007/05/08/hey-hey-heyman/" class="more-link">Continue reading<span class="screen-reader-text"> "Hey, Hey, Heyman!"</span></a>]]></description>
+					<description><![CDATA[Hello all! Thought I would lead off this week with a little heads up about a new album from one of the best artists in all of power-pop and maybe music as a whole itself. Not only that, but a hell of a nice guy to boot. I recently had a chance to do an &#8230; <a href="/2007/05/08/hey-hey-heyman/" class="more-link">Continue reading<span class="screen-reader-text"> "Hey, Hey, Heyman!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>   Hello all! Thought I would lead off this week with a little heads up about a new album from one of the best artists in all of power-pop and maybe music as a whole itself. Not only that, but a hell of a nice guy to boot. I recently had a chance to do an interview with Mr. Heyman and it was very fun talking about music with him. Not just his own, either, but his obscure desert-island faves as well.</p>
 <p>   Check out the review of his new album below and please pick his new disc up and give it a chance. Some of the best power pop around, in my humble opinion. </p>
 <p>   Anyways, here goes: </p>
@@ -48,7 +48,7 @@ Turn-Up Records</p>
 <p>   Anyone into melodic pop on a par with Paul McCartney, Todd Rundgren and Emitt Rhodes will love this CD. Filled with sing-along melodies and hooks that burrow into your head like worms, this CD will no doubt become the CD you pop in your car stereo over the summer when you&#8217;re driving around looking cool. In fact, if I were to pick the first CD I&#8217;ve heard this year that could be classified as a great summer CD, this would be it. Pick it up and see for yourself. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/05/08/hey-hey-heyman/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/08/hey-hey-heyman/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

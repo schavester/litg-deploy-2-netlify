@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Joey Spampinato &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/joey-spampinato/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/joey-spampinato/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 23 May 2006 16:12:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>NRBQ PDQ 2</title>
-		<link>https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/#comments</comments>
+		<link>/2006/05/23/nrbq-pdq-2/</link>
+					<comments>/2006/05/23/nrbq-pdq-2/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 23 May 2006 16:12:21 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Tommy Ardolino]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Despite an unfortunate one day delay we will now return to the topic at hand: NRBQ. For those who did not follow my helpful and life-changing instructions to check out some NRBQ over the weekend, I will describe them the best way I can. Imagine interstellar jazz traveller Sun Ra fronting a rock band and &#8230; <a href="https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/" class="more-link">Continue reading<span class="screen-reader-text"> "NRBQ PDQ 2"</span></a>]]></description>
+					<description><![CDATA[Despite an unfortunate one day delay we will now return to the topic at hand: NRBQ. For those who did not follow my helpful and life-changing instructions to check out some NRBQ over the weekend, I will describe them the best way I can. Imagine interstellar jazz traveller Sun Ra fronting a rock band and &#8230; <a href="/2006/05/23/nrbq-pdq-2/" class="more-link">Continue reading<span class="screen-reader-text"> "NRBQ PDQ 2"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>    Despite an unfortunate one day delay we will now return to the topic at hand: NRBQ.<br />
     For those who did not follow my helpful and life-changing instructions to check out some NRBQ over the weekend, I will describe them the best way I can. Imagine interstellar jazz traveller Sun Ra fronting a rock band and you will get an idea (albeit small and one-dimensional)about NRBQ. Not only does the band play some of the catchiest bar-band rock around, the band can immediately stop on a dime and play humourous ditties or songs just so crazy and &#8220;out&#8221; that it almost turns you off of the band and makes you decide to not listen to them anymore. Then, almost magically, the band will play something so tuneful and McCartney-like as to make you wonder why they are not all over the radio. It is this dichotomy that has both endeared the band to its&#8217; many, many fans and also kept the band out of the mainstream.<br />
      You will often find two camps of NRBQ fans: ones who like the band better in it&#8217;s most popular incarnation when guitarist/songwriter/ex-Wildweed Al Anderson was still in the band (there were a few other guitarists before Big Al &#8211; he didn&#8217;t join until 1974) and those who like his replacement, Johnny Spampinato, Joey&#8217;s brother, who took over in 1994. Being a talented songwriter (besides being a demon on guitar)Anderson had to always know he could write hits. Even while being criminally ignored by the general public while being in the &#8216;Q &#8211; his songs were often covered by other country and rock artists. Nashville eventually called Anderson and he jumped ship, leaving the lead guitar spot open. Luckily Johnny shares the same genetic musical genius as his bassist/songwriter/singer brother Joey and he easily slid into the replacement slot and has also found his songwriting legs with the band as well, contributing one of their best latter-day songs, Be Here Now.<br />
@@ -48,7 +48,7 @@
 <p>     The Music Nerd Knows&#8230;&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/23/nrbq-pdq-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/23/nrbq-pdq-2/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>sxsw &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/sxsw/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/sxsw/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 03 Mar 2008 05:10:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Deadbeat Poets at SXSW</title>
-		<link>https://www.lostinthegrooves.com/2008/03/03/deadbeatpoetssxsw/</link>
-					<comments>https://www.lostinthegrooves.com/2008/03/03/deadbeatpoetssxsw/#respond</comments>
+		<link>/2008/03/03/deadbeatpoetssxsw/</link>
+					<comments>/2008/03/03/deadbeatpoetssxsw/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 03 Mar 2008 05:10:54 +0000</pubDate>
@@ -31,14 +31,14 @@
 		<category><![CDATA[sxsw]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The Deadbeat Poets will be playing this year&#39;s SXSW Festival at: Lambert&#39;s Patio 401 W. 2nd St. Austin, Texas The band goes on at 9:00 pm Thursday, March 13th. More info on the Deadbeat Poets at: https://www.myspace.com/deadbeatpoets https://www.popdetective.com/ About The Deadbeat Poets The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. &#8230; <a href="https://www.lostinthegrooves.com/2008/03/03/deadbeatpoetssxsw/" class="more-link">Continue reading<span class="screen-reader-text"> "Deadbeat Poets at SXSW"</span></a>]]></description>
+					<description><![CDATA[The Deadbeat Poets will be playing this year&#39;s SXSW Festival at: Lambert&#39;s Patio 401 W. 2nd St. Austin, Texas The band goes on at 9:00 pm Thursday, March 13th. More info on the Deadbeat Poets at: https://www.myspace.com/deadbeatpoets https://www.popdetective.com/ About The Deadbeat Poets The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. &#8230; <a href="/2008/03/03/deadbeatpoetssxsw/" class="more-link">Continue reading<span class="screen-reader-text"> "Deadbeat Poets at SXSW"</span></a>]]></description>
 										<content:encoded><![CDATA[<p> The Deadbeat Poets will be playing this year&#39;s SXSW<br /> Festival at:<br /> Lambert&#39;s Patio<br /> 401 W. 2nd St.<br /> Austin, Texas</p>
 <p> The band goes on at 9:00 pm Thursday, March 13th.<br /> More info on the Deadbeat Poets at:<br /> <a href="https://www.myspace.com/deadbeatpoets" target="_blank">https://www.myspace.com/deadbeatpoets</a><br /> <a href="https://www.popdetective.com/" target="_blank">https://www.popdetective.com/</a></p>
 <p> About The Deadbeat Poets</p>
 <p> The Deadbeat Poets were formed in Youngstown, Ohio in<br /> the summer of 2006. The band consists of veteran Ohio<br /> musicians with eclectic credentials: Frank Secich<br /> (Blue Ash, Club Wow, Stiv Bators Band), Terry Hartman<br /> (Backdoor Men, Napoleon In Rags, Terry &amp; The<br /> Tornadoes), Pete Drivere (Infidels, Pretty Demons) and<br /> John Koury (Infidels, Slackjaw). Their debut album<br /> (which was recorded over the first few months of 2007<br /> at Youngstown&#39;s Ampreon Recorder) is now available on<br /> Pop Detective Records in America &amp; in Japan on Vivid<br /> Sound Records. Also, making guest appearances on the<br /> album are Bill &quot;Cupid&quot; Bartolin on guitar and Chris<br /> Leonardi on piano and organ.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/03/03/deadbeatpoetssxsw/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/03/deadbeatpoetssxsw/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

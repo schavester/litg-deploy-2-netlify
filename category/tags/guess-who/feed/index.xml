@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Guess Who &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/guess-who/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/guess-who/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 21 Apr 2008 22:27:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Psychedelic Sundae Ice Cream Headache</title>
-		<link>https://www.lostinthegrooves.com/2008/04/21/psychedelic-sundae-ice-cream-headache/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/21/psychedelic-sundae-ice-cream-headache/#comments</comments>
+		<link>/2008/04/21/psychedelic-sundae-ice-cream-headache/</link>
+					<comments>/2008/04/21/psychedelic-sundae-ice-cream-headache/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Mon, 21 Apr 2008 22:27:04 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[psychedelic]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[A friend sent me these. One of my good freinds. After hearing them, you will know why. Voyages Into &#8211; Rock Vol. 1 Voyages Into &#8211; Rock Vol. 2 Voyages Into &#8211; Folk Rock Vol.1 Voyages Into &#8211; Folk Rock Vol. 2 Voyages Into &#8211; Pop Psych Vol. 1 Voyages Into &#8211; Pop Psych Vol. &#8230; <a href="https://www.lostinthegrooves.com/2008/04/21/psychedelic-sundae-ice-cream-headache/" class="more-link">Continue reading<span class="screen-reader-text"> "Psychedelic Sundae Ice Cream Headache"</span></a>]]></description>
+					<description><![CDATA[A friend sent me these. One of my good freinds. After hearing them, you will know why. Voyages Into &#8211; Rock Vol. 1 Voyages Into &#8211; Rock Vol. 2 Voyages Into &#8211; Folk Rock Vol.1 Voyages Into &#8211; Folk Rock Vol. 2 Voyages Into &#8211; Pop Psych Vol. 1 Voyages Into &#8211; Pop Psych Vol. &#8230; <a href="/2008/04/21/psychedelic-sundae-ice-cream-headache/" class="more-link">Continue reading<span class="screen-reader-text"> "Psychedelic Sundae Ice Cream Headache"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>A friend sent me these. One of my good freinds. After hearing them,<br />
 you will know why.</p>
 <p>Voyages Into &#8211; Rock Vol. 1<br />
@@ -63,7 +63,7 @@ Voyages Into &#8211; Psychedelia Vol. 2</p>
 <p>You can get these comps exclusively at: https://members.aol.com/voyagescd/voyages.html </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/21/psychedelic-sundae-ice-cream-headache/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/21/psychedelic-sundae-ice-cream-headache/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

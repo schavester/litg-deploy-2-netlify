@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Steve Kilpatrick &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/steve-kilpatrick/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/steve-kilpatrick/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Apr 2006 21:05:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Crop Circles Uncovered!</title>
-		<link>https://www.lostinthegrooves.com/2006/04/28/crop-circles-uncovered/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/28/crop-circles-uncovered/#respond</comments>
+		<link>/2006/04/28/crop-circles-uncovered/</link>
+					<comments>/2006/04/28/crop-circles-uncovered/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2006 21:05:44 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Steve Kilpatrick]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160;&#160; If we can all quit staring at thecovers clothing Zeppelin&#8217;s big box sets for a few moments, let us ponder instead the metaphysical / comparatively higher fidelityheard round Michigan&#8217;s one and only Steve Kilpatrickand his Westside Crop Circles. Audible right now,yes indeed,(along with Me and Oprah, My Pajamas and The Pain even) right there &#8230; <a href="https://www.lostinthegrooves.com/2006/04/28/crop-circles-uncovered/" class="more-link">Continue reading<span class="screen-reader-text"> "Crop Circles Uncovered!"</span></a>]]></description>
+					<description><![CDATA[&#160;&#160; If we can all quit staring at thecovers clothing Zeppelin&#8217;s big box sets for a few moments, let us ponder instead the metaphysical / comparatively higher fidelityheard round Michigan&#8217;s one and only Steve Kilpatrickand his Westside Crop Circles. Audible right now,yes indeed,(along with Me and Oprah, My Pajamas and The Pain even) right there &#8230; <a href="/2006/04/28/crop-circles-uncovered/" class="more-link">Continue reading<span class="screen-reader-text"> "Crop Circles Uncovered!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" width="175" height="175" border="0" src="https://www.steve-kilpatrick.com/f-cover.jpg" />&nbsp;&nbsp; If we can all quit staring at the<strong><br /><a target="_self" href="https://www.primalwear.com/images/clothing/LZCCJERL_LG.gif">covers clothing</a></strong> Zeppelin&rsquo;s big box sets for a few moments,</p>
 <p>let us ponder instead <br />the metaphysical / comparatively higher fidelity<br />heard round Michigan&rsquo;s one and only <a target="_self" href="https://www.steve-kilpatrick.com/"><strong>Steve Kilpatrick</strong></a><br />and his <em>Westside Crop Circles</em>. </p>
 <p>Audible right now,<br />yes indeed,<br />(along with Me and Oprah, My Pajamas and The Pain even)</p>
@@ -40,7 +40,7 @@
 <p><strong /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/28/crop-circles-uncovered/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/28/crop-circles-uncovered/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

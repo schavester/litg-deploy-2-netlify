@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: testing	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/03/12/testing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/03/12/testing/</link>
+	<atom:link href="/2006/03/12/testing/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/03/12/testing/</link>
 	<description></description>
 	<lastBuildDate>Sun, 12 Mar 2006 20:32:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

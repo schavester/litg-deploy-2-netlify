@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Syd Barrett &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/syd-barrett/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/syd-barrett/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Jul 2006 22:43:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>For Syd.</title>
-		<link>https://www.lostinthegrooves.com/2006/07/11/for-syd/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/11/for-syd/#comments</comments>
+		<link>/2006/07/11/for-syd/</link>
+					<comments>/2006/07/11/for-syd/#comments</comments>
 		
 		<dc:creator><![CDATA[Craig Ceravolo]]></dc:creator>
 		<pubDate>Tue, 11 Jul 2006 22:43:04 +0000</pubDate>
@@ -34,7 +34,7 @@
 										<content:encoded><![CDATA[<p>Shine on, you crazy diamond.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/11/for-syd/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/11/for-syd/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

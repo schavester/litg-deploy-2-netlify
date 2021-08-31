@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pop Detective Records &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/pop-detective-records/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/pop-detective-records/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 01 Aug 2007 04:43:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>The Deadbeat Poets &#8220;Notes From The Underground&#8221;</title>
-		<link>https://www.lostinthegrooves.com/2007/08/01/the-deadbeat-poets-notes-from-the-underground/</link>
-					<comments>https://www.lostinthegrooves.com/2007/08/01/the-deadbeat-poets-notes-from-the-underground/#respond</comments>
+		<link>/2007/08/01/the-deadbeat-poets-notes-from-the-underground/</link>
+					<comments>/2007/08/01/the-deadbeat-poets-notes-from-the-underground/#respond</comments>
 		
 		<dc:creator><![CDATA[Frankiefane]]></dc:creator>
 		<pubDate>Wed, 01 Aug 2007 04:43:28 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Terry Hartman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The Deadbeat Poets Pete Drivere, Terry Hartman, Frank Secich &#038; John Koury &#8220;NOTES FROM THE UNDERGROUND&#8221; Now available at https://www.popdetective.com/ The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The band consists of veteran Ohio musicians with eclectic credentials: Frank Secich (Blue Ash, Club Wow, Stiv Bators Band), Terry Hartman (Backdoor &#8230; <a href="https://www.lostinthegrooves.com/2007/08/01/the-deadbeat-poets-notes-from-the-underground/" class="more-link">Continue reading<span class="screen-reader-text"> "The Deadbeat Poets &#8220;Notes From The Underground&#8221;"</span></a>]]></description>
+					<description><![CDATA[The Deadbeat Poets Pete Drivere, Terry Hartman, Frank Secich &#038; John Koury &#8220;NOTES FROM THE UNDERGROUND&#8221; Now available at https://www.popdetective.com/ The Deadbeat Poets were formed in Youngstown, Ohio in the summer of 2006. The band consists of veteran Ohio musicians with eclectic credentials: Frank Secich (Blue Ash, Club Wow, Stiv Bators Band), Terry Hartman (Backdoor &#8230; <a href="/2007/08/01/the-deadbeat-poets-notes-from-the-underground/" class="more-link">Continue reading<span class="screen-reader-text"> "The Deadbeat Poets &#8220;Notes From The Underground&#8221;"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="https://photobucket.com/" target="_blank"><img src="https://i145.photobucket.com/albums/r233/Frankiefane/viewphoto.jpg" border="0" alt="Photo Sharing and Video Hosting at Photobucket"></a></p>
 <p>The Deadbeat Poets<br />
 Pete Drivere, Terry Hartman, Frank Secich &#038; John Koury</p>
@@ -69,7 +69,7 @@ It&#8217;s Nothing<br />
 https://www.myspace.com/deadbeatpoets</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/08/01/the-deadbeat-poets-notes-from-the-underground/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/08/01/the-deadbeat-poets-notes-from-the-underground/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

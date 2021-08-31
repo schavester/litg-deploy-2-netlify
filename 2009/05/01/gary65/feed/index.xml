@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: My Jimi Hendrix Experience	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2009/05/01/gary65/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2009/05/01/gary65/</link>
+	<atom:link href="/2009/05/01/gary65/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/05/01/gary65/</link>
 	<description></description>
 	<lastBuildDate>Fri, 01 May 2009 22:16:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

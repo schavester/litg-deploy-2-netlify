@@ -9,8 +9,8 @@
 
 <channel>
 	<title>hello young lovers &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/hello-young-lovers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/hello-young-lovers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 May 2006 21:58:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Sparks Interview</title>
-		<link>https://www.lostinthegrooves.com/2006/05/17/sparks-interview/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/17/sparks-interview/#comments</comments>
+		<link>/2006/05/17/sparks-interview/</link>
+					<comments>/2006/05/17/sparks-interview/#comments</comments>
 		
 		<dc:creator><![CDATA[Robert Dayton]]></dc:creator>
 		<pubDate>Wed, 17 May 2006 21:58:11 +0000</pubDate>
@@ -36,7 +36,7 @@
 										<content:encoded><![CDATA[<p>A coupla months back I got the chance to interview Russell Mael of Sparks via telephone for a glossy free Vancouver rag.This was done to promote their new album </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/17/sparks-interview/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/17/sparks-interview/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

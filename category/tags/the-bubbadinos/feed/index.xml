@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Bubbadinos &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/the-bubbadinos/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/the-bubbadinos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 12 Jun 2006 02:47:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Okie Musique Concrete</title>
-		<link>https://www.lostinthegrooves.com/2006/06/12/okie-musique-concrete/</link>
-					<comments>https://www.lostinthegrooves.com/2006/06/12/okie-musique-concrete/#respond</comments>
+		<link>/2006/06/12/okie-musique-concrete/</link>
+					<comments>/2006/06/12/okie-musique-concrete/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2006 02:47:37 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[The Bubbadinos]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160;&#160;&#160; I&#8217;ve just received my latest Care Package from ol&#8217; pal Mark Weber, via the Zerx Records &#38; Press faux-conglomerate deep down there in the 87108 zip code. &#160; Yes, wittily stuffed inside his very latest chapbook split alongside jazz poet Gerald Locklin were the latest two installments of Mark&#8217;s greatest of so many inventions:&#160; &#8230; <a href="https://www.lostinthegrooves.com/2006/06/12/okie-musique-concrete/" class="more-link">Continue reading<span class="screen-reader-text"> "Okie Musique Concrete"</span></a>]]></description>
+					<description><![CDATA[&#160;&#160;&#160; I&#8217;ve just received my latest Care Package from ol&#8217; pal Mark Weber, via the Zerx Records &#38; Press faux-conglomerate deep down there in the 87108 zip code. &#160; Yes, wittily stuffed inside his very latest chapbook split alongside jazz poet Gerald Locklin were the latest two installments of Mark&#8217;s greatest of so many inventions:&#160; &#8230; <a href="/2006/06/12/okie-musique-concrete/" class="more-link">Continue reading<span class="screen-reader-text"> "Okie Musique Concrete"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" width="160" height="125" border="0" src="https://img303.imageshack.us/img303/4443/zerxgeetr4yr.gif" />&nbsp;&nbsp;&nbsp; I&rsquo;ve just received my latest Care Package from ol&rsquo; pal <a target="_self" href="https://www.blogger.com/profile/10183928"><strong>Mark Weber</strong></a>, via the Zerx Records &amp; Press faux-conglomerate deep down there in the 87108 zip code. &nbsp;</p>
 <p>Yes, wittily stuffed inside his very latest chapbook split alongside jazz poet Gerald Locklin were the latest two installments of Mark&rsquo;s greatest of so many inventions:&nbsp; Volumes 21 and 22 of the rightfully Zerx-famous <em>albuZERXque</em> compact compilations. &nbsp;</p>
 <p>The ear truly boggles &hellip;particularly at the abundant sharp Dylan retreads spread across Number 22. </p>
@@ -42,7 +42,7 @@
 <p>&ldquo;Over 50 Records and Still Going Wrong !&rdquo;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/06/12/okie-musique-concrete/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/12/okie-musique-concrete/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

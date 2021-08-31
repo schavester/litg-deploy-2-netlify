@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Big Elf &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/big-elf/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/big-elf/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 04 Aug 2006 16:11:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Time For Some Elf Examination</title>
-		<link>https://www.lostinthegrooves.com/2006/08/04/time-for-some-elf-examination/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/04/time-for-some-elf-examination/#respond</comments>
+		<link>/2006/08/04/time-for-some-elf-examination/</link>
+					<comments>/2006/08/04/time-for-some-elf-examination/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Fri, 04 Aug 2006 16:11:27 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Queen]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[There is this casual friend of mine who has realised over the past year or so that I am intensely into music and that I am a certifiable Music Nerd. Though he is a fan of metal and knows that I am not so into that subgenre of Rock and Roll, he asked me if &#8230; <a href="https://www.lostinthegrooves.com/2006/08/04/time-for-some-elf-examination/" class="more-link">Continue reading<span class="screen-reader-text"> "Time For Some Elf Examination"</span></a>]]></description>
+					<description><![CDATA[There is this casual friend of mine who has realised over the past year or so that I am intensely into music and that I am a certifiable Music Nerd. Though he is a fan of metal and knows that I am not so into that subgenre of Rock and Roll, he asked me if &#8230; <a href="/2006/08/04/time-for-some-elf-examination/" class="more-link">Continue reading<span class="screen-reader-text"> "Time For Some Elf Examination"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>    <a href="https://www.amazon.com/exec/obidos/ASIN/B000003ORJ/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000003ORJ.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
 <form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000003ORJ" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>    There is this casual friend of mine who has realised over the past year or so that I am intensely into music and that I am a certifiable Music Nerd. Though he is a fan of metal and knows that I am not so into that subgenre of Rock and Roll, he asked me if I had any curios in my CD collection that he might like.</p>
@@ -50,7 +50,7 @@
 <p>    The Music Nerd knows&#8230;&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/04/time-for-some-elf-examination/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/04/time-for-some-elf-examination/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

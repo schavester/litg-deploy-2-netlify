@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Litter and Leech &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/litter-and-leech/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/litter-and-leech/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 01 Oct 2006 22:57:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Introducing Litter and Leech !</title>
-		<link>https://www.lostinthegrooves.com/2006/10/01/introducing-litter-and-leech/</link>
-					<comments>https://www.lostinthegrooves.com/2006/10/01/introducing-litter-and-leech/#comments</comments>
+		<link>/2006/10/01/introducing-litter-and-leech/</link>
+					<comments>/2006/10/01/introducing-litter-and-leech/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 01 Oct 2006 22:57:32 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Lord Litter]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Direct from the quite-legendarily Unsound Home CD Series, in the above-grand tradition of the magnificent Mungo Jerry, with all the semi-fi glory of the more Scoop-sublime Pete Townshend, and harkening straight back to those distant daze when People Were Fair And Had Sky In Their Hair comes my old media and genre-hopping pal Lord Litter &#8230; <a href="https://www.lostinthegrooves.com/2006/10/01/introducing-litter-and-leech/" class="more-link">Continue reading<span class="screen-reader-text"> "Introducing Litter and Leech !"</span></a>]]></description>
+					<description><![CDATA[Direct from the quite-legendarily Unsound Home CD Series, in the above-grand tradition of the magnificent Mungo Jerry, with all the semi-fi glory of the more Scoop-sublime Pete Townshend, and harkening straight back to those distant daze when People Were Fair And Had Sky In Their Hair comes my old media and genre-hopping pal Lord Litter &#8230; <a href="/2006/10/01/introducing-litter-and-leech/" class="more-link">Continue reading<span class="screen-reader-text"> "Introducing Litter and Leech !"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img border="0" src="https://www.lordlitter.de/pix/cd_cover_klein.gif" /></p>
 <p>Direct from the quite-legendarily <a target="_self" href="https://www.tomlou.com/unsound.html"><em>Unsound</em></a> Home CD Series, in the above-grand tradition of the magnificent Mungo Jerry, with all the semi-fi glory of the more <em>Scoop</em>-sublime Pete Townshend, and harkening straight back to those distant daze when <em>People Were Fair And Had Sky In Their Hair </em>comes my old <a target="_self" href="https://www.lordlitter.de/stations.html"><strong>media</strong></a> and genre-hopping pal <a target="_self" href="https://www.lordlitter.de/"><strong>Lord Litter</strong></a> alongside his lifelong right-hand guitarzan Lefty Leech.&nbsp; </p>
 <p>Now together these two raving folkabillies, armed with a mere twelve strings strung up two acoustics between them (plus the odd dash of keys &lsquo;n&rsquo; beat here and then there), slap-happily produce a rhythmic revue as wholly unhinged as it is simply unplugged.&nbsp; And not surprising at all, is it, with just one look at their choice of source material &ndash; Marriott/Lane, the Young Springfield, Edmunds and Cash and even John and Paul &ndash; decisively proving L &amp; L are more than extremely out on the right channel throughout this bold new socio-musical mission of theirs.</p>
@@ -40,7 +40,7 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/10/01/introducing-litter-and-leech/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/01/introducing-litter-and-leech/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

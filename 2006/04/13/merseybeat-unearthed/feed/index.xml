@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Merseybeat Unearthed!	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/04/13/merseybeat-unearthed/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/04/13/merseybeat-unearthed/</link>
+	<atom:link href="/2006/04/13/merseybeat-unearthed/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/04/13/merseybeat-unearthed/</link>
 	<description></description>
 	<lastBuildDate>Thu, 13 Apr 2006 20:22:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Tony Sclafani		</title>
-		<link>https://www.lostinthegrooves.com/2006/04/13/merseybeat-unearthed/#comment-8</link>
+		<link>/2006/04/13/merseybeat-unearthed/#comment-8</link>
 
 		<dc:creator><![CDATA[Tony Sclafani]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

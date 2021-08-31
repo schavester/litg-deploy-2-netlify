@@ -9,8 +9,8 @@
 
 <channel>
 	<title>cowboy in sweden &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/cowboy-in-sweden/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/cowboy-in-sweden/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 05 Aug 2006 22:42:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Lee Hazlewood/ Porter wagoner- What Ain&#8217;t To Be, Just might happen</title>
-		<link>https://www.lostinthegrooves.com/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/#comments</comments>
+		<link>/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/</link>
+					<comments>/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/#comments</comments>
 		
 		<dc:creator><![CDATA[Robert Dayton]]></dc:creator>
 		<pubDate>Sat, 05 Aug 2006 22:42:13 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Robert Dayton: Going Great!]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day: Lee Hazlewood- &#8230; <a href="https://www.lostinthegrooves.com/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/" class="more-link">Continue reading<span class="screen-reader-text"> "Lee Hazlewood/ Porter wagoner- What Ain&#8217;t To Be, Just might happen"</span></a>]]></description>
+					<description><![CDATA[So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day: Lee Hazlewood- &#8230; <a href="/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/" class="more-link">Continue reading<span class="screen-reader-text"> "Lee Hazlewood/ Porter wagoner- What Ain&#8217;t To Be, Just might happen"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day:<br />
 <a href="https://www.amazon.com/exec/obidos/ASIN/B00000IJGY/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B00000IJGY.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
 <form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00000IJGY" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
@@ -42,7 +42,7 @@
 Apparently it was Hazlewood</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/05/lee-hazlewood-porter-wagoner-what-aint-to-be-just-might-happen/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

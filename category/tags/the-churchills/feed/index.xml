@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Churchills &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/the-churchills/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/the-churchills/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 May 2006 17:42:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Power, Pop, and CBGB</title>
-		<link>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/#comments</comments>
+		<link>/2006/05/08/power-pop-and-cbgb/</link>
+					<comments>/2006/05/08/power-pop-and-cbgb/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 08 May 2006 17:42:54 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>May 18th <br />at&nbsp; <a target="_self" href="https://www.cbgb.com/"><strong>CBGB </strong></a><br />315 Bowery<br />NY, NY </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/08/power-pop-and-cbgb/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/08/power-pop-and-cbgb/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

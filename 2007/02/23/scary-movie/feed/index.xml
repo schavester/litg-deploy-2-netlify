@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Scary Movie	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/02/23/scary-movie/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/02/23/scary-movie/</link>
+	<atom:link href="/2007/02/23/scary-movie/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/02/23/scary-movie/</link>
 	<description></description>
 	<lastBuildDate>Fri, 23 Feb 2007 17:03:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

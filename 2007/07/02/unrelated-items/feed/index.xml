@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Unrelated Items	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/07/02/unrelated-items/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/07/02/unrelated-items/</link>
+	<atom:link href="/2007/07/02/unrelated-items/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/07/02/unrelated-items/</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Jul 2007 06:42:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

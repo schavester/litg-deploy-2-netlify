@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: foo	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2008/02/04/foo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2008/02/04/foo/</link>
+	<atom:link href="/2008/02/04/foo/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/02/04/foo/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Feb 2008 20:29:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

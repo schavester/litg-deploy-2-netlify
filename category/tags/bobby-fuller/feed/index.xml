@@ -9,8 +9,8 @@
 
 <channel>
 	<title>bobby fuller &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/bobby-fuller/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/bobby-fuller/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 19 Sep 2007 01:50:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>10/21 LA- Where The Action Was rock history tour</title>
-		<link>https://www.lostinthegrooves.com/2007/09/19/wheretheactionwas/</link>
-					<comments>https://www.lostinthegrooves.com/2007/09/19/wheretheactionwas/#comments</comments>
+		<link>/2007/09/19/wheretheactionwas/</link>
+					<comments>/2007/09/19/wheretheactionwas/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 19 Sep 2007 01:50:40 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[the byrds]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[For immediate releaseÃ‚Â September 18, 2007Ã‚Â New Hollywood Rock and Roll History Tour stars Phil Spector and Bobby Fuller LOS ANGELES- Esotouric, the eclectic collective whose offbeat bus tours expose LA&#39;s secret history, returns to founder Kim Cooper&#39;s rock and roll roots on Sunday, October 21, when they launch WHERE THE ACTION WAS. This new tour, co-hosted &#8230; <a href="https://www.lostinthegrooves.com/2007/09/19/wheretheactionwas/" class="more-link">Continue reading<span class="screen-reader-text"> "10/21 LA- Where The Action Was rock history tour"</span></a>]]></description>
+					<description><![CDATA[For immediate releaseÃ‚Â September 18, 2007Ã‚Â New Hollywood Rock and Roll History Tour stars Phil Spector and Bobby Fuller LOS ANGELES- Esotouric, the eclectic collective whose offbeat bus tours expose LA&#39;s secret history, returns to founder Kim Cooper&#39;s rock and roll roots on Sunday, October 21, when they launch WHERE THE ACTION WAS. This new tour, co-hosted &#8230; <a href="/2007/09/19/wheretheactionwas/" class="more-link">Continue reading<span class="screen-reader-text"> "10/21 LA- Where The Action Was rock history tour"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>For immediate release<br />Ã‚Â <br />September 18, 2007<br />Ã‚Â <br />New Hollywood Rock and Roll History Tour stars Phil Spector and Bobby Fuller</p>
 <p>LOS ANGELES- Esotouric, the eclectic collective whose offbeat bus tours expose LA&#39;s secret history, returns to founder Kim Cooper&#39;s rock and roll roots on Sunday, October 21, when they launch WHERE THE ACTION WAS. This new tour, co-hosted by pop critic Gene Sculatti, explores the musical history of Hollywood and the Sunset Strip through visits to celebrated nightclubs, recording studios, record label offices and other places of subcultural importance.</p>
 <p>The launch date is no accident, falling one day before Bobby Fuller, the gifted rocker whose &quot;I Fought The Law&quot; is one of the great singles of the 1960s, would have turned 65. Fuller&#39;s mysterious 1966 &quot;suicide&quot; (thought by many to be an unsolved murder) is one of several storylines followed on the neighborhood tour, which also explores the life, the highs and lows of super-producer Phil Spector, the racially mixed psychedelic lions Arthur Lee &amp; Love and the folk-rocking Byrds and their extraordinary entourage of self-proclaimed freaks and go-go dancers.</p>
@@ -50,7 +50,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/09/19/wheretheactionwas/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/09/19/wheretheactionwas/feed/</wfw:commentRss>
 			<slash:comments>9</slash:comments>
 		
 		

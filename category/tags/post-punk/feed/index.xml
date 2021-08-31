@@ -9,8 +9,8 @@
 
 <channel>
 	<title>post-punk &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/post-punk/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/post-punk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Mar 2006 23:53:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>cult of the week &#8211; 17 Pygmies</title>
-		<link>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/#comments</comments>
+		<link>/2006/03/17/cult-of-the-week-17-pygmies/</link>
+					<comments>/2006/03/17/cult-of-the-week-17-pygmies/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Fri, 17 Mar 2006 23:53:53 +0000</pubDate>
@@ -38,7 +38,7 @@
 										<content:encoded><![CDATA[<p>artist: 17 Pygmies</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/17/cult-of-the-week-17-pygmies/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/17/cult-of-the-week-17-pygmies/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

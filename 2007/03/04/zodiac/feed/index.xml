@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Zodiac	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/03/04/zodiac/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/03/04/zodiac/</link>
+	<atom:link href="/2007/03/04/zodiac/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/03/04/zodiac/</link>
 	<description></description>
 	<lastBuildDate>Sun, 04 Mar 2007 03:08:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

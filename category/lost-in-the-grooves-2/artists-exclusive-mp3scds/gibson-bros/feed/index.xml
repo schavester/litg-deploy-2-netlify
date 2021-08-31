@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gibson Bros &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/lost-in-the-grooves-2/artists-exclusive-mp3scds/gibson-bros/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/lost-in-the-grooves-2/artists-exclusive-mp3scds/gibson-bros/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Mar 2006 08:50:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Big Pine Boogie</title>
-		<link>https://www.lostinthegrooves.com/2006/03/08/big-pine-boogie/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/08/big-pine-boogie/#respond</comments>
+		<link>/2006/03/08/big-pine-boogie/</link>
+					<comments>/2006/03/08/big-pine-boogie/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 08 Mar 2006 08:50:07 +0000</pubDate>
@@ -46,7 +46,7 @@ Big Pine Boogie<br />
 <p>The debut from Columbus, OH blues and country archivists the Gibson Bros arrived at the height of indie rock</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/08/big-pine-boogie/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/08/big-pine-boogie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

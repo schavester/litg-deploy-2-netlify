@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Jack White &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/jack-white/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/jack-white/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Nov 2006 05:34:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Keep Givin&#8217; Me Mo&#8217;, Tony Joe</title>
-		<link>https://www.lostinthegrooves.com/2006/11/09/keep-givin-me-mo-tony-joe/</link>
-					<comments>https://www.lostinthegrooves.com/2006/11/09/keep-givin-me-mo-tony-joe/#comments</comments>
+		<link>/2006/11/09/keep-givin-me-mo-tony-joe/</link>
+					<comments>/2006/11/09/keep-givin-me-mo-tony-joe/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Thu, 09 Nov 2006 05:34:35 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[White Stripes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Sure, I come back after a little sabbatical and there&#8217;s no fanfare, no cake, no party, and, worst of all, no friggin&#8217; BALLOONS for chrissakes. What the #$%^? Anyway, been gone for too long, drinking shit that&#8217;s too strong, learning some songs and singin&#8217; &#8217;em wrong, removing some groupies&#8217; thongs and hitting some bongs, listening &#8230; <a href="https://www.lostinthegrooves.com/2006/11/09/keep-givin-me-mo-tony-joe/" class="more-link">Continue reading<span class="screen-reader-text"> "Keep Givin&#8217; Me Mo&#8217;, Tony Joe"</span></a>]]></description>
+					<description><![CDATA[Sure, I come back after a little sabbatical and there&#8217;s no fanfare, no cake, no party, and, worst of all, no friggin&#8217; BALLOONS for chrissakes. What the #$%^? Anyway, been gone for too long, drinking shit that&#8217;s too strong, learning some songs and singin&#8217; &#8217;em wrong, removing some groupies&#8217; thongs and hitting some bongs, listening &#8230; <a href="/2006/11/09/keep-givin-me-mo-tony-joe/" class="more-link">Continue reading<span class="screen-reader-text"> "Keep Givin&#8217; Me Mo&#8217;, Tony Joe"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
     Sure, I come back after a little sabbatical and there&#8217;s no fanfare, no cake, no party, and, worst of all, no friggin&#8217; BALLOONS for chrissakes. What the #$%^?</p>
 <p>    Anyway, been gone for too long, drinking shit that&#8217;s too strong, learning some songs and singin&#8217; &#8217;em wrong, removing some groupies&#8217; thongs and hitting some bongs, listening to T-Rex and banging some gongs &#8211;  fuck it&#8230;it&#8217;s time to slow down a little and who best to slow down to than some Snakey?</p>
@@ -50,7 +50,7 @@
 <p>    The Music Nerd knows&#8230;..????!!!!????       </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/11/09/keep-givin-me-mo-tony-joe/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/09/keep-givin-me-mo-tony-joe/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

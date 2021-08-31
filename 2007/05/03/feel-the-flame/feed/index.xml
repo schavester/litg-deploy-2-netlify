@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Feel The Flame	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/05/03/feel-the-flame/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/05/03/feel-the-flame/</link>
+	<atom:link href="/2007/05/03/feel-the-flame/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/05/03/feel-the-flame/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 May 2007 15:46:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: garypiggold		</title>
-		<link>https://www.lostinthegrooves.com/2007/05/03/feel-the-flame/#comment-51</link>
+		<link>/2007/05/03/feel-the-flame/#comment-51</link>
 
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

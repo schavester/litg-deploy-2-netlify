@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: What is my problem?	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/08/11/what-is-my-problem/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/08/11/what-is-my-problem/</link>
+	<atom:link href="/2007/08/11/what-is-my-problem/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/08/11/what-is-my-problem/</link>
 	<description></description>
 	<lastBuildDate>Sat, 11 Aug 2007 01:09:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

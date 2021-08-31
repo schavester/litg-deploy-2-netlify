@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Seeds &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/the-seeds/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/the-seeds/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 14 Apr 2008 02:09:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Simply Saucer</title>
-		<link>https://www.lostinthegrooves.com/2008/04/14/gary59/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/14/gary59/#respond</comments>
+		<link>/2008/04/14/gary59/</link>
+					<comments>/2008/04/14/gary59/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 14 Apr 2008 02:09:18 +0000</pubDate>
@@ -34,9 +34,9 @@
 		<category><![CDATA[velvet underground]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[As stated before, Hamilton, Ontario, CanadaÃ¢â‚¬â„¢sone and onlyBeefheart/Seeds/Floyd/Velvets-evenuber-amalgamation(aka Simply Saucer) have recently reformed, relaunched,recorded and now actually releasedtheir first Ã¢â‚¬Å“officialÃ¢â‚¬Â album in, oh,say three-and-a-half-decades or so,give or take. andSaid sounds can now be streamed,sampled,purchased,and/or experienced fully live by any and allwilling to leave preconceptions,not to mention pigeonholes,firmly in the half past. Just be sure to &#8230; <a href="https://www.lostinthegrooves.com/2008/04/14/gary59/" class="more-link">Continue reading<span class="screen-reader-text"> "Simply Saucer"</span></a>]]></description>
+					<description><![CDATA[As stated before, Hamilton, Ontario, CanadaÃ¢â‚¬â„¢sone and onlyBeefheart/Seeds/Floyd/Velvets-evenuber-amalgamation(aka Simply Saucer) have recently reformed, relaunched,recorded and now actually releasedtheir first Ã¢â‚¬Å“officialÃ¢â‚¬Â album in, oh,say three-and-a-half-decades or so,give or take. andSaid sounds can now be streamed,sampled,purchased,and/or experienced fully live by any and allwilling to leave preconceptions,not to mention pigeonholes,firmly in the half past. Just be sure to &#8230; <a href="/2008/04/14/gary59/" class="more-link">Continue reading<span class="screen-reader-text"> "Simply Saucer"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://dawn.cbcr3.com/nmc/9/9779/Images/HHHL.jpg" alt="" width="210" height="210" /></p>
-<p>As <a href="https://www.lostinthegrooves.com/?p=2745"><strong>stated before</strong></a>,</p>
+<p>As <a href="/?p=2745"><strong>stated before</strong></a>,</p>
 <p>Hamilton, Ontario, CanadaÃ¢â‚¬â„¢s<br />one and only<br />Beefheart/Seeds/Floyd/Velvets-even<br />uber-amalgamation<br />(<em>aka</em> <a href="https://www.simplysaucer.com/"><strong>Simply Saucer</strong></a>)</p>
 <p>have recently reformed, relaunched,<br />recorded and now actually released<br />their first Ã¢â‚¬Å“officialÃ¢â‚¬Â album</strong></a> in, oh,<br />say three-and-a-half-decades or so,<br />give or take.</p>
 <p>and<br />Said sounds can now be <a href="https://www.sonicunyon.com/ecards/suncd118/"><strong>streamed</strong></a>,<br /><a href="https://www.myspace.com/officialsimplysaucer"><strong>sampled</strong></a>,<br /><a href="https://www.sonicunyon.com/labelshop/"><strong>purchased</strong></a>,<br />and/or <a href="https://www.pitchforkmedia.com/article/news/50199-simply-saucer-reveal-ihalf-livei-lp-details-tour-dates"><strong>experienced fully live</strong></a></p>
@@ -46,7 +46,7 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/14/gary59/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/14/gary59/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

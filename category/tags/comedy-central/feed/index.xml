@@ -9,8 +9,8 @@
 
 <channel>
 	<title>comedy central &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/comedy-central/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/comedy-central/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 15 Aug 2006 19:53:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Laughing All The Way To The Bank</title>
-		<link>https://www.lostinthegrooves.com/2006/08/15/laughing-all-the-way-to-the-bank/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/15/laughing-all-the-way-to-the-bank/#comments</comments>
+		<link>/2006/08/15/laughing-all-the-way-to-the-bank/</link>
+					<comments>/2006/08/15/laughing-all-the-way-to-the-bank/#comments</comments>
 		
 		<dc:creator><![CDATA[Alex Edelman]]></dc:creator>
 		<pubDate>Tue, 15 Aug 2006 19:53:21 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[MySpace]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Yo Guys, You can stop sending me emails. I am now adding new content. Thanks so much for the nice feedback, and please keep checking out Blue Fringe, Chris Mills, and The Fray. It is the world&#8217;s most scoffed-at art form. It has been denounced as vulgar, irreverent, and irrelevant. It has been decried as &#8230; <a href="https://www.lostinthegrooves.com/2006/08/15/laughing-all-the-way-to-the-bank/" class="more-link">Continue reading<span class="screen-reader-text"> "Laughing All The Way To The Bank"</span></a>]]></description>
+					<description><![CDATA[Yo Guys, You can stop sending me emails. I am now adding new content. Thanks so much for the nice feedback, and please keep checking out Blue Fringe, Chris Mills, and The Fray. It is the world&#8217;s most scoffed-at art form. It has been denounced as vulgar, irreverent, and irrelevant. It has been decried as &#8230; <a href="/2006/08/15/laughing-all-the-way-to-the-bank/" class="more-link">Continue reading<span class="screen-reader-text"> "Laughing All The Way To The Bank"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><span class="light">Yo Guys, You can stop sending me emails. I am now adding new content. Thanks so much for the nice feedback, and please keep checking out Blue Fringe, Chris Mills, and The Fray.</span></p>
 <p><span class="light">It is the world&rsquo;s most scoffed-at art form. It has been denounced as vulgar, irreverent, and irrelevant. It has been decried as filthy, simple and, for lack of a better word&mdash;stupid. It is stand-up comedy, and despite the way that the rest of the pop-culture universe looks at it, stand-up is performed in basements, attics, and back rooms of countless Chinese restaurants across the country. And, what&rsquo;s more, it&rsquo;s blasting its way past every barrier en route to your sophisticated eyeballs and carefully maintained eardrums. Whether you like it or not.</span></p>
 <p><span class="light">For a long time, music has distanced itself from comedy, especially stand-up, and rarely does a comedy album reach a prominent spot on the record charts. Large record labels usually do not put out comedy albums, and at the end of 2005, only two of the top 200 album<img loading="lazy" title="Dane Cook's Retaliation" height="200" alt="Dane Cook's Retaliation" src="https://static.flickr.com/91/215975950_32a2554ec7.jpg?v=0" width="200" align="right" border="0" />s were of the comedy variety. But in 2006, one comedian with a great idea and a few hundred thousand friends flipped the entire world of pop culture on its ass. His name is </span><a href="https://www.danecook.com/"><span class="light">Dane Cook</span></a><span class="light">, and his album, Retaliation, is helping comedy move out of the &ldquo;Soundtrack&rdquo; and &ldquo;Spoken Word&rdquo; sections, and onto the Billboard charts.<br /></span></p>
@@ -64,7 +64,7 @@
 <p><span class="light">Alex Edelman&#8217;s Myspace is <a href="https://www.myspace.com/alexedelmancomedy">www.myspace.com/alexedelmancomedy</a></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/15/laughing-all-the-way-to-the-bank/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/15/laughing-all-the-way-to-the-bank/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

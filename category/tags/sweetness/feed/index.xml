@@ -9,8 +9,8 @@
 
 <channel>
 	<title>sweetness &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/sweetness/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/sweetness/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 22 Mar 2006 21:49:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Dream Lake Ukelele Band</title>
-		<link>https://www.lostinthegrooves.com/2006/03/22/dream-lake-ukelele-band/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/22/dream-lake-ukelele-band/#respond</comments>
+		<link>/2006/03/22/dream-lake-ukelele-band/</link>
+					<comments>/2006/03/22/dream-lake-ukelele-band/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2006 21:49:56 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[ukelele]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Dream Lake Ukulele Band is a Lost in the Grooves exclusive. Click to sample the music or purchase. Dream Lake Ukulele Band Dream Lake Ukulele Band (Crest, 1976) What do you get when you cross twenty-seven ukuleles, a Little Marcy record, and the Langley Schools Music Project? The result is a bizarre hybrid called the &#8230; <a href="https://www.lostinthegrooves.com/2006/03/22/dream-lake-ukelele-band/" class="more-link">Continue reading<span class="screen-reader-text"> "Dream Lake Ukelele Band"</span></a>]]></description>
+					<description><![CDATA[Dream Lake Ukulele Band is a Lost in the Grooves exclusive. Click to sample the music or purchase. Dream Lake Ukulele Band Dream Lake Ukulele Band (Crest, 1976) What do you get when you cross twenty-seven ukuleles, a Little Marcy record, and the Langley Schools Music Project? The result is a bizarre hybrid called the &#8230; <a href="/2006/03/22/dream-lake-ukelele-band/" class="more-link">Continue reading<span class="screen-reader-text"> "Dream Lake Ukelele Band"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Dream Lake Ukulele Band is a Lost in the Grooves exclusive. <a href="https://www.maryattmusic.com/search_results_cd.php?cd=MMG+262&#038;artist=193" target="_blank">Click</a> to sample the music or purchase.</p>
 <p>Dream Lake Ukulele Band<br /> Dream Lake Ukulele Band<br /> (Crest, 1976)</p>
 <p> What do you get when you cross twenty-seven ukuleles, a Little Marcy record, and the Langley Schools Music Project? The result is a bizarre hybrid called the Dream Lake Ukulele Band, a Florida school group whose performances are documented on Crest Records, a New York vanity label. The back cover shows twenty-seven grade school aged students, all wearing white shirts and red vests, the boys also wearing neckties. Sound boring? Not when every kid is smiling and holding a ukulele. </p>
@@ -45,7 +45,7 @@
 <p>Are you a member of the Dream Lake Ukelele Band? If so, please <a href="https://litg.richardschave.com//feedback" target="_blank">contact</a> us!&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/22/dream-lake-ukelele-band/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/22/dream-lake-ukelele-band/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>merry-go-round &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/merry-go-round/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/merry-go-round/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 11 Sep 2006 09:11:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Emitt Rhodes photo bonanza</title>
-		<link>https://www.lostinthegrooves.com/2006/09/11/emitt-rhodes-photo-bonanza/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/11/emitt-rhodes-photo-bonanza/#respond</comments>
+		<link>/2006/09/11/emitt-rhodes-photo-bonanza/</link>
+					<comments>/2006/09/11/emitt-rhodes-photo-bonanza/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 11 Sep 2006 09:11:01 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[sixties]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[E- is for Emerals, his first band M- is for melody, and ain&#8217;t his sweet I- is for Id (see his interview in Scram #18) T- is for tempo, which the multi-instrumentalist kept T- is for tape, which when rolling can capture gems &#160; R- is for &#34;Really Wanted You,&#34; which is pretty near perfect &#8230; <a href="https://www.lostinthegrooves.com/2006/09/11/emitt-rhodes-photo-bonanza/" class="more-link">Continue reading<span class="screen-reader-text"> "Emitt Rhodes photo bonanza"</span></a>]]></description>
+					<description><![CDATA[E- is for Emerals, his first band M- is for melody, and ain&#8217;t his sweet I- is for Id (see his interview in Scram #18) T- is for tempo, which the multi-instrumentalist kept T- is for tape, which when rolling can capture gems &#160; R- is for &#34;Really Wanted You,&#34; which is pretty near perfect &#8230; <a href="/2006/09/11/emitt-rhodes-photo-bonanza/" class="more-link">Continue reading<span class="screen-reader-text"> "Emitt Rhodes photo bonanza"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>E- is for Emerals, his first band </p>
 <p>M- is for melody, and ain&#8217;t his sweet </p>
 <p>I- is for Id (see his interview in Scram #18) </p>
@@ -52,7 +52,7 @@
 <p>Put em all together and they spell EMITT RHODES, a good friend of the Scram gang, and subject of one of our more jaw-droppingly frank interviews. In honor of Emitt, we&#8217;ve created a gallery of rare photos from his personal archives up on flickr, which you may <a href="https://www.flickr.com/photos/richardschave/sets/72157594278913892/" target="_blank">peruse at leisure</a>. Many of these only appeared in <a href="https://www.scrammagazine.com/scram18" target="_blank">Scram #18</a>, and others have never been publically seen at all&#8211;including a few from a roll of unprinted slide film circa 1968. Thanks, Emitt, for all the great pix! And if you like deliriously catchy melodic pop, you owe it to your ears to pick up his disks, in thrift stores or import CDs. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/11/emitt-rhodes-photo-bonanza/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/11/emitt-rhodes-photo-bonanza/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pete Dello &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/pete-dello/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/pete-dello/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Sep 2006 06:54:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Brimming with Bremner or Let&#8217;s Hop on the Honeybus</title>
-		<link>https://www.lostinthegrooves.com/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/#respond</comments>
+		<link>/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/</link>
+					<comments>/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 12 Sep 2006 06:54:29 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Rockpile]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[While listening to my Honeybus greatest hits collection and battling writer&#8217;s block for the umpteenth time my memory sparked on something interesting: the little-known and heretofore ignored connection between Rockpile and the should-have-been legendary Honeybus. Being the music freaks I know you are I have no doubt you know about Rockpile and it&#8217;s members Nick &#8230; <a href="https://www.lostinthegrooves.com/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/" class="more-link">Continue reading<span class="screen-reader-text"> "Brimming with Bremner or Let&#8217;s Hop on the Honeybus"</span></a>]]></description>
+					<description><![CDATA[While listening to my Honeybus greatest hits collection and battling writer&#8217;s block for the umpteenth time my memory sparked on something interesting: the little-known and heretofore ignored connection between Rockpile and the should-have-been legendary Honeybus. Being the music freaks I know you are I have no doubt you know about Rockpile and it&#8217;s members Nick &#8230; <a href="/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/" class="more-link">Continue reading<span class="screen-reader-text"> "Brimming with Bremner or Let&#8217;s Hop on the Honeybus"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
      While listening to my Honeybus greatest hits collection and battling writer&#8217;s block for the umpteenth time my memory sparked on something interesting: the little-known and heretofore ignored connection between Rockpile and the should-have-been legendary Honeybus.</p>
 <p>     Being the music freaks I know you are I have no doubt you know about Rockpile and it&#8217;s members Nick Lowe, Dave Edmunds, Billy Bremner and Terry Williams and are fans of both the band and the individual careers of the members. Now, if you need refreshing on all that, just peruse earlier editions of this blog and you will find a few tidbits of info included therein.</p>
@@ -47,7 +47,7 @@
 <p>     The Music Nerd Knows&#8230;&#8230;..        </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/12/brimming-with-bremner-or-lets-hop-on-the-honeybus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>mojo &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/mojo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/mojo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Apr 2008 23:42:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Aeroplane is a Mojo Book of the Year</title>
-		<link>https://www.lostinthegrooves.com/2008/04/09/mojopoll/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/09/mojopoll/#respond</comments>
+		<link>/2008/04/09/mojopoll/</link>
+					<comments>/2008/04/09/mojopoll/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 09 Apr 2008 23:42:09 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[readers]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I&#39;m awfully pleased to report that the Mojo Magazine readers poll for Book of the Year 2007 are in, and my oral history of Neutral Milk Hotel made it into the top 5! And the winners are: 1. There&#39;s a Riot Going On &#8211; Peter Doggett 2. Bowie, Bolan and the Brooklyn Boy &#8211; Tony &#8230; <a href="https://www.lostinthegrooves.com/2008/04/09/mojopoll/" class="more-link">Continue reading<span class="screen-reader-text"> "Aeroplane is a Mojo Book of the Year"</span></a>]]></description>
+					<description><![CDATA[I&#39;m awfully pleased to report that the Mojo Magazine readers poll for Book of the Year 2007 are in, and my oral history of Neutral Milk Hotel made it into the top 5! And the winners are: 1. There&#39;s a Riot Going On &#8211; Peter Doggett 2. Bowie, Bolan and the Brooklyn Boy &#8211; Tony &#8230; <a href="/2008/04/09/mojopoll/" class="more-link">Continue reading<span class="screen-reader-text"> "Aeroplane is a Mojo Book of the Year"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>I&#39;m awfully pleased to report that the Mojo Magazine readers poll for Book of the Year 2007 are in, and my oral history of <a href="https://www.amazon.com/exec/obidos/ASIN/082641690X/ref=nosim/bubblegumbook">Neutral Milk Hotel </a>made it into the top 5!</p>
 <p>And the winners are: </p>
 <p>1. <a href="https://www.amazon.com/exec/obidos/ASIN/1847671802/ref=nosim/bubblegumbook">There&#39;s a Riot Going On &#8211; Peter Doggett</a></p>
@@ -44,7 +44,7 @@
 <p>Congrats to all the other authors (and what heady company, Bowie mainman Tony Visconti, sigh&#8230;), and thanks to Mojo&#39;s readers, always the sharpest rock fans in the drawer, for the support.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/09/mojopoll/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/09/mojopoll/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

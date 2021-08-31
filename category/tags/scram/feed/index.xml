@@ -9,8 +9,8 @@
 
 <channel>
 	<title>scram &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/scram/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/scram/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 30 Apr 2006 05:53:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>New issue of Scram hot off the presses</title>
-		<link>https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/#comments</comments>
+		<link>/2006/04/30/new-issue-of-scram-hot-off-the-presses/</link>
+					<comments>/2006/04/30/new-issue-of-scram-hot-off-the-presses/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sun, 30 Apr 2006 05:53:16 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[vashti bunyan]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[It is a banner day: I just got back from picking up Scram 22 from the printer, and I&#8217;m dizzy with ink fumes. The new issue of the journal of unpopular culture includes a feature comprised of the interviews that informed the Ruston section of my 33 1/3 book about Neutral Millk Hotel. Robert Schneider, &#8230; <a href="https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/" class="more-link">Continue reading<span class="screen-reader-text"> "New issue of Scram hot off the presses"</span></a>]]></description>
+					<description><![CDATA[It is a banner day: I just got back from picking up Scram 22 from the printer, and I&#8217;m dizzy with ink fumes. The new issue of the journal of unpopular culture includes a feature comprised of the interviews that informed the Ruston section of my 33 1/3 book about Neutral Millk Hotel. Robert Schneider, &#8230; <a href="/2006/04/30/new-issue-of-scram-hot-off-the-presses/" class="more-link">Continue reading<span class="screen-reader-text"> "New issue of Scram hot off the presses"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>It is a banner day: I just got back from picking up Scram 22 from the printer, and I&#8217;m dizzy with ink fumes. </p>
 <p> The new issue of the journal of unpopular culture includes a feature comprised of the interviews that informed the Ruston section of my 33 1/3 book about Neutral Millk Hotel. Robert Schneider, Laura Carter, Julian Koster and Scott Spillane all speak at greater length than they did in the book about E6 pre-Athens, and Robert shares some live photos from 1996 that I think have not been published previously.</p>
 <p> Also in this issue: nature-loving folkie Vashti Bunyan, gay glam-punk Paul &quot;Baby Bones&quot; Vanase, private librarian and African literary scholar Kurt Thometz, Chicago bluesman Nick Gravenites and session piano cat Lincoln Mayorga, plus scads of reviews.</p>
@@ -44,15 +44,15 @@
 <p> thanks,<br /> Kim<br /> Editrix</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/30/new-issue-of-scram-hot-off-the-presses/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/30/new-issue-of-scram-hot-off-the-presses/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Recent issues</title>
-		<link>https://www.lostinthegrooves.com/2006/03/10/recent-issues/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/10/recent-issues/#respond</comments>
+		<link>/2006/03/10/recent-issues/</link>
+					<comments>/2006/03/10/recent-issues/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2006 09:38:04 +0000</pubDate>
@@ -63,7 +63,7 @@
 		<category><![CDATA[zine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[SCRAM is a magazine dedicated to rooting out the cashews in the bridge mix of unpopular culture. Since 1992 we have chronicled the neglected, the odd, the nifty and the nuts. CURRENT ISSUE &#160; Scram #21 featuring Lark Pien&#8217;s cover art. It is our Swamp Issue, with a funky air blowing through it. Features include &#8230; <a href="https://www.lostinthegrooves.com/2006/03/10/recent-issues/" class="more-link">Continue reading<span class="screen-reader-text"> "Recent issues"</span></a>]]></description>
+					<description><![CDATA[SCRAM is a magazine dedicated to rooting out the cashews in the bridge mix of unpopular culture. Since 1992 we have chronicled the neglected, the odd, the nifty and the nuts. CURRENT ISSUE &#160; Scram #21 featuring Lark Pien&#8217;s cover art. It is our Swamp Issue, with a funky air blowing through it. Features include &#8230; <a href="/2006/03/10/recent-issues/" class="more-link">Continue reading<span class="screen-reader-text"> "Recent issues"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>SCRAM is a magazine dedicated to rooting out the cashews in the bridge mix of unpopular culture. Since 1992 we have chronicled the neglected, the odd, the nifty and the nuts. </p>
 <p><img border="0" src="https://static.flickr.com/45/110301922_0d3e423ceb_m.jpg" /></p>
 <p> CURRENT ISSUE</p>
@@ -78,15 +78,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/10/recent-issues/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/10/recent-issues/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Subscriptions</title>
-		<link>https://www.lostinthegrooves.com/2006/03/10/subscriptions/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/10/subscriptions/#respond</comments>
+		<link>/2006/03/10/subscriptions/</link>
+					<comments>/2006/03/10/subscriptions/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2006 05:30:13 +0000</pubDate>
@@ -99,7 +99,7 @@
 		<category><![CDATA[zine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[SUBSCRIPTION + ORDERING INFO Special closet-cleaner offer for US customers: any THREE normal back issues (3, 5, 7, 9, 11, 12, 14, 14, 15, 16) can be yours for $15 postpaid.&#160; Or get a selection of older Scrams (3, 5, 6, 7, 9, 11, 12, 13, 14, 15) and get a crash course in unpopular &#8230; <a href="https://www.lostinthegrooves.com/2006/03/10/subscriptions/" class="more-link">Continue reading<span class="screen-reader-text"> "Subscriptions"</span></a>]]></description>
+					<description><![CDATA[SUBSCRIPTION + ORDERING INFO Special closet-cleaner offer for US customers: any THREE normal back issues (3, 5, 7, 9, 11, 12, 14, 14, 15, 16) can be yours for $15 postpaid.&#160; Or get a selection of older Scrams (3, 5, 6, 7, 9, 11, 12, 13, 14, 15) and get a crash course in unpopular &#8230; <a href="/2006/03/10/subscriptions/" class="more-link">Continue reading<span class="screen-reader-text"> "Subscriptions"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <div align="left">              <strong><em>SUBSCRIPTION + ORDERING INFO</em></strong>                        </p>
 <div align="center">                          </div>
@@ -113,15 +113,15 @@
 <p align="left">&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/10/subscriptions/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/10/subscriptions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>&#8220;20 new things to be learned on every page&#8221; (Electric Review)</title>
-		<link>https://www.lostinthegrooves.com/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/#comments</comments>
+		<link>/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/</link>
+					<comments>/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2006 07:07:07 +0000</pubDate>
@@ -136,11 +136,11 @@
 		<category><![CDATA[suckdog]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Scram magazine, housed in Los Angeles, California, pays homage to all the players too eccentric or obscure or off-beat to find a home in the Madison Avenue media machine. Scram is truly a resource for those musicians just outside the windows of top-forty-land, those songwriters and guitar slingers looking for an outlet for their own &#8230; <a href="https://www.lostinthegrooves.com/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;20 new things to be learned on every page&#8221; (Electric Review)"</span></a>]]></description>
+					<description><![CDATA[Scram magazine, housed in Los Angeles, California, pays homage to all the players too eccentric or obscure or off-beat to find a home in the Madison Avenue media machine. Scram is truly a resource for those musicians just outside the windows of top-forty-land, those songwriters and guitar slingers looking for an outlet for their own &#8230; <a href="/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;20 new things to be learned on every page&#8221; (Electric Review)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Scram magazine, housed in Los Angeles, California, pays homage to all the players too eccentric or obscure or off-beat to find a home in the Madison Avenue media machine. Scram is truly a resource for those musicians just outside the windows of top-forty-land, those songwriters and guitar slingers looking for an outlet for their own particular brand of art. Accordingly, Lost in the Grooves takes up where Scram leaves off &#8212; a compilation of ruminations from 75 critics and music aficionados detailing their favorite slices of the scene: &quot;Jandek is a flat-out weirdo. No one knows who he is, and the guy is either making up his own chords or just doesn&rsquo;t care how his guitar is tuned. Jadek is like an alien trying to play music after hearing it described to him once. Blind Corpse is his masterpiece&#8230;His lyrics reveal a man suffering from a pain so oblique that the listener must simply allow him to revel in his misery. Jadek doesn&rsquo;t need us for comfort&#8230;&quot; (Hayden Childs &#8212; Page 120) These little known stories about the sometimes shadowy figures of the music world are a hoot to discover; more than anything, this book is like picking an old Rolling Stone and reading for the pure enjoyment of the ride. However, Lost is important for another reason: as a diary of the hidden streets of the American Music scene, the pieces come together to give true historical perspective to the influences behind the echoes shedding light on the faces behind the old ghosts. Just as much as all the big-time dollar bands, these unknowns serve to bring shape and continuity to the history of our sound: &quot;Forget the hilarious GTOs. Forget even the mighty Shaggs. Suckdog captures adolescent female adrenaline-fueled angst and aggression like no recording artist I&rsquo;ve heard before or since. This is not a record for the squeamish&#8230;&quot; (Russ Foster &#8212; Page 228) Lost in the Grooves is not a book for fans mad about one band or one particular singer. Instead, this is a book for the serious music fan, for those serious students of the art form curious about who-influenced-who and what sound rose out of what region. Like turning on a radio station and listening to a feverish wounded-voiced DJ tell you the reason behind every record you never heard, there&rsquo;s 20 new things to be learned on every page here. Recommended to all libraries in the public sector and at the college level as general reference text. Also will appeal to serious music fans of all generations &#8211; there&rsquo;s some new stuff here for all tastes. &amp; thanks to Routledge for perhaps forsaking pure commercial motive and releasing an invaluable teaching tool. (John Aiello, The Electric Review, March/April 2005)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/09/20-new-things-to-be-learned-on-every-page-electric-review/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>James Brown &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/james-brown/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/james-brown/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 18 Jul 2010 00:20:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>From All Over The World</title>
-		<link>https://www.lostinthegrooves.com/2010/07/18/gary70/</link>
-					<comments>https://www.lostinthegrooves.com/2010/07/18/gary70/#respond</comments>
+		<link>/2010/07/18/gary70/</link>
+					<comments>/2010/07/18/gary70/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2010 00:20:30 +0000</pubDate>
@@ -43,7 +43,7 @@
 		<category><![CDATA[The Supremes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Attention, Lost Groovers everywhere: Your assignment today is to gather together in one medium-sized concert facility, for one evening only, one dozen of the worldÃ¢â‚¬â„¢s most popular entertainers. Age, style, size, corporate affiliation and particularly musical pigeonhole is to be strictly of no concern whatsoever. Each act just has to have had a heck of &#8230; <a href="https://www.lostinthegrooves.com/2010/07/18/gary70/" class="more-link">Continue reading<span class="screen-reader-text"> "From All Over The World"</span></a>]]></description>
+					<description><![CDATA[Attention, Lost Groovers everywhere: Your assignment today is to gather together in one medium-sized concert facility, for one evening only, one dozen of the worldÃ¢â‚¬â„¢s most popular entertainers. Age, style, size, corporate affiliation and particularly musical pigeonhole is to be strictly of no concern whatsoever. Each act just has to have had a heck of &#8230; <a href="/2010/07/18/gary70/" class="more-link">Continue reading<span class="screen-reader-text"> "From All Over The World"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.uniondocs.org/wp-content/uploads/2009/08/tamishow1.jpg" alt="" width="380" height="280" /></p>
 <p>Attention, Lost Groovers everywhere:</p>
 <p>Your assignment today is to gather together in one medium-sized concert facility, for one evening only, one dozen of the worldÃ¢â‚¬â„¢s most popular entertainers. Age, style, size, corporate affiliation and particularly musical pigeonhole is to be strictly of no concern whatsoever. Each act just has to have had a heck of a lot of their songs downloaded, perhaps maybe even sold, over the past calendar year or so.</p>
@@ -69,15 +69,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2010/07/18/gary70/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/07/18/gary70/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>No Sly Stone Left Unturned</title>
-		<link>https://www.lostinthegrooves.com/2008/04/25/no-sly-stone-left-unturned/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/25/no-sly-stone-left-unturned/#respond</comments>
+		<link>/2008/04/25/no-sly-stone-left-unturned/</link>
+					<comments>/2008/04/25/no-sly-stone-left-unturned/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Fri, 25 Apr 2008 16:09:35 +0000</pubDate>
@@ -88,7 +88,7 @@
 		<category><![CDATA[soul]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[One of the greatest funk artists of all time got a reissue set last year which finally justified his greatness. Though he has been a non-entity in the music world for many years, the music he created has endured and rightfully reveals him as one of the most talented, revolutionary artists ever to create music. &#8230; <a href="https://www.lostinthegrooves.com/2008/04/25/no-sly-stone-left-unturned/" class="more-link">Continue reading<span class="screen-reader-text"> "No Sly Stone Left Unturned"</span></a>]]></description>
+					<description><![CDATA[One of the greatest funk artists of all time got a reissue set last year which finally justified his greatness. Though he has been a non-entity in the music world for many years, the music he created has endured and rightfully reveals him as one of the most talented, revolutionary artists ever to create music. &#8230; <a href="/2008/04/25/no-sly-stone-left-unturned/" class="more-link">Continue reading<span class="screen-reader-text"> "No Sly Stone Left Unturned"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>One of the greatest funk artists of all time got a reissue set last year which finally justified his greatness. Though he has been a non-entity in the music world for many years, the music he created has endured and rightfully reveals him as one of the most talented, revolutionary artists ever to create music.</p>
 <p>Sly and The Family Stone &#8211; The Collection<br />
 Columbia/Legacy</p>
@@ -103,15 +103,15 @@ Columbia/Legacy</p>
 <p>Fans of deep funk are just going to salivate all over themselves after checking out this great 7 CD box of some of the greatest booty-shaking tracks ever. Let&#8217;s face it &#8211; my reviews are loaded with hyperbole. I bathe in hyperbole and eat hyperbole crunch cereal for breakfast, okay? This is the one time &#8211; one time, dammit &#8211; that every thing I write is the total fucking truth. This is one of the greatest collection of funk tracks ever gathered on seven CDs. The craziest thing about it is one man is responsible for all of it! God bless you, Sly Stone. May you some day come back to us with your talent intact and ready to make great music again. There&#8217;s a light on in the window, Sly. Please come home.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/25/no-sly-stone-left-unturned/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/25/no-sly-stone-left-unturned/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Give &#8217;em the Bootsy, Baby!</title>
-		<link>https://www.lostinthegrooves.com/2008/04/14/give-em-the-bootsy-baby/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/14/give-em-the-bootsy-baby/#respond</comments>
+		<link>/2008/04/14/give-em-the-bootsy-baby/</link>
+					<comments>/2008/04/14/give-em-the-bootsy-baby/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Mon, 14 Apr 2008 16:01:55 +0000</pubDate>
@@ -125,7 +125,7 @@ Columbia/Legacy</p>
 		<category><![CDATA[Parliament]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Here&#8217;s some more deep funk! Get to dancin&#8217;! Bootsy Collins &#8211; Stretchin&#8217; Out In Bootsy&#8217;s Rubber Band Bootsy Collins &#8211; This Boot Is Made For Fonkin&#8217; Bootsy Collins &#8211; Ultra Wave Bootsy Collins &#8211; The One Giveth, The Count Taketh Away Collector&#8217;s Choice Music It&#8217;s Bootsy baby! The Master of the Space Bass is once &#8230; <a href="https://www.lostinthegrooves.com/2008/04/14/give-em-the-bootsy-baby/" class="more-link">Continue reading<span class="screen-reader-text"> "Give &#8217;em the Bootsy, Baby!"</span></a>]]></description>
+					<description><![CDATA[Here&#8217;s some more deep funk! Get to dancin&#8217;! Bootsy Collins &#8211; Stretchin&#8217; Out In Bootsy&#8217;s Rubber Band Bootsy Collins &#8211; This Boot Is Made For Fonkin&#8217; Bootsy Collins &#8211; Ultra Wave Bootsy Collins &#8211; The One Giveth, The Count Taketh Away Collector&#8217;s Choice Music It&#8217;s Bootsy baby! The Master of the Space Bass is once &#8230; <a href="/2008/04/14/give-em-the-bootsy-baby/" class="more-link">Continue reading<span class="screen-reader-text"> "Give &#8217;em the Bootsy, Baby!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Here&#8217;s some more deep funk! Get to dancin&#8217;!</p>
 <p>Bootsy Collins &#8211; Stretchin&#8217; Out In Bootsy&#8217;s Rubber Band<br />
 Bootsy Collins &#8211; This Boot Is Made For Fonkin&#8217;<br />
@@ -143,15 +143,15 @@ Collector&#8217;s Choice Music</p>
 <p>   Anyone interested in funk and soul music needs to have these albums as part of their collection if they don&#8217;t already. Sure, these albums are little more than mindless booty-shaking funk. But let me ask you, is there anything wrong with that? Music was created as much to dance to as to convey a serious message and anything that helps a person forget his troubles and dance is worthwhile. For those who would consider the work of Bootsy and others of the time as simply unimportant jams is missing out on some of the most energetic, inspired dance music ever. Still steadily working on album projects and soundtracks, it is no insult that Bootsy is now more known as an icon of 70&#8217;s funk than a viable chart-topping artist. The rarified air of the icon is something to admire and Bootsy no doubt relishes his experience of being one of the most remembered funk stars ever, rivalling former bosses Brown and Clinton themselves in popularity and influence. The thing is, Bootsy&#8217;s music stands the test of time like his bosses. Few artists can say that. Whenever there&#8217;s a party, there is or should be Bootsy. It&#8217;s as simple as that. Try to listen to this stuff and not dance. I fucking dare you.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/14/give-em-the-bootsy-baby/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/14/give-em-the-bootsy-baby/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Betty Davis&#8217; Thighs</title>
-		<link>https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/#comments</comments>
+		<link>/2008/04/11/betty-davis-thighs/</link>
+					<comments>/2008/04/11/betty-davis-thighs/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2008 16:08:10 +0000</pubDate>
@@ -166,7 +166,7 @@ Collector&#8217;s Choice Music</p>
 		<category><![CDATA[Sly Stone]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Nothing like some great obscure soul to get your body moving. Betty Davis &#8211; Betty Davis Betty Davis &#8211; They Say I&#8217;m Different Light In the Attic Stand up and shout hallelujah! Two of the greatest lost soul albums of the &#8217;70&#8217;s have finally been reissued after way too many years out of print. Kudos &#8230; <a href="https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/" class="more-link">Continue reading<span class="screen-reader-text"> "Betty Davis&#8217; Thighs"</span></a>]]></description>
+					<description><![CDATA[Nothing like some great obscure soul to get your body moving. Betty Davis &#8211; Betty Davis Betty Davis &#8211; They Say I&#8217;m Different Light In the Attic Stand up and shout hallelujah! Two of the greatest lost soul albums of the &#8217;70&#8217;s have finally been reissued after way too many years out of print. Kudos &#8230; <a href="/2008/04/11/betty-davis-thighs/" class="more-link">Continue reading<span class="screen-reader-text"> "Betty Davis&#8217; Thighs"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>   Nothing like some great obscure soul to get your body moving.</p>
 <p>   Betty Davis &#8211; Betty Davis<br />
    Betty Davis &#8211; They Say I&#8217;m   Different<br />
@@ -178,7 +178,7 @@ Collector&#8217;s Choice Music</p>
 <p>   Fans of funk need these albums in their collections. It isn&#8217;t an issue of &#8220;wanting&#8221; these reissues &#8211; if you are a fan of funk and soul music these are albums you simply have to acquire or settle for having a mediocre collection. You wouldn&#8217;t want that, would you? Then rush to your local store and order this right away. You will not be sorry &#8211; this is some of the most blazing funk of all time!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/11/betty-davis-thighs/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/11/betty-davis-thighs/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

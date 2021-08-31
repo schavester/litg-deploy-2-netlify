@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bruce Brodeen &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/bruce-brodeen/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/bruce-brodeen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 26 Sep 2006 15:45:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Frank Secich Interview On Russian Website</title>
-		<link>https://www.lostinthegrooves.com/2006/09/26/frank-secich-interview-on-russian-website/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/26/frank-secich-interview-on-russian-website/#respond</comments>
+		<link>/2006/09/26/frank-secich-interview-on-russian-website/</link>
+					<comments>/2006/09/26/frank-secich-interview-on-russian-website/#respond</comments>
 		
 		<dc:creator><![CDATA[Frankiefane]]></dc:creator>
 		<pubDate>Tue, 26 Sep 2006 15:45:42 +0000</pubDate>
@@ -44,7 +44,7 @@
 <p><img loading="lazy" class="reflect" height="384" alt="" src="https://static.flickr.com/93/254521587_d96f4c8946.jpg?v=0" width="480" border="0" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/26/frank-secich-interview-on-russian-website/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/26/frank-secich-interview-on-russian-website/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

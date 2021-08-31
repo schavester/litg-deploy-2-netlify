@@ -9,8 +9,8 @@
 
 <channel>
 	<title>colin blunstone &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/colin-blunstone/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/colin-blunstone/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Jun 2008 19:01:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Lost Grooves newly released for June 3, 2008</title>
-		<link>https://www.lostinthegrooves.com/2008/06/02/lostgrooves6308/</link>
-					<comments>https://www.lostinthegrooves.com/2008/06/02/lostgrooves6308/#respond</comments>
+		<link>/2008/06/02/lostgrooves6308/</link>
+					<comments>/2008/06/02/lostgrooves6308/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 02 Jun 2008 19:01:58 +0000</pubDate>
@@ -32,11 +32,11 @@
 		<category><![CDATA[Kim Cooper/ LITG]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Just released in the UK is Zombies and Beyond, compiling a mix of classic Zombies music with some solo Colin Blunstone dreaminess and a smattering of Argent. Then there&#39;s the rarities-packed Cat Stevens career spanning box set, with some unfortunate cover art, but there&#39;s inevitably some baggage where Cat&#39;s concerned. Such sweet, sweet early tunes, &#8230; <a href="https://www.lostinthegrooves.com/2008/06/02/lostgrooves6308/" class="more-link">Continue reading<span class="screen-reader-text"> "Lost Grooves newly released for June 3, 2008"</span></a>]]></description>
+					<description><![CDATA[Just released in the UK is Zombies and Beyond, compiling a mix of classic Zombies music with some solo Colin Blunstone dreaminess and a smattering of Argent. Then there&#39;s the rarities-packed Cat Stevens career spanning box set, with some unfortunate cover art, but there&#39;s inevitably some baggage where Cat&#39;s concerned. Such sweet, sweet early tunes, &#8230; <a href="/2008/06/02/lostgrooves6308/" class="more-link">Continue reading<span class="screen-reader-text"> "Lost Grooves newly released for June 3, 2008"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Just released in the UK is <span><a href="https://www.amazon.com/exec/obidos/ASIN/B0018OGF8S/ref=nosim/bubblegumbook" target="_blank">Zombies and Beyond</a>, compiling a mix of classic Zombies music with some solo Colin Blunstone dreaminess and a smattering of Argent. Then there&#39;s the rarities-packed Cat Stevens career spanning <a href="https://www.amazon.com/exec/obidos/ASIN/B001675SK8/ref=nosim/bubblegumbook" target="_blank">box set</a>, with some unfortunate cover art, but there&#39;s inevitably some baggage where Cat&#39;s concerned. Such sweet, sweet early tunes, though&#8230;<br /></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/06/02/lostgrooves6308/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/06/02/lostgrooves6308/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

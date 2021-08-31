@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Anne Murray &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/anne-murray/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/anne-murray/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Dec 2007 20:12:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Santa Pig sez&#8230;..</title>
-		<link>https://www.lostinthegrooves.com/2007/12/11/gary56/</link>
-					<comments>https://www.lostinthegrooves.com/2007/12/11/gary56/#respond</comments>
+		<link>/2007/12/11/gary56/</link>
+					<comments>/2007/12/11/gary56/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2007 20:12:19 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[Wanda Jackson]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[What really getsnone other than the King of the Surf Guitartruly hot this time of year ? However hasthat freedom-singing Pride of NashPopcome to linkMel Torme to frosty Alex Chilton ?? Does no less thanthe Once and Forever Female Elvisactually dream of Snowbirdsthis time every year ??? and What in the world did the KillerÃ¢â‚¬â„¢s &#8230; <a href="https://www.lostinthegrooves.com/2007/12/11/gary56/" class="more-link">Continue reading<span class="screen-reader-text"> "Santa Pig sez&#8230;.."</span></a>]]></description>
+					<description><![CDATA[What really getsnone other than the King of the Surf Guitartruly hot this time of year ? However hasthat freedom-singing Pride of NashPopcome to linkMel Torme to frosty Alex Chilton ?? Does no less thanthe Once and Forever Female Elvisactually dream of Snowbirdsthis time every year ??? and What in the world did the KillerÃ¢â‚¬â„¢s &#8230; <a href="/2007/12/11/gary56/" class="more-link">Continue reading<span class="screen-reader-text"> "Santa Pig sez&#8230;.."</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.garypiggold.com/images/SantaPig.gif" alt="" width="235" height="181" /></p>
 <p>What really gets<br />none other than <br />the <a href="https://www.dickdale.com/"><strong>King of the Surf Guitar</strong></a><br />truly <em>hot</em> this time of year ?</p>
 <p>However has<br />that freedom-singing <a href="https://www.billlloydmusic.com/"><strong>Pride of NashPop</strong></a><br />come to link<br />Mel Torme to frosty Alex Chilton ??</p>
@@ -50,7 +50,7 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/12/11/gary56/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/12/11/gary56/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

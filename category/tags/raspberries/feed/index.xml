@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Raspberries &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/raspberries/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/raspberries/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 18 Oct 2008 04:48:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Blue Ash Special Bonus CD&#8217;s!</title>
-		<link>https://www.lostinthegrooves.com/2008/10/18/blue-ash-special-bonus-cds/</link>
-					<comments>https://www.lostinthegrooves.com/2008/10/18/blue-ash-special-bonus-cds/#respond</comments>
+		<link>/2008/10/18/blue-ash-special-bonus-cds/</link>
+					<comments>/2008/10/18/blue-ash-special-bonus-cds/#respond</comments>
 		
 		<dc:creator><![CDATA[Frankiefane]]></dc:creator>
 		<pubDate>Sat, 18 Oct 2008 04:48:11 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Raspberries]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Blue Ash Special Bonus CD&#8217;s! There will be a special limited free bonus CD when ordering Blue Ash&#8217;s &#8220;No More, No Less&#8221; from Not Lame or Kool Kat Musik. The Not Lame bonus CD will feature unreleased songs from 1973 that were done &#8220;live&#8221; in Peppermint Studios. https://www.notlame.com/BLUE_ASH/Page_1/CDBLUEASH1.html The tracks are: Hippy, Hippy Shake (Chan &#8230; <a href="https://www.lostinthegrooves.com/2008/10/18/blue-ash-special-bonus-cds/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash Special Bonus CD&#8217;s!"</span></a>]]></description>
+					<description><![CDATA[Blue Ash Special Bonus CD&#8217;s! There will be a special limited free bonus CD when ordering Blue Ash&#8217;s &#8220;No More, No Less&#8221; from Not Lame or Kool Kat Musik. The Not Lame bonus CD will feature unreleased songs from 1973 that were done &#8220;live&#8221; in Peppermint Studios. https://www.notlame.com/BLUE_ASH/Page_1/CDBLUEASH1.html The tracks are: Hippy, Hippy Shake (Chan &#8230; <a href="/2008/10/18/blue-ash-special-bonus-cds/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash Special Bonus CD&#8217;s!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Blue Ash Special Bonus CD&#8217;s! </p>
 <p>There will be a special limited free bonus CD when ordering Blue Ash&#8217;s &#8220;No More, No Less&#8221; from Not Lame or Kool Kat Musik. The Not Lame bonus CD will feature unreleased songs from 1973 that were done &#8220;live&#8221; in Peppermint Studios.</p>
 <p>https://www.notlame.com/BLUE_ASH/Page_1/CDBLUEASH1.html</p>
@@ -93,7 +93,7 @@ history!</p>
 .. type=text/javascript> hasEML = false; ..> </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/10/18/blue-ash-special-bonus-cds/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/10/18/blue-ash-special-bonus-cds/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rolling Stone &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/rolling-stone/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/rolling-stone/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Apr 2006 08:26:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Jumping Into The Fray- My First Next Big Thing</title>
-		<link>https://www.lostinthegrooves.com/2006/04/28/jumping-into-the-fray-the/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/28/jumping-into-the-fray-the/#respond</comments>
+		<link>/2006/04/28/jumping-into-the-fray-the/</link>
+					<comments>/2006/04/28/jumping-into-the-fray-the/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Edelman]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2006 08:26:52 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[The Fray]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Some of you old timers may know it.&#160;It&#8217;s an odd type of thrill. The idea that you have been privy to a secret that only a select few know. Like being in on the inside joke before it became known to others. It&#8217;s&#160;seeing a band&#8211; before they hit it big. U-2 at the Paradise Rock &#8230; <a href="https://www.lostinthegrooves.com/2006/04/28/jumping-into-the-fray-the/" class="more-link">Continue reading<span class="screen-reader-text"> "Jumping Into The Fray- My First Next Big Thing"</span></a>]]></description>
+					<description><![CDATA[Some of you old timers may know it.&#160;It&#8217;s an odd type of thrill. The idea that you have been privy to a secret that only a select few know. Like being in on the inside joke before it became known to others. It&#8217;s&#160;seeing a band&#8211; before they hit it big. U-2 at the Paradise Rock &#8230; <a href="/2006/04/28/jumping-into-the-fray-the/" class="more-link">Continue reading<span class="screen-reader-text"> "Jumping Into The Fray- My First Next Big Thing"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Some of you old timers may know it.&nbsp;It&#8217;s an odd type of thrill. The idea that you have been privy to a secret that only a select few know. Like being in on the inside joke before it became known to others. It&#8217;s&nbsp;seeing a band&#8211; before they hit it big.</p>
 <p>U-2 at the Paradise Rock Lounge in 1983,</p>
 <p>The Rolling Stones open with Mozart in 1562 (I kid)</p>
@@ -62,7 +62,7 @@
 <p>P.S. I will keep writing about these guys. They rule.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/28/jumping-into-the-fray-the/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/28/jumping-into-the-fray-the/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

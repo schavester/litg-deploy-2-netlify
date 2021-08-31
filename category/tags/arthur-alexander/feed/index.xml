@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Arthur Alexander &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/arthur-alexander/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/arthur-alexander/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Jul 2006 06:55:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Be Thankful For What You Are Tiven</title>
-		<link>https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/#respond</comments>
+		<link>/2006/07/11/be-thankful-for-what-you-are-tiven/</link>
+					<comments>/2006/07/11/be-thankful-for-what-you-are-tiven/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 11 Jul 2006 06:55:00 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Sally Tiven]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Hope you all had a Happy Fourth of July! I sure did, and the resulting recovery from said celebrations have made me once again kinda slow on the draw here in blog-land and I am once again begging you to bear with me as I catch up. After a few blogs about the genius of &#8230; <a href="https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/" class="more-link">Continue reading<span class="screen-reader-text"> "Be Thankful For What You Are Tiven"</span></a>]]></description>
+					<description><![CDATA[Hope you all had a Happy Fourth of July! I sure did, and the resulting recovery from said celebrations have made me once again kinda slow on the draw here in blog-land and I am once again begging you to bear with me as I catch up. After a few blogs about the genius of &#8230; <a href="/2006/07/11/be-thankful-for-what-you-are-tiven/" class="more-link">Continue reading<span class="screen-reader-text"> "Be Thankful For What You Are Tiven"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
      Hope you all had a Happy Fourth of July! I sure did, and the resulting recovery from said celebrations have made me once again kinda slow on the draw here in blog-land and I am once again begging you to bear with me as I catch up.</p>
 <p>     After a few blogs about the genius of soul that is Don Covay, I promised I would hip you to a series of tribute CDs to soul heroes which came out in the early-to-mid-&#8217;90&#8217;s on the Razor and Tie label and Shanachie Records.</p>
@@ -47,7 +47,7 @@
 <p>     The Music Nerd knows&#8230;..</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/11/be-thankful-for-what-you-are-tiven/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

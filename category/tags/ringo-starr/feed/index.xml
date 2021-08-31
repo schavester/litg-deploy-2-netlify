@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ringo Starr &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/ringo-starr/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/ringo-starr/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Aug 2006 08:41:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Some Mac With No Cheese</title>
-		<link>https://www.lostinthegrooves.com/2006/08/20/some-mac-with-no-cheese/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/20/some-mac-with-no-cheese/#respond</comments>
+		<link>/2006/08/20/some-mac-with-no-cheese/</link>
+					<comments>/2006/08/20/some-mac-with-no-cheese/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Sun, 20 Aug 2006 08:41:48 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Ron Wood]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The Nerd is back, the Nerd is back! Sorry about my extended absence but writer&#8217;s block is one hell of a problem! After a little boat trip down in Virginia, I feel refreshed and ready to write about more cool, obscure sounds so let&#8217;s get to it. When I got back from my little boat &#8230; <a href="https://www.lostinthegrooves.com/2006/08/20/some-mac-with-no-cheese/" class="more-link">Continue reading<span class="screen-reader-text"> "Some Mac With No Cheese"</span></a>]]></description>
+					<description><![CDATA[The Nerd is back, the Nerd is back! Sorry about my extended absence but writer&#8217;s block is one hell of a problem! After a little boat trip down in Virginia, I feel refreshed and ready to write about more cool, obscure sounds so let&#8217;s get to it. When I got back from my little boat &#8230; <a href="/2006/08/20/some-mac-with-no-cheese/" class="more-link">Continue reading<span class="screen-reader-text"> "Some Mac With No Cheese"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
       The Nerd is back, the Nerd is back! Sorry about my extended absence but writer&#8217;s block is one hell of a problem! After a little boat trip down in Virginia, I feel refreshed and ready to write about more cool, obscure sounds so let&#8217;s get to it.</p>
 <p>      When I got back from my little boat ride, I was excited to find in my mailbox a package from the fine folks at Gott Records (look them up at gottrecords.com) featuring a great reissue CD of Faces keyboardist and all around great guy Ian McLagan&#8217;s two solo albums from the late &#8217;70&#8217;s and early &#8217;80&#8217;s.</p>
@@ -51,7 +51,7 @@
 <p>      The Music Nerd knows&#8230;&#8230;&#8230;..</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/20/some-mac-with-no-cheese/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/20/some-mac-with-no-cheese/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

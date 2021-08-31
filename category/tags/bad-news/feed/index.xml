@@ -9,8 +9,8 @@
 
 <channel>
 	<title>bad news &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/bad-news/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/bad-news/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 08 Aug 2006 02:16:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Everybody Loves A Nut</title>
-		<link>https://www.lostinthegrooves.com/2006/08/08/everybody-loves-a-nut/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/08/everybody-loves-a-nut/#respond</comments>
+		<link>/2006/08/08/everybody-loves-a-nut/</link>
+					<comments>/2006/08/08/everybody-loves-a-nut/#respond</comments>
 		
 		<dc:creator><![CDATA[Robert Dayton]]></dc:creator>
 		<pubDate>Tue, 08 Aug 2006 02:16:40 +0000</pubDate>
@@ -34,13 +34,13 @@
 		<category><![CDATA[Robert Dayton: Going Great!]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day: Johnny Cash- &#8230; <a href="https://www.lostinthegrooves.com/2006/08/08/everybody-loves-a-nut/" class="more-link">Continue reading<span class="screen-reader-text"> "Everybody Loves A Nut"</span></a>]]></description>
+					<description><![CDATA[So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day: Johnny Cash- &#8230; <a href="/2006/08/08/everybody-loves-a-nut/" class="more-link">Continue reading<span class="screen-reader-text"> "Everybody Loves A Nut"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day:<br />
 Johnny Cash- Everybody Loves A Nut (1966)<br />
 Rumour has it that Johnny Cash was so hopped up on amphetamines for this, his </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/08/everybody-loves-a-nut/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/08/everybody-loves-a-nut/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

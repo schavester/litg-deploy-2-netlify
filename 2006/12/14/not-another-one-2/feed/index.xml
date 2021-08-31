@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Not Another One!	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/12/14/not-another-one-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/12/14/not-another-one-2/</link>
+	<atom:link href="/2006/12/14/not-another-one-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/12/14/not-another-one-2/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Dec 2006 19:50:20 +0000</lastBuildDate>
 	<sy:updatePeriod>

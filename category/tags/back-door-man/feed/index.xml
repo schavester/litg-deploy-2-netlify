@@ -9,8 +9,8 @@
 
 <channel>
 	<title>back door man &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/back-door-man/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/back-door-man/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Sep 2006 21:10:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Don Waller on Radio Birdman</title>
-		<link>https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/#respond</comments>
+		<link>/2006/09/07/don-waller-on-radio-birdman/</link>
+					<comments>/2006/09/07/don-waller-on-radio-birdman/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 07 Sep 2006 21:10:53 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[wiltern theater]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Last Wednesday, I cornered rock crit and bon vivant Don Waller in the lobby of the Wiltern Theater between the BellRays and Radio Birdman sets to get his thoughts on this historic event. Before I started the tape recorder, he told me I was wasting my time, since he had nothing much to say. I &#8230; <a href="https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/" class="more-link">Continue reading<span class="screen-reader-text"> "Don Waller on Radio Birdman"</span></a>]]></description>
+					<description><![CDATA[Last Wednesday, I cornered rock crit and bon vivant Don Waller in the lobby of the Wiltern Theater between the BellRays and Radio Birdman sets to get his thoughts on this historic event. Before I started the tape recorder, he told me I was wasting my time, since he had nothing much to say. I &#8230; <a href="/2006/09/07/don-waller-on-radio-birdman/" class="more-link">Continue reading<span class="screen-reader-text"> "Don Waller on Radio Birdman"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><strong>Last Wednesday, I cornered rock crit and bon vivant Don Waller in the lobby of the Wiltern Theater between the BellRays and Radio Birdman sets to get his thoughts on this historic event. Before I started the tape recorder, he told me I was wasting my time, since he had nothing much to say. I know Don well enough to know how absurd that statement was. Here&#8217;s the &quot;Back Door Man&quot; zine founder on the state of rock when Radio Birdman first came &#8217;round, the underappreciated glories of the Australian scene, and his expectations for the evening&#8230;</strong></p>
 <p>Lost in the Grooves: Do you remember Radio Birdman from 1976, when the record came out in the US?</p>
 <p>Don Waller: Yes.</p>
@@ -53,7 +53,7 @@
 <p align="right"><strong>above, Radio Birdman live at the Wiltern, pic: Kim Cooper</strong>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/07/don-waller-on-radio-birdman/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/07/don-waller-on-radio-birdman/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

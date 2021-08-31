@@ -9,8 +9,8 @@
 
 <channel>
 	<title>electropop &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/electropop/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/electropop/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 13 Sep 2006 19:25:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Prototypes &#8211; &#8220;Prototypes&#8221; CD (Minty Fresh)</title>
-		<link>https://www.lostinthegrooves.com/2006/09/13/prototypes-prototypes-cd-minty-fresh/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/13/prototypes-prototypes-cd-minty-fresh/#respond</comments>
+		<link>/2006/09/13/prototypes-prototypes-cd-minty-fresh/</link>
+					<comments>/2006/09/13/prototypes-prototypes-cd-minty-fresh/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2006 19:25:47 +0000</pubDate>
@@ -37,7 +37,7 @@
 <p>Bold, hand-clappy Francophone electropop trio fronted by Isabelle LeDoussal, whose snotty, sing-song tones lend a human face to the band&#8217;s mechanized synth-punk jingles. Think Bis meets Plastic Betrand, with a little splash of robotic sixties pop chanteuserie.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/13/prototypes-prototypes-cd-minty-fresh/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/13/prototypes-prototypes-cd-minty-fresh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

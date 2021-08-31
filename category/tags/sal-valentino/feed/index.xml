@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sal Valentino &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/sal-valentino/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/sal-valentino/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Jul 2006 06:33:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Be My Sal Valentino</title>
-		<link>https://www.lostinthegrooves.com/2006/07/14/be-my-sal-valentino/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/14/be-my-sal-valentino/#respond</comments>
+		<link>/2006/07/14/be-my-sal-valentino/</link>
+					<comments>/2006/07/14/be-my-sal-valentino/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Fri, 14 Jul 2006 06:33:14 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Sal Valentino]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I now interrupt your regularly scheduled blog reading to update you on someone very cool I am listening to &#8211; Sal Valentino. For those unfamiliar, let me say right off that the name has nothing to do with any member of the cast of the Sopranos, though being Italian and quite dashing at his general &#8230; <a href="https://www.lostinthegrooves.com/2006/07/14/be-my-sal-valentino/" class="more-link">Continue reading<span class="screen-reader-text"> "Be My Sal Valentino"</span></a>]]></description>
+					<description><![CDATA[I now interrupt your regularly scheduled blog reading to update you on someone very cool I am listening to &#8211; Sal Valentino. For those unfamiliar, let me say right off that the name has nothing to do with any member of the cast of the Sopranos, though being Italian and quite dashing at his general &#8230; <a href="/2006/07/14/be-my-sal-valentino/" class="more-link">Continue reading<span class="screen-reader-text"> "Be My Sal Valentino"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>      <a href="https://www.amazon.com/exec/obidos/ASIN/B000ERU3VK/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000ERU3VK.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
 <form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000ERU3VK" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 <p>     I now interrupt your regularly scheduled blog reading to update you on someone very cool I am listening to &#8211; Sal Valentino.</p>
@@ -48,7 +48,7 @@
 <p>      Who is your Valentino? The Music Nerd Knows&#8230;.          </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/14/be-my-sal-valentino/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/14/be-my-sal-valentino/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

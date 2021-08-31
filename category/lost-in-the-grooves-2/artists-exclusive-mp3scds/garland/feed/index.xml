@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Garland &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/lost-in-the-grooves-2/artists-exclusive-mp3scds/garland/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/lost-in-the-grooves-2/artists-exclusive-mp3scds/garland/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 14 Apr 2008 21:51:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	
 	<item>
 		<title>Garland</title>
-		<link>https://www.lostinthegrooves.com/2008/04/14/garland/</link>
-					<comments>https://www.lostinthegrooves.com/2008/04/14/garland/#respond</comments>
+		<link>/2008/04/14/garland/</link>
+					<comments>/2008/04/14/garland/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 14 Apr 2008 21:51:59 +0000</pubDate>
 				<category><![CDATA[Garland]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Garland&#39;s self-titled debut CD is a featured Lost in the Grooves release. Click here to sample the music or purchase. Garland was recently selected by store staff for Amoeba Music&#39;s Homegrown series, where a a notable local act is promoted with in-store displays and ads in local papers. With their stunning vocals, shoegaze guitar shimmer &#8230; <a href="https://www.lostinthegrooves.com/2008/04/14/garland/" class="more-link">Continue reading<span class="screen-reader-text"> "Garland"</span></a>]]></description>
+					<description><![CDATA[Garland&#39;s self-titled debut CD is a featured Lost in the Grooves release. Click here to sample the music or purchase. Garland was recently selected by store staff for Amoeba Music&#39;s Homegrown series, where a a notable local act is promoted with in-store displays and ads in local papers. With their stunning vocals, shoegaze guitar shimmer &#8230; <a href="/2008/04/14/garland/" class="more-link">Continue reading<span class="screen-reader-text"> "Garland"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Garland&#39;s self-titled debut CD is a featured Lost in the Grooves release. Click <a href="https://www.maryattmusic.com/search_results.php?cd=MMG+372&amp;artist=242">here</a> to sample the music or purchase.</p>
 <p><a href="https://www.flickr.com/photos/richardschave/2413324989/" title="Garland cover by richardschave, on Flickr"><img loading="lazy" src="https://farm4.static.flickr.com/3283/2413324989_46e151b1ed_m.jpg" width="240" height="208" alt="Garland cover" /></a></p>
 <p>Garland was recently selected by store staff for Amoeba Music&#39;s Homegrown series, where a a notable local act is promoted with in-store displays and ads in local papers. With their stunning vocals, shoegaze guitar shimmer and fragile electronic ballads, Garland&#39;s sound is rich, emotive and distinctively its own. </p>
@@ -40,7 +40,7 @@
 <p><object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/nRNGTLM0Kdc&#038;hl=en_US&#038;fs=1&#038;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/nRNGTLM0Kdc&#038;hl=en_US&#038;fs=1&#038;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/04/14/garland/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/04/14/garland/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

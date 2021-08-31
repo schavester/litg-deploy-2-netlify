@@ -9,8 +9,8 @@
 
 <channel>
 	<title>north bay bohemian &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/north-bay-bohemian/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/north-bay-bohemian/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Mar 2006 06:48:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>&#8220;a dusty-vinyl chain letter&#8221; (North Bay Bohemian)</title>
-		<link>https://www.lostinthegrooves.com/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/#respond</comments>
+		<link>/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/</link>
+					<comments>/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2006 06:48:31 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[ramones]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Bushwhacking the Vinyl Jungle: &#8216;Lost in the Grooves&#8217; a field guide to forgotten greats By Sara Bir Record geeks cherish the moment when they encounter an al bum no one else knows about. This is less about one-upmanship than the thrill of discovery and the intimate connection between artist and listener, a lifeline that keeps &#8230; <a href="https://www.lostinthegrooves.com/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;a dusty-vinyl chain letter&#8221; (North Bay Bohemian)"</span></a>]]></description>
+					<description><![CDATA[Bushwhacking the Vinyl Jungle: &#8216;Lost in the Grooves&#8217; a field guide to forgotten greats By Sara Bir Record geeks cherish the moment when they encounter an al bum no one else knows about. This is less about one-upmanship than the thrill of discovery and the intimate connection between artist and listener, a lifeline that keeps &#8230; <a href="/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;a dusty-vinyl chain letter&#8221; (North Bay Bohemian)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Bushwhacking the Vinyl Jungle: &#8216;Lost in the Grooves&#8217; a field guide to forgotten greats By Sara Bir</p>
 <p>Record geeks cherish the moment when they encounter an al bum no one else knows about. This is less about one-upmanship than the thrill of discovery and the intimate connection between artist and listener, a lifeline that keeps neglected music vital and alive.</p>
 <p>Kim Cooper and David Smay of Scram magazine, understand this thoroughly, as evidenced in their recently released Lost in the Grooves: Scram&#8217;s Capricious Guide to the Music You Missed (Routledge; $19.95). The editors refer to the book as &#8220;your own portable geek,&#8221; meaning it can be a trusted friend to point obscurity-seekers in the right direction. And obscure in the context of this book is less about rarity in physical numbers than it is about rarity of appreciation.</p>
@@ -51,7 +51,7 @@
 <p>I&#8217;ll add three entries to get you started: Nino Ferrer&#8217;s Enregistrement Public, Scrawl&#8217;s He&#8217;s Drunk and Bert&#8217;s (yes, Bert the Muppet) Best of Bert. Now get going!(North Bay Bohemian, 2/16/05).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/09/a-dusty-vinyl-chain-letter-north-bay-bohemian/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

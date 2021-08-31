@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: CD links	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/</link>
+	<atom:link href="/2006/03/09/lost-in-the-grooves-artists-on-amazon/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/03/09/lost-in-the-grooves-artists-on-amazon/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Mar 2006 06:15:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: BigJim		</title>
-		<link>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/#comment-30</link>
+		<link>/2006/03/09/lost-in-the-grooves-artists-on-amazon/#comment-30</link>
 
 		<dc:creator><![CDATA[BigJim]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

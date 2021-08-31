@@ -9,8 +9,8 @@
 
 <channel>
 	<title>aha &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/aha/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/aha/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Mar 2006 06:20:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>A-Ha! A fresh view</title>
-		<link>https://www.lostinthegrooves.com/2006/03/24/a-ha-a-fresh-view/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/24/a-ha-a-fresh-view/#comments</comments>
+		<link>/2006/03/24/a-ha-a-fresh-view/</link>
+					<comments>/2006/03/24/a-ha-a-fresh-view/#comments</comments>
 		
 		<dc:creator><![CDATA[Alex Edelman]]></dc:creator>
 		<pubDate>Fri, 24 Mar 2006 06:20:54 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[pop]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[If you are familiar with the authors on this website, you will notice that alot of the blogs are about the 1980&#8217;s. To teenagers today, the eighties was a complicated time&#8211; filled with change, baby formula, and first words (mine were all four verses of Elton John&#8217;s Rocket Man). Since most teenagers didn&#8217;t experience the &#8230; <a href="https://www.lostinthegrooves.com/2006/03/24/a-ha-a-fresh-view/" class="more-link">Continue reading<span class="screen-reader-text"> "A-Ha! A fresh view"</span></a>]]></description>
+					<description><![CDATA[If you are familiar with the authors on this website, you will notice that alot of the blogs are about the 1980&#8217;s. To teenagers today, the eighties was a complicated time&#8211; filled with change, baby formula, and first words (mine were all four verses of Elton John&#8217;s Rocket Man). Since most teenagers didn&#8217;t experience the &#8230; <a href="/2006/03/24/a-ha-a-fresh-view/" class="more-link">Continue reading<span class="screen-reader-text"> "A-Ha! A fresh view"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>If you are familiar with the authors on this website, you will notice that alot of the blogs are about the 1980&#8217;s. To teenagers today, the eighties was a complicated time&#8211; filled with change, baby formula, and first words (mine were all four verses of Elton John&#8217;s Rocket Man). </p>
 <p>Since most teenagers didn&#8217;t experience the eighties, it is viewed by many of the members of Generation Y as a decade filled with Pac-Man, bad hair, and ugly shirts. But thanks to Family Guy, a popular show created by televisionary Seth MacFarlane, teens today are getting a little dose of the eighties once more&#8211; this time without the Gerber.</p>
 <p>&nbsp;In 1986, the music video for A-Ha&#8217;s single, &#8216;Take On Me&#8217; was nominated for an MTV Music Video award&#8211; and for good reason. The movie version of &#8216;Take On Me,&#8217; featuring a special type of animation known as &quot;roto-scoping,&quot; was a smash hit the US and UK alike, and quickly made A-Ha one of the most popular bands of the 1980&#8217;s. </p>
@@ -49,7 +49,7 @@
 <p><img loading="lazy" title="Chris Griffin Meets A-Ha!" height="234" alt="Chris Griffin Meets A-Ha!" src="https://static.flickr.com/44/117042597_c4e5f4f608.jpg?v=0" width="312" border="0" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/24/a-ha-a-fresh-view/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/24/a-ha-a-fresh-view/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Electric Prunes &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/electric-prunes/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/electric-prunes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 31 Dec 2009 23:44:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Gary Pig GoldÃ¢â‚¬â„¢s Noughtie Twenty-One</title>
-		<link>https://www.lostinthegrooves.com/2009/12/31/gary67/</link>
-					<comments>https://www.lostinthegrooves.com/2009/12/31/gary67/#comments</comments>
+		<link>/2009/12/31/gary67/</link>
+					<comments>/2009/12/31/gary67/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Thu, 31 Dec 2009 23:44:20 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<category><![CDATA[The Playmates]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Despite an alarming amount of critical mass to (and by) the contrary, there truly was much, much more worth hearing this decade just past than those big Big Star, Beatle, Bob Dylan and even Neil Young box sets. No, really! So then, strictly alphabetically speaking as always, hereÃ¢â‚¬â„¢s what I spent much of January 1, &#8230; <a href="https://www.lostinthegrooves.com/2009/12/31/gary67/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary Pig GoldÃ¢â‚¬â„¢s Noughtie Twenty-One"</span></a>]]></description>
+					<description><![CDATA[Despite an alarming amount of critical mass to (and by) the contrary, there truly was much, much more worth hearing this decade just past than those big Big Star, Beatle, Bob Dylan and even Neil Young box sets. No, really! So then, strictly alphabetically speaking as always, hereÃ¢â‚¬â„¢s what I spent much of January 1, &#8230; <a href="/2009/12/31/gary67/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary Pig GoldÃ¢â‚¬â„¢s Noughtie Twenty-One"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://image1.altnet.com/images/64/790168314964/Candypants/Candypants/Candypants-Candypants_3.jpg" alt="" width="275" height="275" /></p>
 <p>Despite an alarming amount of critical mass to (and <em>by</em>) the contrary, there truly was much, much more worth hearing this decade just past than those big Big Star, Beatle, Bob Dylan and even Neil Young box sets.</p>
 <p>No, really!</p>
@@ -120,7 +120,7 @@
 <p>Bring On the Twenty-Oh-Teens !!! </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2009/12/31/gary67/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/12/31/gary67/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

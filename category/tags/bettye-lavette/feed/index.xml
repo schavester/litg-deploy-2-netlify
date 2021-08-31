@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bettye Lavette &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/bettye-lavette/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/bettye-lavette/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Jul 2006 16:25:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Bless My Soul</title>
-		<link>https://www.lostinthegrooves.com/2006/07/25/bless-my-soul/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/25/bless-my-soul/#respond</comments>
+		<link>/2006/07/25/bless-my-soul/</link>
+					<comments>/2006/07/25/bless-my-soul/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2006 16:25:26 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[soul music]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[As I sit here, pondering what ponderers usually ponder and listening to the radio in a rare moment of non-CD music enjoyment, I have discovered something really cool: soul music is coming back. Now, you might say to yourself, &#8220;That Nerd&#8217;s crazy. Soul music never left.&#8221; and you&#8217;d be right. But, it did vanish for &#8230; <a href="https://www.lostinthegrooves.com/2006/07/25/bless-my-soul/" class="more-link">Continue reading<span class="screen-reader-text"> "Bless My Soul"</span></a>]]></description>
+					<description><![CDATA[As I sit here, pondering what ponderers usually ponder and listening to the radio in a rare moment of non-CD music enjoyment, I have discovered something really cool: soul music is coming back. Now, you might say to yourself, &#8220;That Nerd&#8217;s crazy. Soul music never left.&#8221; and you&#8217;d be right. But, it did vanish for &#8230; <a href="/2006/07/25/bless-my-soul/" class="more-link">Continue reading<span class="screen-reader-text"> "Bless My Soul"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>     As I sit here, pondering what ponderers usually ponder and listening to the radio in a rare moment of non-CD music enjoyment, I have discovered something really cool: soul music is coming back. Now, you might say to yourself, &#8220;That Nerd&#8217;s crazy. Soul music never left.&#8221; and you&#8217;d be right. But, it did vanish for a long time as rap, techno and other forms of synthesized dance music took over.</p>
 <p>     Over the past few years, however, there has been quite a renaissance of what can only be called The Funk.</p>
 <p>     I first felt soul was coming back when I heard Joss Stone&#8217;s first album. To hear a British teenager sing with such soul made me feel there was something bubbling underground I hadn&#8217;t heard about yet. That soul queen Betty Wright produced Stone&#8217;s album &#8211; that she would even be given a chance to do that for an artist on a major label &#8211; made the feeling intensify. Of course, there is a big Northern soul movement in the UK &#8211; Northern meaning US-based soul stars, usually obscure at that &#8211; but there has been a Northern soul scene in Britain since the early &#8217;70&#8217;s so I knew that wasn&#8217;t it.</p>
@@ -47,7 +47,7 @@
 <p>     The Music Nerd knows&#8230;..</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/25/bless-my-soul/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/25/bless-my-soul/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

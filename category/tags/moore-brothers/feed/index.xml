@@ -9,8 +9,8 @@
 
 <channel>
 	<title>moore brothers &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/moore-brothers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/moore-brothers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 14 Mar 2007 19:48:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Paula Frazer &#038; Tarnation &#8211; Now It&#8217;s Time CD (Birdman)</title>
-		<link>https://www.lostinthegrooves.com/2007/03/14/tarnation/</link>
-					<comments>https://www.lostinthegrooves.com/2007/03/14/tarnation/#respond</comments>
+		<link>/2007/03/14/tarnation/</link>
+					<comments>/2007/03/14/tarnation/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 14 Mar 2007 19:48:15 +0000</pubDate>
@@ -34,13 +34,13 @@
 		<category><![CDATA[sandy denny]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Paula Frazer&#8217;s voice has this warm, effortless quality that makes me think of old fashioned things like melted sugar candy being pulled in a hand-cranked roller. Adopting the loosely defined Tarnation name after nearly a decade, with longtime collaborators Patrick Main and Jasmyn Wong plus various Moore Bros and Orangers in tow, Frazer evokes a &#8230; <a href="https://www.lostinthegrooves.com/2007/03/14/tarnation/" class="more-link">Continue reading<span class="screen-reader-text"> "Paula Frazer &#038; Tarnation &#8211; Now It&#8217;s Time CD (Birdman)"</span></a>]]></description>
+					<description><![CDATA[Paula Frazer&#8217;s voice has this warm, effortless quality that makes me think of old fashioned things like melted sugar candy being pulled in a hand-cranked roller. Adopting the loosely defined Tarnation name after nearly a decade, with longtime collaborators Patrick Main and Jasmyn Wong plus various Moore Bros and Orangers in tow, Frazer evokes a &#8230; <a href="/2007/03/14/tarnation/" class="more-link">Continue reading<span class="screen-reader-text"> "Paula Frazer &#038; Tarnation &#8211; Now It&#8217;s Time CD (Birdman)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/exec/obidos/ASIN/B000H5VBA6/ref=nosim/bubblegumbook"><img src="https://images.amazon.com/images/P/B000H5VBA6.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
 <p>Paula Frazer&#8217;s voice has this warm, effortless quality that makes me think of old fashioned things like melted sugar candy being pulled in a hand-cranked roller. Adopting the loosely defined Tarnation name after nearly a decade, with longtime collaborators Patrick Main and Jasmyn Wong plus various Moore Bros and Orangers in tow, Frazer evokes a throatier Sandy Denny as she trips and skitters about a suite of moody country-psych tunes loosely inspired by one heartbroken summer. Frazer&#8217;s songs tend to grow on you, and if these come off a bit abstract and under-narrated on early listens, past experience suggests the facets will click into place with time, and be worth the effort.</p>
 <p><form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B000H5VBA6" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/03/14/tarnation/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/14/tarnation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Some Mac With No Cheese	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/08/20/some-mac-with-no-cheese/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/08/20/some-mac-with-no-cheese/</link>
+	<atom:link href="/2006/08/20/some-mac-with-no-cheese/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/08/20/some-mac-with-no-cheese/</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Aug 2006 08:41:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

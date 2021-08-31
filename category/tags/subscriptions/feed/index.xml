@@ -9,8 +9,8 @@
 
 <channel>
 	<title>subscriptions &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/subscriptions/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/subscriptions/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 10 Mar 2006 05:30:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Subscriptions</title>
-		<link>https://www.lostinthegrooves.com/2006/03/10/subscriptions/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/10/subscriptions/#respond</comments>
+		<link>/2006/03/10/subscriptions/</link>
+					<comments>/2006/03/10/subscriptions/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2006 05:30:13 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[zine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[SUBSCRIPTION + ORDERING INFO Special closet-cleaner offer for US customers: any THREE normal back issues (3, 5, 7, 9, 11, 12, 14, 14, 15, 16) can be yours for $15 postpaid.&#160; Or get a selection of older Scrams (3, 5, 6, 7, 9, 11, 12, 13, 14, 15) and get a crash course in unpopular &#8230; <a href="https://www.lostinthegrooves.com/2006/03/10/subscriptions/" class="more-link">Continue reading<span class="screen-reader-text"> "Subscriptions"</span></a>]]></description>
+					<description><![CDATA[SUBSCRIPTION + ORDERING INFO Special closet-cleaner offer for US customers: any THREE normal back issues (3, 5, 7, 9, 11, 12, 14, 14, 15, 16) can be yours for $15 postpaid.&#160; Or get a selection of older Scrams (3, 5, 6, 7, 9, 11, 12, 13, 14, 15) and get a crash course in unpopular &#8230; <a href="/2006/03/10/subscriptions/" class="more-link">Continue reading<span class="screen-reader-text"> "Subscriptions"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <div align="left">              <strong><em>SUBSCRIPTION + ORDERING INFO</em></strong>                        </p>
 <div align="center">                          </div>
@@ -49,7 +49,7 @@
 <p align="left">&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/10/subscriptions/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/10/subscriptions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

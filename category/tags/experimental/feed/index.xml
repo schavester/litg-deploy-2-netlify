@@ -9,8 +9,8 @@
 
 <channel>
 	<title>experimental &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/experimental/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/experimental/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 08 Jul 2007 05:09:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>July fourth Toilet YouTube footage</title>
-		<link>https://www.lostinthegrooves.com/2007/07/08/july-fourth-toilet-youtube-footage/</link>
-					<comments>https://www.lostinthegrooves.com/2007/07/08/july-fourth-toilet-youtube-footage/#comments</comments>
+		<link>/2007/07/08/july-fourth-toilet-youtube-footage/</link>
+					<comments>/2007/07/08/july-fourth-toilet-youtube-footage/#comments</comments>
 		
 		<dc:creator><![CDATA[Robert Dayton]]></dc:creator>
 		<pubDate>Sun, 08 Jul 2007 05:09:39 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Vancouver]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Ladies and gentleman, We have started uploading vids from our massive archive dating back 13 years! July Fourth Toilet is a musically performative project I&#8217;ve been heavily involved in as a founding member where our mandate is to always have a differently themed show! Lots of info in the sidebar of the links provided. And &#8230; <a href="https://www.lostinthegrooves.com/2007/07/08/july-fourth-toilet-youtube-footage/" class="more-link">Continue reading<span class="screen-reader-text"> "July fourth Toilet YouTube footage"</span></a>]]></description>
+					<description><![CDATA[Ladies and gentleman, We have started uploading vids from our massive archive dating back 13 years! July Fourth Toilet is a musically performative project I&#8217;ve been heavily involved in as a founding member where our mandate is to always have a differently themed show! Lots of info in the sidebar of the links provided. And &#8230; <a href="/2007/07/08/july-fourth-toilet-youtube-footage/" class="more-link">Continue reading<span class="screen-reader-text"> "July fourth Toilet YouTube footage"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Ladies and gentleman,<br />
 We have started uploading vids from our massive<br />
 archive dating back 13 years!<br />
@@ -65,7 +65,7 @@ Ruv,<br />
 Robert</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/07/08/july-fourth-toilet-youtube-footage/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/08/july-fourth-toilet-youtube-footage/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		

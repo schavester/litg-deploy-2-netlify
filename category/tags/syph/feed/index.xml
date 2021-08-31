@@ -9,8 +9,8 @@
 
 <channel>
 	<title>SYPH &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/syph/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/syph/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Sep 2006 23:23:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>S.Y.P.H. &#8211; Am Rhein</title>
-		<link>https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/#comments</comments>
+		<link>/2006/09/07/s-y-p-h-am-rhein/</link>
+					<comments>/2006/09/07/s-y-p-h-am-rhein/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Thu, 07 Sep 2006 23:23:28 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[SYPH]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[cult of the week makes a tentative return this week&#8230;watch these spaces! artist: S.Y.P.H. title: Am Rhein year: 1987 label: Atatak Records personnel: Uwe Jahnke (guitars), Harry Rag (vocals), Jojo Wolter (bass), Ralf Bauerfeind (druns) tracklisting: 11. frau im harem, die matchbox-generation, mein esel ist kaputt, oliver, but the girls, schwesterlein, platz da, julischka, pop &#8230; <a href="https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/" class="more-link">Continue reading<span class="screen-reader-text"> "S.Y.P.H. &#8211; Am Rhein"</span></a>]]></description>
+					<description><![CDATA[cult of the week makes a tentative return this week&#8230;watch these spaces! artist: S.Y.P.H. title: Am Rhein year: 1987 label: Atatak Records personnel: Uwe Jahnke (guitars), Harry Rag (vocals), Jojo Wolter (bass), Ralf Bauerfeind (druns) tracklisting: 11. frau im harem, die matchbox-generation, mein esel ist kaputt, oliver, but the girls, schwesterlein, platz da, julischka, pop &#8230; <a href="/2006/09/07/s-y-p-h-am-rhein/" class="more-link">Continue reading<span class="screen-reader-text"> "S.Y.P.H. &#8211; Am Rhein"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>cult of the week makes a tentative return this week&#8230;watch these spaces!</p>
 <p>artist: S.Y.P.H.</p>
 <p>title: Am Rhein</p>
@@ -48,7 +48,7 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/07/s-y-p-h-am-rhein/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/07/s-y-p-h-am-rhein/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

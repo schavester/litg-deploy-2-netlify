@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Subscriptions	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/03/10/subscriptions/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/03/10/subscriptions/</link>
+	<atom:link href="/2006/03/10/subscriptions/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/03/10/subscriptions/</link>
 	<description></description>
 	<lastBuildDate>Fri, 10 Mar 2006 05:30:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

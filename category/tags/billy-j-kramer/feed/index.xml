@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Billy J. Kramer &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/billy-j-kramer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/billy-j-kramer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 18 Jul 2010 00:20:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>From All Over The World</title>
-		<link>https://www.lostinthegrooves.com/2010/07/18/gary70/</link>
-					<comments>https://www.lostinthegrooves.com/2010/07/18/gary70/#respond</comments>
+		<link>/2010/07/18/gary70/</link>
+					<comments>/2010/07/18/gary70/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2010 00:20:30 +0000</pubDate>
@@ -43,7 +43,7 @@
 		<category><![CDATA[The Supremes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Attention, Lost Groovers everywhere: Your assignment today is to gather together in one medium-sized concert facility, for one evening only, one dozen of the worldÃ¢â‚¬â„¢s most popular entertainers. Age, style, size, corporate affiliation and particularly musical pigeonhole is to be strictly of no concern whatsoever. Each act just has to have had a heck of &#8230; <a href="https://www.lostinthegrooves.com/2010/07/18/gary70/" class="more-link">Continue reading<span class="screen-reader-text"> "From All Over The World"</span></a>]]></description>
+					<description><![CDATA[Attention, Lost Groovers everywhere: Your assignment today is to gather together in one medium-sized concert facility, for one evening only, one dozen of the worldÃ¢â‚¬â„¢s most popular entertainers. Age, style, size, corporate affiliation and particularly musical pigeonhole is to be strictly of no concern whatsoever. Each act just has to have had a heck of &#8230; <a href="/2010/07/18/gary70/" class="more-link">Continue reading<span class="screen-reader-text"> "From All Over The World"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.uniondocs.org/wp-content/uploads/2009/08/tamishow1.jpg" alt="" width="380" height="280" /></p>
 <p>Attention, Lost Groovers everywhere:</p>
 <p>Your assignment today is to gather together in one medium-sized concert facility, for one evening only, one dozen of the worldÃ¢â‚¬â„¢s most popular entertainers. Age, style, size, corporate affiliation and particularly musical pigeonhole is to be strictly of no concern whatsoever. Each act just has to have had a heck of a lot of their songs downloaded, perhaps maybe even sold, over the past calendar year or so.</p>
@@ -69,7 +69,7 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2010/07/18/gary70/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/07/18/gary70/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

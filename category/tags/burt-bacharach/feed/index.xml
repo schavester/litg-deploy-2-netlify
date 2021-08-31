@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Burt Bacharach &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/burt-bacharach/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/burt-bacharach/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 16 May 2007 15:36:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Neon Dionne</title>
-		<link>https://www.lostinthegrooves.com/2007/05/16/neon-dionne/</link>
-					<comments>https://www.lostinthegrooves.com/2007/05/16/neon-dionne/#comments</comments>
+		<link>/2007/05/16/neon-dionne/</link>
+					<comments>/2007/05/16/neon-dionne/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Wed, 16 May 2007 15:36:13 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Stax Records]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Even though I hope your week is going as good as mine, I know I am the luckier guy! You know how I know? Because last week I got a passel of vintage Dionne Warwick reissue from my good friends at Collector&#8217;s Choice and I&#8217;ve been having a helluva time going through these albums and &#8230; <a href="https://www.lostinthegrooves.com/2007/05/16/neon-dionne/" class="more-link">Continue reading<span class="screen-reader-text"> "Neon Dionne"</span></a>]]></description>
+					<description><![CDATA[Even though I hope your week is going as good as mine, I know I am the luckier guy! You know how I know? Because last week I got a passel of vintage Dionne Warwick reissue from my good friends at Collector&#8217;s Choice and I&#8217;ve been having a helluva time going through these albums and &#8230; <a href="/2007/05/16/neon-dionne/" class="more-link">Continue reading<span class="screen-reader-text"> "Neon Dionne"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>    Even though I hope your week is going as good as mine, I know I am the luckier guy! You know how I know? Because last week I got a passel of vintage Dionne Warwick reissue from my good friends at Collector&#8217;s Choice and I&#8217;ve been having a helluva time going through these albums and enjoying the lite-soul contained herein. Sure, I love Stax and the real greasy kind of soul as much as the next soul fan but I really started to fall in love with Dionne&#8217;s voice listening to these albums. For the most part they kill!</p>
 <p>    But don&#8217;t believe me (even though I&#8217;ve never steered you wrong before), check this review out (which was also written by me &#8211; I win!): </p>
 <p>Dionne Warwick &#8211; Presenting Dionne Warwick<br />
@@ -61,7 +61,7 @@ Dionne Warwick &#8211; Make Way For </p>
 <p>    These re-issues should appeal to anyone interested in sophisticated pop music with a dollop of smooth soul thrown in. Though they won&#8217;t get the party started, these albums will do a fine job in helping smooth the edges of a rough, hangover-filled Sunday morning. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/05/16/neon-dionne/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/16/neon-dionne/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

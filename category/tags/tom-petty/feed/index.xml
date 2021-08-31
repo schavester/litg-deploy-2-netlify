@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tom Petty &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/tom-petty/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/tom-petty/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 11 May 2007 15:56:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Dwight Makes Right</title>
-		<link>https://www.lostinthegrooves.com/2007/05/11/dwight-makes-right/</link>
-					<comments>https://www.lostinthegrooves.com/2007/05/11/dwight-makes-right/#respond</comments>
+		<link>/2007/05/11/dwight-makes-right/</link>
+					<comments>/2007/05/11/dwight-makes-right/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Fri, 11 May 2007 15:56:15 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Tom Petty]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[There&#8217;s too much good music out there to stop this pace now, so here&#8217;s another review of a recent music revelation! Featuring one of the overlooked heroes of the power pop genre, this CD from Austrailia&#8217;s premeir reissue label Raven Records manages to salvage two mid-period albums from songwriter extraordinaire Dwight Twilley! So, even though &#8230; <a href="https://www.lostinthegrooves.com/2007/05/11/dwight-makes-right/" class="more-link">Continue reading<span class="screen-reader-text"> "Dwight Makes Right"</span></a>]]></description>
+					<description><![CDATA[There&#8217;s too much good music out there to stop this pace now, so here&#8217;s another review of a recent music revelation! Featuring one of the overlooked heroes of the power pop genre, this CD from Austrailia&#8217;s premeir reissue label Raven Records manages to salvage two mid-period albums from songwriter extraordinaire Dwight Twilley! So, even though &#8230; <a href="/2007/05/11/dwight-makes-right/" class="more-link">Continue reading<span class="screen-reader-text"> "Dwight Makes Right"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>   There&#8217;s too much good music out there to stop this pace now, so here&#8217;s another review of a recent music revelation!</p>
 <p>   Featuring one of the overlooked heroes of the power pop genre, this CD from Austrailia&#8217;s premeir reissue label Raven Records manages to salvage two mid-period albums from songwriter extraordinaire Dwight Twilley!</p>
 <p>   So, even though Twilley don&#8217;t mind, here goes:  </p>
@@ -59,7 +59,7 @@ Raven Records</p>
 <p>   The Music Nerd Don&#8217;t Mind&#8230;&#8230;&#8230;. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/05/11/dwight-makes-right/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/11/dwight-makes-right/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

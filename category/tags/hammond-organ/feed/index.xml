@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Hammond Organ &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/hammond-organ/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/hammond-organ/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 19 Jun 2006 16:04:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>I Love A Good Organ</title>
-		<link>https://www.lostinthegrooves.com/2006/06/19/i-love-a-good-organ/</link>
-					<comments>https://www.lostinthegrooves.com/2006/06/19/i-love-a-good-organ/#respond</comments>
+		<link>/2006/06/19/i-love-a-good-organ/</link>
+					<comments>/2006/06/19/i-love-a-good-organ/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Mon, 19 Jun 2006 16:04:30 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Music Nerd]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The title of this piece grabbed you, huh? Before you go and call the FCC or whoever controls that kind of stuff, I just want you to know I am talking about the musical kind of organ, specifically the Hammond B-3. Though I really dig the distinctive Hammond sound no matter who is playing, my &#8230; <a href="https://www.lostinthegrooves.com/2006/06/19/i-love-a-good-organ/" class="more-link">Continue reading<span class="screen-reader-text"> "I Love A Good Organ"</span></a>]]></description>
+					<description><![CDATA[The title of this piece grabbed you, huh? Before you go and call the FCC or whoever controls that kind of stuff, I just want you to know I am talking about the musical kind of organ, specifically the Hammond B-3. Though I really dig the distinctive Hammond sound no matter who is playing, my &#8230; <a href="/2006/06/19/i-love-a-good-organ/" class="more-link">Continue reading<span class="screen-reader-text"> "I Love A Good Organ"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>The title of this piece grabbed you, huh? Before you go and call the FCC or whoever controls that kind of stuff, I just want you to know I am talking about the musical kind of organ, specifically the Hammond B-3. Though I really dig the distinctive Hammond sound no matter who is playing, my favorite organist is Jimmy Smith.</p>
 <p>Like most of the classic organists, Smith started his musical career by playing piano before moving to the Hammond, studying the piano at several prestigious music schools. Once Smith heard the organ, however, it was love at first listen (I would think he probably heard some great Fats Waller organ stuff) and he rarely deviated from the organ from 1951 or so onward. </p>
 <p>In a mere five years, Smith had begun making classic albums for Blue Note &#8211; 1960&#8217;s Back at the Chicken Shack and The Sermon, released in 1958, being just two of them. Then, after leaving Blue Note in 1963 and jumping to Verve, he made yet another round of classic albums between 1963-1972. What made his records special was Smith&#8217;s fusion of his influences. And, no, I am not talking about jazz fusion &#8211; which I absolutely detest. I am talking about Smith&#8217;s fusion of gospel music and blues into a brand of music you can&#8217;t help but smile and tap your feet along with while listening.</p>
@@ -47,7 +47,7 @@
 <p>The Music Nerd knows&#8230;&#8230;.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/06/19/i-love-a-good-organ/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/19/i-love-a-good-organ/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

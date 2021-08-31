@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mojo Nixon &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/mojo-nixon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/mojo-nixon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 Feb 2010 00:38:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Gary&#8217;s Nineteen Nineties</title>
-		<link>https://www.lostinthegrooves.com/2010/02/21/gary68/</link>
-					<comments>https://www.lostinthegrooves.com/2010/02/21/gary68/#comments</comments>
+		<link>/2010/02/21/gary68/</link>
+					<comments>/2010/02/21/gary68/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 21 Feb 2010 00:38:01 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<category><![CDATA[Tiny Tim]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Still in a most list-ful mood, but this round-up certainly wasnÃ¢â‚¬â„¢t a very easy one to compile, IÃ¢â‚¬â„¢ll have everyone know. The pickinÃ¢â‚¬â„¢s were extremely, uh, thin, to say the very least. Nevertheless (or should I say Nevermind)Ã¢â‚¬Â¦.. Number One: Mark Johnson &#8211; 12 in a room (1992)Powerful pop most firmly rooted within the Brill &#8230; <a href="https://www.lostinthegrooves.com/2010/02/21/gary68/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary&#8217;s Nineteen Nineties"</span></a>]]></description>
+					<description><![CDATA[Still in a most list-ful mood, but this round-up certainly wasnÃ¢â‚¬â„¢t a very easy one to compile, IÃ¢â‚¬â„¢ll have everyone know. The pickinÃ¢â‚¬â„¢s were extremely, uh, thin, to say the very least. Nevertheless (or should I say Nevermind)Ã¢â‚¬Â¦.. Number One: Mark Johnson &#8211; 12 in a room (1992)Powerful pop most firmly rooted within the Brill &#8230; <a href="/2010/02/21/gary68/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary&#8217;s Nineteen Nineties"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.medleyville.us/GPG23_art.jpg" alt="" width="270" height="260" /></p>
 <p>Still in a most list-ful mood, but <em>this</em> round-up certainly wasnÃ¢â‚¬â„¢t a very easy one to compile, IÃ¢â‚¬â„¢ll have everyone know. The pickinÃ¢â‚¬â„¢s were extremely, uh, thin, to say the very least.</p>
 <p>Nevertheless (or should I say <em>Nevermind</em>)Ã¢â‚¬Â¦.. </p>
@@ -73,7 +73,7 @@
 <p>Nineteen:  <a href="https://www.earcandymag.com/gpg-jandeklive-2005.htm"><strong>Jandek</strong></a>  &#8211;  <em><strong>Twelfth Apostle</strong></em>  (1993)<br />So many Jandek albums; so little space. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2010/02/21/gary68/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/02/21/gary68/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

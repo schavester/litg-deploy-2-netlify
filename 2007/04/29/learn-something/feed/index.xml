@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Learn something.	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/04/29/learn-something/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/04/29/learn-something/</link>
+	<atom:link href="/2007/04/29/learn-something/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/04/29/learn-something/</link>
 	<description></description>
 	<lastBuildDate>Sun, 29 Apr 2007 10:06:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>michael ochs &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/michael-ochs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/michael-ochs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 29 May 2006 19:58:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Correcting the NY Times on Michael Ochs and James Kriegsmann</title>
-		<link>https://www.lostinthegrooves.com/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/#respond</comments>
+		<link>/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/</link>
+					<comments>/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 29 May 2006 19:58:31 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[photography]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[From a NYT feature on photo archivist Michael Ochs, the following passage demands correction. Many of his most important images came courtesy of James Kriegsmann, the longtime industry photographer who shot Frank Sinatra, Kate Smith, Buddy Holly and hundreds of early stars. Mr. Ochs paid about $50,000 for the entire collection in 1988 when Mr. &#8230; <a href="https://www.lostinthegrooves.com/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/" class="more-link">Continue reading<span class="screen-reader-text"> "Correcting the NY Times on Michael Ochs and James Kriegsmann"</span></a>]]></description>
+					<description><![CDATA[From a NYT feature on photo archivist Michael Ochs, the following passage demands correction. Many of his most important images came courtesy of James Kriegsmann, the longtime industry photographer who shot Frank Sinatra, Kate Smith, Buddy Holly and hundreds of early stars. Mr. Ochs paid about $50,000 for the entire collection in 1988 when Mr. &#8230; <a href="/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/" class="more-link">Continue reading<span class="screen-reader-text"> "Correcting the NY Times on Michael Ochs and James Kriegsmann"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>From a NYT <a target="_blank" href="https://www.nytimes.com/2006/05/28/arts/music/28schw.html?_r=2&#038;oref=slogin&#038;oref=slogin">feature</a> on photo archivist Michael Ochs, the following passage demands correction. </p>
 <blockquote>
 <p>Many of his most important images came courtesy of James Kriegsmann, the longtime industry photographer who shot Frank Sinatra, Kate Smith, Buddy Holly and hundreds of early stars. Mr. Ochs paid about $50,000 for the entire collection in 1988 when Mr. Kriegsmann was in his 80&#8217;s and struggling. After signing the contract, Mr. Kriegsmann had a few words for the quirky enthusiast who reveled in the find, and was already itching to release the wealth of history to fellow rock fans.</p>
@@ -45,7 +45,7 @@
 <p>Could Michael Ochs, longtime Venice resident, have put the &quot;dregs&quot; of the Kriegsmann files out for the garbage man to collect, only scavengers happily got to it first? </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/29/correcting-the-ny-times-on-michael-ochs-and-james-kriegsmann/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

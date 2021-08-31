@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: 1000 Songs to Change Your Life	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2008/06/06/1000songs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2008/06/06/1000songs/</link>
+	<atom:link href="/2008/06/06/1000songs/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/06/06/1000songs/</link>
 	<description></description>
 	<lastBuildDate>Fri, 06 Jun 2008 23:32:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

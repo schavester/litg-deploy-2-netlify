@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Scram Magazine &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/lost-in-the-grooves-2/scram-magazine/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/lost-in-the-grooves-2/scram-magazine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 10 Mar 2006 09:58:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Back Issues</title>
-		<link>https://www.lostinthegrooves.com/2006/03/10/back-issues/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/10/back-issues/#respond</comments>
+		<link>/2006/03/10/back-issues/</link>
+					<comments>/2006/03/10/back-issues/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2006 09:58:23 +0000</pubDate>
@@ -33,15 +33,15 @@
 										<content:encoded><![CDATA[<p>Please visit the <a href="https://www.scrammagazine.com/backissues.html">Scram website</a> to shop for issues #3-21, plus special offers, feature articles, record reviews and more. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/10/back-issues/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/10/back-issues/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Recent issues</title>
-		<link>https://www.lostinthegrooves.com/2006/03/10/recent-issues/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/10/recent-issues/#respond</comments>
+		<link>/2006/03/10/recent-issues/</link>
+					<comments>/2006/03/10/recent-issues/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2006 09:38:04 +0000</pubDate>
@@ -52,7 +52,7 @@
 		<category><![CDATA[zine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[SCRAM is a magazine dedicated to rooting out the cashews in the bridge mix of unpopular culture. Since 1992 we have chronicled the neglected, the odd, the nifty and the nuts. CURRENT ISSUE &#160; Scram #21 featuring Lark Pien&#8217;s cover art. It is our Swamp Issue, with a funky air blowing through it. Features include &#8230; <a href="https://www.lostinthegrooves.com/2006/03/10/recent-issues/" class="more-link">Continue reading<span class="screen-reader-text"> "Recent issues"</span></a>]]></description>
+					<description><![CDATA[SCRAM is a magazine dedicated to rooting out the cashews in the bridge mix of unpopular culture. Since 1992 we have chronicled the neglected, the odd, the nifty and the nuts. CURRENT ISSUE &#160; Scram #21 featuring Lark Pien&#8217;s cover art. It is our Swamp Issue, with a funky air blowing through it. Features include &#8230; <a href="/2006/03/10/recent-issues/" class="more-link">Continue reading<span class="screen-reader-text"> "Recent issues"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>SCRAM is a magazine dedicated to rooting out the cashews in the bridge mix of unpopular culture. Since 1992 we have chronicled the neglected, the odd, the nifty and the nuts. </p>
 <p><img border="0" src="https://static.flickr.com/45/110301922_0d3e423ceb_m.jpg" /></p>
 <p> CURRENT ISSUE</p>
@@ -67,15 +67,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/10/recent-issues/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/10/recent-issues/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Subscriptions</title>
-		<link>https://www.lostinthegrooves.com/2006/03/10/subscriptions/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/10/subscriptions/#respond</comments>
+		<link>/2006/03/10/subscriptions/</link>
+					<comments>/2006/03/10/subscriptions/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2006 05:30:13 +0000</pubDate>
@@ -88,7 +88,7 @@
 		<category><![CDATA[zine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[SUBSCRIPTION + ORDERING INFO Special closet-cleaner offer for US customers: any THREE normal back issues (3, 5, 7, 9, 11, 12, 14, 14, 15, 16) can be yours for $15 postpaid.&#160; Or get a selection of older Scrams (3, 5, 6, 7, 9, 11, 12, 13, 14, 15) and get a crash course in unpopular &#8230; <a href="https://www.lostinthegrooves.com/2006/03/10/subscriptions/" class="more-link">Continue reading<span class="screen-reader-text"> "Subscriptions"</span></a>]]></description>
+					<description><![CDATA[SUBSCRIPTION + ORDERING INFO Special closet-cleaner offer for US customers: any THREE normal back issues (3, 5, 7, 9, 11, 12, 14, 14, 15, 16) can be yours for $15 postpaid.&#160; Or get a selection of older Scrams (3, 5, 6, 7, 9, 11, 12, 13, 14, 15) and get a crash course in unpopular &#8230; <a href="/2006/03/10/subscriptions/" class="more-link">Continue reading<span class="screen-reader-text"> "Subscriptions"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <div align="left">              <strong><em>SUBSCRIPTION + ORDERING INFO</em></strong>                        </p>
 <div align="center">                          </div>
@@ -102,7 +102,7 @@
 <p align="left">&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/10/subscriptions/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/10/subscriptions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>martin hannett penetration &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/martin-hannett-penetration/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/martin-hannett-penetration/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 16 Apr 2006 17:23:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>cult of the week &#8211; Pauline Murray and the Invisible Girls</title>
-		<link>https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/</link>
-					<comments>https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/#respond</comments>
+		<link>/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/</link>
+					<comments>/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/#respond</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Sun, 16 Apr 2006 17:23:31 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[martin hannett penetration]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Pauline Murray and the Invisible Girls title: Pauline Murray and the Invisible Girls year: 1980 label: RSO Records personnel: Pauline Murray, Martin Hannett, Steve Hopkins, Robert Blamire, John Maher, Dave Rowbotham, Dave Hassell, Vini Reilly tracklisting: screaming in the darkness, dream sequence, european eyes, shoot you down, sympathy, time slipping, drummer boy, thundertunes, when &#8230; <a href="https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Pauline Murray and the Invisible Girls"</span></a>]]></description>
+					<description><![CDATA[artist: Pauline Murray and the Invisible Girls title: Pauline Murray and the Invisible Girls year: 1980 label: RSO Records personnel: Pauline Murray, Martin Hannett, Steve Hopkins, Robert Blamire, John Maher, Dave Rowbotham, Dave Hassell, Vini Reilly tracklisting: screaming in the darkness, dream sequence, european eyes, shoot you down, sympathy, time slipping, drummer boy, thundertunes, when &#8230; <a href="/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Pauline Murray and the Invisible Girls"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>artist: Pauline Murray and the Invisible Girls</p>
 <p>title: Pauline Murray and the Invisible Girls</p>
 <p>year: 1980</p>
@@ -44,7 +44,7 @@
 <p>invisible, perhaps. but let&#8217;s hope not for much longer.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/16/cult-of-the-week-pauline-murray-and-the-invisible-girls/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

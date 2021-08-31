@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Casper Fandango &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/casper-fandango/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/casper-fandango/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 19 Nov 2006 03:35:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Just Say YES !!</title>
-		<link>https://www.lostinthegrooves.com/2006/11/19/just-say-yes/</link>
-					<comments>https://www.lostinthegrooves.com/2006/11/19/just-say-yes/#respond</comments>
+		<link>/2006/11/19/just-say-yes/</link>
+					<comments>/2006/11/19/just-say-yes/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 19 Nov 2006 03:35:38 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[pop]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160;&#160;&#160; Time for another round of Virtual Musical Word Association! Wherein we join Mr. Fandango himself Jason NeSmith as he and main cookie Kay S. Stanton, d.b.a. Casper &#38; The Cookies, spend Some Time in gray New York City and live to return to Athens to sing and play for us all about it. Yes, &#8230; <a href="https://www.lostinthegrooves.com/2006/11/19/just-say-yes/" class="more-link">Continue reading<span class="screen-reader-text"> "Just Say YES !!"</span></a>]]></description>
+					<description><![CDATA[&#160;&#160;&#160; Time for another round of Virtual Musical Word Association! Wherein we join Mr. Fandango himself Jason NeSmith as he and main cookie Kay S. Stanton, d.b.a. Casper &#38; The Cookies, spend Some Time in gray New York City and live to return to Athens to sing and play for us all about it. Yes, &#8230; <a href="/2006/11/19/just-say-yes/" class="more-link">Continue reading<span class="screen-reader-text"> "Just Say YES !!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" width="200" height="200" border="0" src="https://www.casperfandango.com/OptimistsCover.jpg" />&nbsp;&nbsp;&nbsp; Time for another round of Virtual Musical Word Association!</p>
 <p>Wherein we join Mr. Fandango himself Jason NeSmith as he and main cookie Kay S. Stanton, d.b.a. <a target="_self" href="https://www.casperfandango.com/"><strong>Casper &amp; The Cookies</strong></a>, spend Some Time in gray New York City and live to return to Athens to sing and play for us all about it.</p>
 <p>Yes, <em>The Optimist&rsquo;s Club</em> is the name of this most positive disc in question;&nbsp; but <a target="_self" href="https://www.casperfandango.com/store.html"><strong>Hurry and order</strong></a> your very own copy so as to grab the accompanying limited-offer mini graphic novel, <em>overly optimistic</em> bonus CDR, sticker and button set and maybe even tasty CookieShirt to boot (mine was an absolutely Tee-rrific 100% heavy cotton Honduran Fruit-o-the-Loom in stunning day-glo green and pink!!)&nbsp; &nbsp;</p>
@@ -50,7 +50,7 @@
 <p>11.&nbsp; THINGS TO DO BEFORE WE DIE&#8230;..Casper&rsquo;s List. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/11/19/just-say-yes/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/19/just-say-yes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

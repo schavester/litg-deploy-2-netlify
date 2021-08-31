@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cheepskates &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/cheepskates/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/cheepskates/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 15 Oct 2006 21:50:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>More Required Viewing !!!</title>
-		<link>https://www.lostinthegrooves.com/2006/10/15/more-required-viewing/</link>
-					<comments>https://www.lostinthegrooves.com/2006/10/15/more-required-viewing/#respond</comments>
+		<link>/2006/10/15/more-required-viewing/</link>
+					<comments>/2006/10/15/more-required-viewing/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 15 Oct 2006 21:50:32 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Timothy Gassen]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160;&#160;&#160; There was a time, believe you me,long ago and far, far away,when all the best boots were Beatle,trebly white Vox six-strings cooly matched your best gurl&#8217;s plastic mini,and the words &#8220;Garage Band&#8221; had not yet become just another registered Apple trademark. Well, it isn&#8217;t only those Hives who care to dwell to this day &#8230; <a href="https://www.lostinthegrooves.com/2006/10/15/more-required-viewing/" class="more-link">Continue reading<span class="screen-reader-text"> "More Required Viewing !!!"</span></a>]]></description>
+					<description><![CDATA[&#160;&#160;&#160; There was a time, believe you me,long ago and far, far away,when all the best boots were Beatle,trebly white Vox six-strings cooly matched your best gurl&#8217;s plastic mini,and the words &#8220;Garage Band&#8221; had not yet become just another registered Apple trademark. Well, it isn&#8217;t only those Hives who care to dwell to this day &#8230; <a href="/2006/10/15/more-required-viewing/" class="more-link">Continue reading<span class="screen-reader-text"> "More Required Viewing !!!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" width="200" height="300" border="0" src="https://www.purple-cactus.tv/garage-nation/media/knightsoffuzz/Knights300.jpg" />&nbsp;&nbsp;&nbsp; There was a time, </p>
 <p>believe you me,<br />long ago and far, far away,<br />when all the best boots were Beatle,<br />trebly white Vox six-strings cooly matched your best gurl&rsquo;s plastic mini,<br />and the words &ldquo;Garage Band&rdquo; had not yet become just another registered Apple trademark.</p>
 <p>Well, it isn&rsquo;t only those Hives who care to dwell to this day in such defiantly monophonic, tight-legged times: &nbsp;<br />Coz, believe it or knot, those otherwise empty Eighties and Nineties were positively littered as well with Levi and Rickenbacker-clad mopheads singing and playing up wholly frug-worthy storms for all who would listen </p>
@@ -51,7 +51,7 @@
 <p>Then GO Already !!!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/10/15/more-required-viewing/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/15/more-required-viewing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

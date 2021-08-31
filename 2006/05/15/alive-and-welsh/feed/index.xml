@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Alive and Welsh	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/05/15/alive-and-welsh/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/05/15/alive-and-welsh/</link>
+	<atom:link href="/2006/05/15/alive-and-welsh/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/05/15/alive-and-welsh/</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 May 2006 16:13:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: garypiggold		</title>
-		<link>https://www.lostinthegrooves.com/2006/05/15/alive-and-welsh/#comment-11</link>
+		<link>/2006/05/15/alive-and-welsh/#comment-11</link>
 
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>

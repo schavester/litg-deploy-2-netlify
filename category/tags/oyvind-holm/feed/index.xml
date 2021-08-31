@@ -9,8 +9,8 @@
 
 <channel>
 	<title>oyvind holm &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/oyvind-holm/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/oyvind-holm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 May 2006 20:16:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Record Review:</title>
-		<link>https://www.lostinthegrooves.com/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/#respond</comments>
+		<link>/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/</link>
+					<comments>/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 30 May 2006 20:16:38 +0000</pubDate>
@@ -40,7 +40,7 @@
 <p>Don</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/30/record-review-oyvind-holm-the-vanishing-act-camera-obscura/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

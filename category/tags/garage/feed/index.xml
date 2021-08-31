@@ -9,8 +9,8 @@
 
 <channel>
 	<title>garage &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/garage/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/garage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 09 Feb 2007 01:13:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Victor Bravo &#8211; Shut Out The Sky CD-EP</title>
-		<link>https://www.lostinthegrooves.com/2007/02/09/victorbravo/</link>
-					<comments>https://www.lostinthegrooves.com/2007/02/09/victorbravo/#respond</comments>
+		<link>/2007/02/09/victorbravo/</link>
+					<comments>/2007/02/09/victorbravo/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 09 Feb 2007 01:13:14 +0000</pubDate>
@@ -31,13 +31,13 @@
 		<category><![CDATA[punk]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Victor Bravo is a stripped-down garage rock juggernaut of Collin Frendz on fuzzy guitar and echoey howl-at-the-moon vocals and Dan Collins on twitchy drums. Tracks 1-3 are terrific, swaggering snot-nosed anthems in the tradition of rural pissed-off teens from 1966 on. &#8220;Binge&#8221; is an irresistibly Dionysian release, though &#8220;Sarbanes-Oxley&#8221; (named for the 2002 corporate accounting &#8230; <a href="https://www.lostinthegrooves.com/2007/02/09/victorbravo/" class="more-link">Continue reading<span class="screen-reader-text"> "Victor Bravo &#8211; Shut Out The Sky CD-EP"</span></a>]]></description>
+					<description><![CDATA[Victor Bravo is a stripped-down garage rock juggernaut of Collin Frendz on fuzzy guitar and echoey howl-at-the-moon vocals and Dan Collins on twitchy drums. Tracks 1-3 are terrific, swaggering snot-nosed anthems in the tradition of rural pissed-off teens from 1966 on. &#8220;Binge&#8221; is an irresistibly Dionysian release, though &#8220;Sarbanes-Oxley&#8221; (named for the 2002 corporate accounting &#8230; <a href="/2007/02/09/victorbravo/" class="more-link">Continue reading<span class="screen-reader-text"> "Victor Bravo &#8211; Shut Out The Sky CD-EP"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Victor Bravo is a stripped-down garage rock juggernaut of Collin Frendz on fuzzy guitar and echoey howl-at-the-moon vocals and Dan Collins on twitchy drums. Tracks 1-3 are terrific, swaggering snot-nosed anthems in the tradition of rural pissed-off teens from 1966 on. &#8220;Binge&#8221; is an irresistibly Dionysian release, though &#8220;Sarbanes-Oxley&#8221; (named for the 2002 corporate accounting reform act) is hardly a typical lowbrow theme. Closes with the throwaway sneer of &#8220;Toxic Tornado,&#8221; weakening the effect of the rest of the EP. The band is now based in NYC, but has roots in Maine that I hope they keep watered.</p>
 <p>More info<br />
 www.victorbravo.com</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/02/09/victorbravo/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/02/09/victorbravo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>hell freezes over &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/hell-freezes-over/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/hell-freezes-over/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 17 Jun 2006 22:41:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Radios Appear on Wilshire Boulevard</title>
-		<link>https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/</link>
-					<comments>https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/#respond</comments>
+		<link>/2006/06/17/radios-appear-on-wilshire-boulevard/</link>
+					<comments>/2006/06/17/radios-appear-on-wilshire-boulevard/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sat, 17 Jun 2006 22:41:43 +0000</pubDate>
@@ -33,11 +33,11 @@
 		<category><![CDATA[wiltern theater]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Tickets are on sale now for the debut U.S. date for Radio Birdman, August 30. I never dared expect that my favorite band, and subject of the first music feature I ever wrote, would be kicking off their American tour at the art deco Wiltern in my home town of L.A., but it&#8217;s true. Tix &#8230; <a href="https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/" class="more-link">Continue reading<span class="screen-reader-text"> "Radios Appear on Wilshire Boulevard"</span></a>]]></description>
+					<description><![CDATA[Tickets are on sale now for the debut U.S. date for Radio Birdman, August 30. I never dared expect that my favorite band, and subject of the first music feature I ever wrote, would be kicking off their American tour at the art deco Wiltern in my home town of L.A., but it&#8217;s true. Tix &#8230; <a href="/2006/06/17/radios-appear-on-wilshire-boulevard/" class="more-link">Continue reading<span class="screen-reader-text"> "Radios Appear on Wilshire Boulevard"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Tickets are <a href="https://www.ticketmaster.com/event/09003CCF9ED839C3?artistid=1041796&#038;majorcatid=10001&#038;minorcatid=1" target="_blank">on sale now</a> for the debut U.S. date for <a href="https://www.radio-birdman.com/news.html" target="_blank">Radio Birdman</a>, August 30. I never dared expect that my favorite band, and subject of the first music feature I ever wrote, would be kicking off their American tour at the art deco Wiltern in my home town of L.A., but it&#8217;s true. Tix are $25, and the BellRays open. See you there?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/06/17/radios-appear-on-wilshire-boulevard/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/17/radios-appear-on-wilshire-boulevard/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

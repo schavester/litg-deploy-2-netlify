@@ -9,8 +9,8 @@
 
 <channel>
 	<title>steely dan &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/steely-dan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/steely-dan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 24 Jul 2006 23:46:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Steely Dan are miffed</title>
-		<link>https://www.lostinthegrooves.com/2006/07/24/steely-dan-are-miffed/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/24/steely-dan-are-miffed/#respond</comments>
+		<link>/2006/07/24/steely-dan-are-miffed/</link>
+					<comments>/2006/07/24/steely-dan-are-miffed/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 24 Jul 2006 23:46:48 +0000</pubDate>
@@ -39,7 +39,7 @@
 										<content:encoded><![CDATA[<p>Donald Fagen and Walter Becker <a href="https://steelydan.com/heyluke.html" target="_blank">ask</a> Luke Wilson the somewhat loaded question: &quot;do you want to go down as the brother of the Zal Yanovsky of the 21st Century?&quot;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/24/steely-dan-are-miffed/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/24/steely-dan-are-miffed/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>e.c. segar &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/e-c-segar/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/e-c-segar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 20 May 2006 00:36:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Popeye Volume one</title>
-		<link>https://www.lostinthegrooves.com/2006/05/20/popeye-volume-one/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/20/popeye-volume-one/#respond</comments>
+		<link>/2006/05/20/popeye-volume-one/</link>
+					<comments>/2006/05/20/popeye-volume-one/#respond</comments>
 		
 		<dc:creator><![CDATA[Robert Dayton]]></dc:creator>
 		<pubDate>Sat, 20 May 2006 00:36:00 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Robert Dayton: Going Great!]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[This made my week! Fantagraphics is again reprinting the Popeye strips, last ones have been out of print for so long, and what with new technological scanning techniques these ones will look even nicer! First volume coming out in September, gonna be six hard cover volumes total (pray for soft cover) B &#038; W dailies &#8230; <a href="https://www.lostinthegrooves.com/2006/05/20/popeye-volume-one/" class="more-link">Continue reading<span class="screen-reader-text"> "Popeye Volume one"</span></a>]]></description>
+					<description><![CDATA[This made my week! Fantagraphics is again reprinting the Popeye strips, last ones have been out of print for so long, and what with new technological scanning techniques these ones will look even nicer! First volume coming out in September, gonna be six hard cover volumes total (pray for soft cover) B &#038; W dailies &#8230; <a href="/2006/05/20/popeye-volume-one/" class="more-link">Continue reading<span class="screen-reader-text"> "Popeye Volume one"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>This made my week! Fantagraphics is again reprinting the Popeye strips, last ones have been out of print for so long, and what with new technological scanning techniques  these ones will look even nicer! First volume coming out in September, gonna be six hard cover volumes total (pray for soft cover) B &#038; W dailies and colour Sundays.</p>
 <p>https://www.tcj.com/messboard/ubb/Forum1/HTML/011553.html</p>
 <p>THIS IS THE GREATEST NEWSPAPER STRIP EVER!</p>
@@ -40,7 +40,7 @@
 These volumes will be starting with Popeyes&#8217; first appearance in Thimble Theatre (that was the actual name of the strip which began years before Popeye even appeared) in 1930 and culminating  with the last of the great E.C Segar&#8217;s strips before his death in 1938. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/20/popeye-volume-one/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/20/popeye-volume-one/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

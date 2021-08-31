@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Brill Building &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/brill-building/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/brill-building/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 31 May 2006 16:09:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>I&#8217;d Love A Mink Willy</title>
-		<link>https://www.lostinthegrooves.com/2006/05/31/id-love-a-mink-willy/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/31/id-love-a-mink-willy/#respond</comments>
+		<link>/2006/05/31/id-love-a-mink-willy/</link>
+					<comments>/2006/05/31/id-love-a-mink-willy/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Wed, 31 May 2006 16:09:03 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Willy DeVille]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Yes, yes, I know. I need to get back to doing these more often. Not a ton of time today, but I implore you to check out one of my favorite albums of all time: Le Chat Bleu by the band Mink DeVille. Led by Willy DeVille, the band is long defunct (although DeVille himself &#8230; <a href="https://www.lostinthegrooves.com/2006/05/31/id-love-a-mink-willy/" class="more-link">Continue reading<span class="screen-reader-text"> "I&#8217;d Love A Mink Willy"</span></a>]]></description>
+					<description><![CDATA[Yes, yes, I know. I need to get back to doing these more often. Not a ton of time today, but I implore you to check out one of my favorite albums of all time: Le Chat Bleu by the band Mink DeVille. Led by Willy DeVille, the band is long defunct (although DeVille himself &#8230; <a href="/2006/05/31/id-love-a-mink-willy/" class="more-link">Continue reading<span class="screen-reader-text"> "I&#8217;d Love A Mink Willy"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>     Yes, yes, I know. I need to get back to doing these more often. Not a ton of time today, but I implore you to check out one of my favorite albums of all time: Le Chat Bleu by the band Mink DeVille.<br />
      Led by Willy DeVille, the band is long defunct (although DeVille himself still records on a regular basis out of his adopted hometown of New Orleans) but was once a part of the same New York City CBGB punk scene that spawned Blondie, Ramones and Talking Heads.<br />
      DeVille&#8217;s  musical vision was slightly different than his brethren, though. Along with the vital street punkiness, DeVille added to his energetic rock a reverence for the classic pop of the Drifters and doo-wop in general, though the doo-wop part was more of a feeling than something he expressed musically. During its&#8217; lifespan, his band recorded several albums of smart songs with lots of passion and plenty of guts. As albums, they were pretty good, though nothing really life-changing.<br />
@@ -45,7 +45,7 @@
 <p>     The Music Nerd knows&#8230;&#8230;. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/31/id-love-a-mink-willy/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/31/id-love-a-mink-willy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

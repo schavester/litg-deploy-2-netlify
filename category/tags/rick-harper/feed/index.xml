@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rick Harper &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/rick-harper/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/rick-harper/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 23 Oct 2006 05:16:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Thenceforward</title>
-		<link>https://www.lostinthegrooves.com/2006/10/23/thenceforward/</link>
-					<comments>https://www.lostinthegrooves.com/2006/10/23/thenceforward/#respond</comments>
+		<link>/2006/10/23/thenceforward/</link>
+					<comments>/2006/10/23/thenceforward/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 23 Oct 2006 05:16:59 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Tom Staley]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160;&#160; Those sorrowfully not as fully aware as they certainly should be now of those two most undersung American musical heroes known still as Rick Harper and Tom Staley at last have one fabulous chance to meet them both, right there squarely together again for the next time, on this single great CD from our &#8230; <a href="https://www.lostinthegrooves.com/2006/10/23/thenceforward/" class="more-link">Continue reading<span class="screen-reader-text"> "Thenceforward"</span></a>]]></description>
+					<description><![CDATA[&#160;&#160; Those sorrowfully not as fully aware as they certainly should be now of those two most undersung American musical heroes known still as Rick Harper and Tom Staley at last have one fabulous chance to meet them both, right there squarely together again for the next time, on this single great CD from our &#8230; <a href="/2006/10/23/thenceforward/" class="more-link">Continue reading<span class="screen-reader-text"> "Thenceforward"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" width="200" height="190" border="0" src="https://www.tomstaleytoday.com/images/thence301.jpg" />&nbsp;&nbsp; Those sorrowfully not as fully aware as they certainly should be now of those two most undersung American musical heroes known still as <a target="_self" href="https://www.rickenharper.com/"><strong>Rick Harper</strong></a> and <a target="_self" href="https://www.tomstaleytoday.com/"><strong>Tom Staley</strong></a> at last have one fabulous chance to meet them both, right there squarely together again for the next time, on <a target="_self" href="https://www.thenceforward.org/"><strong>this single great CD</strong></a> from our friends over at HiVariety Recordings. </p>
 <p>Namely,</p>
 <p>&nbsp;1.&nbsp; INSIDE OUT&#8230;..NRBQ head headstrong crosstown atop the (Guess Who?) &ldquo;Bus Rider.&rdquo; </p>
@@ -51,7 +51,7 @@
 <p>13.&nbsp; CALLING YOUR NAME&#8230;..while your song gently fades&hellip;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/10/23/thenceforward/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/23/thenceforward/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mike Appelstein &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/lost-in-the-grooves-2/blogs-k-z/mike-appelstein/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/lost-in-the-grooves-2/blogs-k-z/mike-appelstein/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Mar 2006 05:33:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Mike Appelstein</title>
-		<link>https://www.lostinthegrooves.com/2006/03/17/appelsteinabout/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/17/appelsteinabout/#respond</comments>
+		<link>/2006/03/17/appelsteinabout/</link>
+					<comments>/2006/03/17/appelsteinabout/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 17 Mar 2006 05:33:39 +0000</pubDate>
@@ -35,7 +35,7 @@
 <p><a href="https://frumwithprivileges.blogspot.com/">Check out my blog about Judaism</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/17/appelsteinabout/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/17/appelsteinabout/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

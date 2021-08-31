@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Hollies &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/the-hollies/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/the-hollies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 01 Feb 2009 23:49:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Gary&#8217;s Buddy</title>
-		<link>https://www.lostinthegrooves.com/2009/02/01/gary64/</link>
-					<comments>https://www.lostinthegrooves.com/2009/02/01/gary64/#respond</comments>
+		<link>/2009/02/01/gary64/</link>
+					<comments>/2009/02/01/gary64/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 01 Feb 2009 23:49:09 +0000</pubDate>
@@ -38,7 +38,7 @@
 		<category><![CDATA[The Rolling Stones]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[TEN REASONS WHYBUDDY HOLLYSTILL MATTERS 1. THE CHIRPING CRICKETS Buddy Holly, alongside rhythm guitarist Niki Sullivan, bassist Joe B. Mauldin, and drummist-extraordinaire Jerry Allison, formed the immaculately suited, fully self-contained singing/songwriting template upon which some of the greatest pop-rock bands since, from those Beatles most obviously on down, were inextricably linked at the hip. 2. &#8230; <a href="https://www.lostinthegrooves.com/2009/02/01/gary64/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary&#8217;s Buddy"</span></a>]]></description>
+					<description><![CDATA[TEN REASONS WHYBUDDY HOLLYSTILL MATTERS 1. THE CHIRPING CRICKETS Buddy Holly, alongside rhythm guitarist Niki Sullivan, bassist Joe B. Mauldin, and drummist-extraordinaire Jerry Allison, formed the immaculately suited, fully self-contained singing/songwriting template upon which some of the greatest pop-rock bands since, from those Beatles most obviously on down, were inextricably linked at the hip. 2. &#8230; <a href="/2009/02/01/gary64/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary&#8217;s Buddy"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.buddyhollylives.info/mediac/450_0/media/45_US_26S_2.jpg" alt="" width="360" height="360" /></p>
 <p>TEN REASONS WHY<br /><strong>BUDDY HOLLY</strong><br />STILL MATTERS</p>
 <p> 1. THE CHIRPING CRICKETS<br />       Buddy Holly, alongside rhythm guitarist Niki Sullivan, bassist Joe B. Mauldin, and drummist-extraordinaire Jerry Allison, formed the immaculately suited, fully self-contained singing/songwriting <a href="https://www.rockabillyhall.com/buddycrickets1001.jpg"><strong>template</strong></a> upon which some of the greatest pop-rock bands since, from those Beatles most obviously on down, were inextricably linked at the hip.</p>
@@ -53,7 +53,7 @@
 <p>10. STANDING IN THE DOORWAY<br />       &quot;And I just want to say that when I was sixteen or seventeen years old, I went to see Buddy Holly play at Duluth National Guard Armory and I was three feet away from him. And he <em>looked</em> at me. And I just have some sort of feeling that he was &#8212; I don&#39;t know how or why &#8212; but I know he was with us all the time we were making this record in some kind of way.&quot;<br />      Ã¢â‚¬â€ <a href="https://www.bobdylanroots.com/holly.html"><strong>Bob Dylan</strong></a>, 1998 Grammy Awards acceptance speech for Album of the Year <em>Time Out Of Mind</em>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2009/02/01/gary64/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/02/01/gary64/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

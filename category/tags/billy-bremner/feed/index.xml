@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Billy Bremner &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/billy-bremner/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/billy-bremner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 08 Aug 2006 06:54:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Billy, You Is A Hero</title>
-		<link>https://www.lostinthegrooves.com/2006/08/08/billy-you-is-a-hero/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/08/billy-you-is-a-hero/#respond</comments>
+		<link>/2006/08/08/billy-you-is-a-hero/</link>
+					<comments>/2006/08/08/billy-you-is-a-hero/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 08 Aug 2006 06:54:32 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Terry Williams]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[In an earlier edition of this blog I had told you that one of my favorite bands ever was Rockpile. You know, the pub rock band and original supergroup from the late &#8217;70&#8217;s containing Dave Edmunds, Nick Lowe, Billy Bremner and Terry Williams. I also told you that eventually I would get around to going &#8230; <a href="https://www.lostinthegrooves.com/2006/08/08/billy-you-is-a-hero/" class="more-link">Continue reading<span class="screen-reader-text"> "Billy, You Is A Hero"</span></a>]]></description>
+					<description><![CDATA[In an earlier edition of this blog I had told you that one of my favorite bands ever was Rockpile. You know, the pub rock band and original supergroup from the late &#8217;70&#8217;s containing Dave Edmunds, Nick Lowe, Billy Bremner and Terry Williams. I also told you that eventually I would get around to going &#8230; <a href="/2006/08/08/billy-you-is-a-hero/" class="more-link">Continue reading<span class="screen-reader-text"> "Billy, You Is A Hero"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>     In an earlier edition of this blog I had told you that one of my favorite bands ever was Rockpile. You know, the pub rock band and original supergroup from the late &#8217;70&#8217;s containing Dave Edmunds, Nick Lowe, Billy Bremner and Terry Williams. I also told you that eventually I would get around to going more indepth and profiling every band member. </p>
 <p>      Well, here&#8217;s the first installment in this loose series of Rockpile rememberances. In this blog, I am going to talk about guitarist, vocalist and songwriter Billy Bremner. Why Bremner first? Well, he&#8217;s got a new CD out right now on the Gadfly label entitled No If&#8217;s, Buts, Maybes and it&#8217;s a killer!</p>
 <p>      Now, Rockpile had a gimmick of switching between two leaders, Nick Lowe and Dave Edmunds. Besides backing each of these two artists on their solo records, the band would function as the backup band to whoever had a solo album out at the time. If Lowe had an album fresh out, he would lead the band and give Edmunds and Bremner short showcases and if Edmunds had one out, the situation would reverse and Lowe would get a short set.<br />
@@ -49,7 +49,7 @@
 <p>      The Music Nerd knows&#8230;&#8230; </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/08/billy-you-is-a-hero/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/08/billy-you-is-a-hero/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gary Pig Gold &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/gary-pig-gold-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/gary-pig-gold-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Mar 2006 07:23:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>ANOTHER Fein Mess</title>
-		<link>https://www.lostinthegrooves.com/2006/03/24/another-fein-mess/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/24/another-fein-mess/#respond</comments>
+		<link>/2006/03/24/another-fein-mess/</link>
+					<comments>/2006/03/24/another-fein-mess/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Fri, 24 Mar 2006 07:23:05 +0000</pubDate>
@@ -35,15 +35,15 @@
 <p>yes,&nbsp; It&rsquo;s <em>nice</em> to remember your First Time<br />(usually&hellip;..) </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/24/another-fein-mess/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/24/another-fein-mess/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>&#8220;Heeeeeere&#8217;s GARY!!&#8221;</title>
-		<link>https://www.lostinthegrooves.com/2006/03/15/heeeeeeres-gary/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/15/heeeeeeres-gary/#respond</comments>
+		<link>/2006/03/15/heeeeeeres-gary/</link>
+					<comments>/2006/03/15/heeeeeeres-gary/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Wed, 15 Mar 2006 22:57:38 +0000</pubDate>
@@ -55,7 +55,7 @@
 <p><a target="_self" href="https://www.rocksbackpages.com/writer.html?WriterID=gold_gp"><strong>My Back Pages&nbsp;</strong></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/15/heeeeeeres-gary/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/15/heeeeeeres-gary/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

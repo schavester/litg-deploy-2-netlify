@@ -9,8 +9,8 @@
 
 <channel>
 	<title>geek &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/geek/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/geek/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Mar 2006 06:54:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>&#8220;inspired&#8221; (Fufkin)</title>
-		<link>https://www.lostinthegrooves.com/2006/03/09/inspired-eye-weekly/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/09/inspired-eye-weekly/#respond</comments>
+		<link>/2006/03/09/inspired-eye-weekly/</link>
+					<comments>/2006/03/09/inspired-eye-weekly/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2006 06:54:48 +0000</pubDate>
@@ -38,13 +38,13 @@
 		<category><![CDATA[tom neely]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Geek Factor: Obscure Great Recordings: How many of you are unmitigated music geeks? A person for whom each obscure album that gets a glimmer of praise becomes a new holy grail, becomes an excuse (not that you need one, really) to go to every second hand shop within a 150 mile radius or endlessly surf &#8230; <a href="https://www.lostinthegrooves.com/2006/03/09/inspired-eye-weekly/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;inspired&#8221; (Fufkin)"</span></a>]]></description>
+					<description><![CDATA[Geek Factor: Obscure Great Recordings: How many of you are unmitigated music geeks? A person for whom each obscure album that gets a glimmer of praise becomes a new holy grail, becomes an excuse (not that you need one, really) to go to every second hand shop within a 150 mile radius or endlessly surf &#8230; <a href="/2006/03/09/inspired-eye-weekly/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;inspired&#8221; (Fufkin)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Geek Factor: Obscure Great Recordings: How many of you are unmitigated music geeks? A person for whom each obscure album that gets a glimmer of praise becomes a new holy grail, becomes an excuse (not that you need one, really) to go to every second hand shop within a 150 mile radius or endlessly surf the net, because you MUST have this slab of bliss? More importantly, you don&#8217;t just hoard your latest find. You then make the rounds stopping by friends&#8217; flats or calling them to spread the news (and perhaps play the thang), and hopping on to e-mail lists and bulletin boards, to share this wonderful, new-to-you music that has made your life just a bit better.</p>
 <p>If this description is in any way accurate, then let me recommend a book to you. Lost In The Grooves will keep you busy for a while. Let me also recommend buying some small Post-Its or some highlighter markers, because it&#8217;s possible you might destroy the book if you just dog ear the pages every time your interest is piqued.</p>
 <p>This tome is the latest inspired creation from Kim Cooper and David Smay, the folks behind Scram magazine and the editors of the excellent book Bubblegum Music Is The Naked Truth. The premise of this book is quite simple </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/inspired-eye-weekly/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/09/inspired-eye-weekly/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

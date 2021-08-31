@@ -9,8 +9,8 @@
 
 <channel>
 	<title>nico &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/nico/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/nico/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Jul 2006 08:32:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Josephine Foster &#8211; &#8220;A Wolf In Sheep</title>
-		<link>https://www.lostinthegrooves.com/2006/07/26/josephine-foster-a-wolf-in-sheep-s-clothing-cd-locust/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/26/josephine-foster-a-wolf-in-sheep-s-clothing-cd-locust/#respond</comments>
+		<link>/2006/07/26/josephine-foster-a-wolf-in-sheep-s-clothing-cd-locust/</link>
+					<comments>/2006/07/26/josephine-foster-a-wolf-in-sheep-s-clothing-cd-locust/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2006 08:32:53 +0000</pubDate>
@@ -40,7 +40,7 @@
 <p>The latest release from the freak-folkstress is an eerie Germanic art song cycle (Brahms, Schubert), with Foster</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/26/josephine-foster-a-wolf-in-sheep-s-clothing-cd-locust/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/26/josephine-foster-a-wolf-in-sheep-s-clothing-cd-locust/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

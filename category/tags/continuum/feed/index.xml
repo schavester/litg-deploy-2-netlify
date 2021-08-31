@@ -9,8 +9,8 @@
 
 <channel>
 	<title>continuum &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/continuum/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/continuum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 23 Aug 2006 22:21:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Aeroplane book hits #5 on the sales chart</title>
-		<link>https://www.lostinthegrooves.com/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/#respond</comments>
+		<link>/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/</link>
+					<comments>/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 23 Aug 2006 22:21:02 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[sales]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I read on my editor David Barker&#8217;s 33 1/3 blog this morning that the Neutral Milk Hotel book is the fastest pony in the paddock. One doesn&#8217;t like to brag about book sales, but you gotta understand, all my previous publications have been so proudly under the radar that it&#8217;s just a hoot to see &#8230; <a href="https://www.lostinthegrooves.com/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/" class="more-link">Continue reading<span class="screen-reader-text"> "Aeroplane book hits #5 on the sales chart"</span></a>]]></description>
+					<description><![CDATA[I read on my editor David Barker&#8217;s 33 1/3 blog this morning that the Neutral Milk Hotel book is the fastest pony in the paddock. One doesn&#8217;t like to brag about book sales, but you gotta understand, all my previous publications have been so proudly under the radar that it&#8217;s just a hoot to see &#8230; <a href="/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/" class="more-link">Continue reading<span class="screen-reader-text"> "Aeroplane book hits #5 on the sales chart"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>I read on my editor David Barker&#8217;s 33 1/3 <a href="https://33third.blogspot.com/2006/08/updated-sales-chart.html" target="_blank">blog</a> this morning that the <a href="https://www.amazon.com/exec/obidos/ASIN/082641690X/ref=nosim/bubblegumbook" target="_blank">Neutral Milk Hotel book</a> is the fastest pony in the paddock. One doesn&#8217;t like to brag about book sales, but you gotta understand, all my previous publications have been so proudly under the radar that it&#8217;s just a hoot to see something I&#8217;ve written be so popular. But there are plenty of great books on that list&#8211;collect &#8217;em all!
  </p>
 <p>David says:</p>
@@ -76,7 +76,7 @@
 33. The Stone Roses </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/23/aeroplane-book-hits-5-on-the-sales-chart/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

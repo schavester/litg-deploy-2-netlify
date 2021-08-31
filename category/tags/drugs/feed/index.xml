@@ -9,8 +9,8 @@
 
 <channel>
 	<title>drugs &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/drugs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/drugs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Jul 2006 08:21:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>The Telescopes &#8211; &#8220;Taste&#8221; CD (Rev-ola)</title>
-		<link>https://www.lostinthegrooves.com/2006/07/26/the-telescopes-taste-cd-rev-ola/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/26/the-telescopes-taste-cd-rev-ola/#respond</comments>
+		<link>/2006/07/26/the-telescopes-taste-cd-rev-ola/</link>
+					<comments>/2006/07/26/the-telescopes-taste-cd-rev-ola/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2006 08:21:04 +0000</pubDate>
@@ -40,7 +40,7 @@
 <p>The deceptively lush and jangly intro to this late eighties British reish leads swiftly into shrieking and maniacal druggy chaos, a dense psych-punk sound packed with swirling guitars, shrieking vocals and a mood of ever-ratcheting mechanical anxiety. Includes four bonus live cuts.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/26/the-telescopes-taste-cd-rev-ola/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/26/the-telescopes-taste-cd-rev-ola/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

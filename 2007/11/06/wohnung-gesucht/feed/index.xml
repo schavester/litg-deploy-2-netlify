@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Wohnung Gesucht	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/11/06/wohnung-gesucht/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/11/06/wohnung-gesucht/</link>
+	<atom:link href="/2007/11/06/wohnung-gesucht/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/11/06/wohnung-gesucht/</link>
 	<description></description>
 	<lastBuildDate>Tue, 06 Nov 2007 16:42:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

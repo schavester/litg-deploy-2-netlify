@@ -9,8 +9,8 @@
 
 <channel>
 	<title>A Night At The Opera &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/a-night-at-the-opera/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/a-night-at-the-opera/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 May 2006 00:22:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Vancouver 10 Years Ago/Faux Vancouver/ A Night At The Opera DVD</title>
-		<link>https://www.lostinthegrooves.com/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/#comments</comments>
+		<link>/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/</link>
+					<comments>/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/#comments</comments>
 		
 		<dc:creator><![CDATA[Robert Dayton]]></dc:creator>
 		<pubDate>Mon, 15 May 2006 00:22:09 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Vancouver]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Ai to the yai yai, it&#8217;s my first Blog posting! Will it get me work? Is it supposed to be informal? My foot&#8217;s asleep so that&#8217;s an affirmative sign in regards to my last question. I reside in Vancouver, BC and often get asked to contribute to a free music rag here called The Nerve, &#8230; <a href="https://www.lostinthegrooves.com/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/" class="more-link">Continue reading<span class="screen-reader-text"> "Vancouver 10 Years Ago/Faux Vancouver/ A Night At The Opera DVD"</span></a>]]></description>
+					<description><![CDATA[Ai to the yai yai, it&#8217;s my first Blog posting! Will it get me work? Is it supposed to be informal? My foot&#8217;s asleep so that&#8217;s an affirmative sign in regards to my last question. I reside in Vancouver, BC and often get asked to contribute to a free music rag here called The Nerve, &#8230; <a href="/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/" class="more-link">Continue reading<span class="screen-reader-text"> "Vancouver 10 Years Ago/Faux Vancouver/ A Night At The Opera DVD"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Ai to the yai yai, it&#8217;s my first Blog posting! Will it get me work? Is it supposed to be informal? My foot&#8217;s asleep so that&#8217;s an affirmative  sign in regards to my last question.<br />
 I reside in Vancouver, BC and often get asked to contribute to a free music rag here called The Nerve, especially lately as  they know that I am currently spending my time waiting between employment insurance cheques. The music editor is an exceedingly charming British ex-pat of exceptional taste, which  makes it rather difficult to say &#8220;No&#8221; even when it means &#8220;No.&#8221; What follows are two reviews that I recently wrote for this publication. The first review of the Queen DVD is self-explanatory (except to say that White Rock is an all too  real suburb located just outside Vancouver where Paul Rodgers really does live). The second is a fake review of a non-existent band. In a way this band, Sourkraut Sunset,  does exist as they are a glib pastiche of what is currently &#8220;hot&#8221; in the International Critics&#8217; Corner regarding the Vancouver music scene. Discussion to follow.</p>
 <p>Classic Albums: Queen<br />
@@ -44,7 +44,7 @@ Eagle Rock Entertainment<br />
 I didn</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/15/vancouver-10-years-ago-faux-vancouver-a-night-at-the-opera-dvd/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

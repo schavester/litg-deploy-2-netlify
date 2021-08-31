@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Stax &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/stax/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/stax/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Jun 2006 16:13:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Get The Hinton</title>
-		<link>https://www.lostinthegrooves.com/2006/06/13/get-the-hinton/</link>
-					<comments>https://www.lostinthegrooves.com/2006/06/13/get-the-hinton/#respond</comments>
+		<link>/2006/06/13/get-the-hinton/</link>
+					<comments>/2006/06/13/get-the-hinton/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 13 Jun 2006 16:13:40 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Stax]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I sit here today on a friend&#8217;s computer a sad, broken man after the remnants of a thunderstorm totally fried mine this past Sunday. I have pretty much lost everything I have ever written, that is to say, the originals, how they were before all the evil editors I have worked with in the past &#8230; <a href="https://www.lostinthegrooves.com/2006/06/13/get-the-hinton/" class="more-link">Continue reading<span class="screen-reader-text"> "Get The Hinton"</span></a>]]></description>
+					<description><![CDATA[I sit here today on a friend&#8217;s computer a sad, broken man after the remnants of a thunderstorm totally fried mine this past Sunday. I have pretty much lost everything I have ever written, that is to say, the originals, how they were before all the evil editors I have worked with in the past &#8230; <a href="/2006/06/13/get-the-hinton/" class="more-link">Continue reading<span class="screen-reader-text"> "Get The Hinton"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>     I sit here today on a friend&#8217;s computer a sad, broken man after the remnants of a thunderstorm totally fried mine this past Sunday. I have pretty much lost everything I have ever written, that is to say, the originals, how they were before all the evil editors I have worked with in the past tried to ruin them, destroy my thoughts and ideas. I still have the print copies, expurgated and diluted as they tend to be. It is not enough.</p>
 <p>     It is in times like this when I turn to some pretty deep music to try to erase the evil thoughts in my mind. The ones telling me to kill.</p>
 <p>     Once again I turn to Eddie Hinton.</p>
@@ -46,7 +46,7 @@
 <p>      The Music Nerd Knows&#8230;&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/06/13/get-the-hinton/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/13/get-the-hinton/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

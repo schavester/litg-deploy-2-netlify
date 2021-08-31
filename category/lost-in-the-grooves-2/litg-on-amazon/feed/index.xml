@@ -9,8 +9,8 @@
 
 <channel>
 	<title>LITG on Amazon &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/lost-in-the-grooves-2/litg-on-amazon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/lost-in-the-grooves-2/litg-on-amazon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Mar 2006 06:15:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>CD links</title>
-		<link>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/#comments</comments>
+		<link>/2006/03/09/lost-in-the-grooves-artists-on-amazon/</link>
+					<comments>/2006/03/09/lost-in-the-grooves-artists-on-amazon/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2006 06:15:44 +0000</pubDate>
@@ -43,7 +43,7 @@
 										<content:encoded><![CDATA[<p></a>A number of the albums featured in the book are available on CD. This <a href="https://astore.amazon.com/bubblegumbook/103-8184293-0112651?%5Fencoding=UTF8&#038;node=5">link</a> goes to a handy shopping guide to help you ferret them out.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/lost-in-the-grooves-artists-on-amazon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/09/lost-in-the-grooves-artists-on-amazon/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

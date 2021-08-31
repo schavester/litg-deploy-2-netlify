@@ -9,8 +9,8 @@
 
 <channel>
 	<title>big star &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/big-star/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/big-star/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 17 May 2007 15:18:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Manning Overboard</title>
-		<link>https://www.lostinthegrooves.com/2007/05/17/manning-overboard/</link>
-					<comments>https://www.lostinthegrooves.com/2007/05/17/manning-overboard/#comments</comments>
+		<link>/2007/05/17/manning-overboard/</link>
+					<comments>/2007/05/17/manning-overboard/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Thu, 17 May 2007 15:18:52 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Terry Manning]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Over the past year or so, I&#8217;ve gotten into some real esoteric music. Since my refusal of buying over the Internet means that sometimes I can&#8217;t find anything that strikes me at the local Record Hut, I have begun buying the weirdest thing I can find in the store at any time, just to test &#8230; <a href="https://www.lostinthegrooves.com/2007/05/17/manning-overboard/" class="more-link">Continue reading<span class="screen-reader-text"> "Manning Overboard"</span></a>]]></description>
+					<description><![CDATA[Over the past year or so, I&#8217;ve gotten into some real esoteric music. Since my refusal of buying over the Internet means that sometimes I can&#8217;t find anything that strikes me at the local Record Hut, I have begun buying the weirdest thing I can find in the store at any time, just to test &#8230; <a href="/2007/05/17/manning-overboard/" class="more-link">Continue reading<span class="screen-reader-text"> "Manning Overboard"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>    Over the past year or so, I&#8217;ve gotten into some real esoteric music. Since my refusal of buying over the Internet means that sometimes I can&#8217;t find anything that strikes me at the local Record Hut, I have begun buying the weirdest thing I can find in the store at any time, just to test my musical limits. It has led me to a few great discoveries and a lot of things I&#8217;ll never listen to again, though I do feel enlightened after giving them a try. I recommend trying it sometime just to expand your musical horizons and to explore some different influences.</p>
 <p>    The album below, though I got it from a record company to review, is the sort of thing I would pick up during one of these binges. Made by a well-known engineer and producer, it is nonetheless one of the weirdest rock records you are going to find. I am not sure if I will ever listen to it again, but it blew my mind when I checked it out and it was a very, very interesting listen.</p>
 <p>    Check it out:</p>
@@ -48,15 +48,15 @@ Sunbeam Records</p>
 <p>    The Music Nerd Knows&#8230;&#8230;..free stuff! </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/05/17/manning-overboard/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/17/manning-overboard/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hoehn-ing In On Some Great Pop</title>
-		<link>https://www.lostinthegrooves.com/2007/05/02/hoehn-ing-in-on-some-great-pop/</link>
-					<comments>https://www.lostinthegrooves.com/2007/05/02/hoehn-ing-in-on-some-great-pop/#comments</comments>
+		<link>/2007/05/02/hoehn-ing-in-on-some-great-pop/</link>
+					<comments>/2007/05/02/hoehn-ing-in-on-some-great-pop/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Wed, 02 May 2007 16:04:07 +0000</pubDate>
@@ -69,7 +69,7 @@ Sunbeam Records</p>
 		<category><![CDATA[Van Duren]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I am back yet again to write about the best music ever created, if I do say so myself&#8230;.and I do! I wrote this review about a recent reissue of forgotten Memphis power-popper Tommy Hoehn&#8217;s best album. With a new album by Paul McCartney not too far away thanks to a label owned by the &#8230; <a href="https://www.lostinthegrooves.com/2007/05/02/hoehn-ing-in-on-some-great-pop/" class="more-link">Continue reading<span class="screen-reader-text"> "Hoehn-ing In On Some Great Pop"</span></a>]]></description>
+					<description><![CDATA[I am back yet again to write about the best music ever created, if I do say so myself&#8230;.and I do! I wrote this review about a recent reissue of forgotten Memphis power-popper Tommy Hoehn&#8217;s best album. With a new album by Paul McCartney not too far away thanks to a label owned by the &#8230; <a href="/2007/05/02/hoehn-ing-in-on-some-great-pop/" class="more-link">Continue reading<span class="screen-reader-text"> "Hoehn-ing In On Some Great Pop"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>   I am back yet again to write about the best music ever created, if I do say so myself&#8230;.and I do! I wrote this review about a recent reissue of forgotten Memphis power-popper Tommy Hoehn&#8217;s best album. With a new album by Paul McCartney not too far away thanks to a label owned by the very same people who help get me awake in the morning, I figured it was a perfect time to write about one of Sir Paul&#8217;s best students. So, here t&#8217;is:</p>
 <p>Tommy Hoehn &#8211; Losing You To Sleep<br />
 Air Mail Records</p>
@@ -84,15 +84,15 @@ Air Mail Records</p>
 <p>   So, there you have it. There is a lot more to the story and maybe I&#8217;ll hit you with some additional info in the future (in the meantime, find the two albums Hoehn and Duren have done as a team, Blue Orange being the best of those) but for now, check out as much of the work as you can of the names I&#8217;ve dropped and I am sure they will provide you with many hours of fantastic music.    </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/05/02/hoehn-ing-in-on-some-great-pop/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/02/hoehn-ing-in-on-some-great-pop/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blue Ash</title>
-		<link>https://www.lostinthegrooves.com/2006/10/15/blue-ash-1/</link>
-					<comments>https://www.lostinthegrooves.com/2006/10/15/blue-ash-1/#comments</comments>
+		<link>/2006/10/15/blue-ash-1/</link>
+					<comments>/2006/10/15/blue-ash-1/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sun, 15 Oct 2006 03:53:18 +0000</pubDate>
@@ -107,8 +107,8 @@ Air Mail Records</p>
 		<category><![CDATA[Who]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Blue Ash is a Lost in the Grooves artist. Click to sample the music or purchase tracks from Around Again &#8211; A Collection of Rarities From the Vault 1972-1979. And keep an eye peeled to Frank Secich&#8217;s Blue Ash blog here at LITG for news, photos and insights straight from the band. This reissue (of &#8230; <a href="https://www.lostinthegrooves.com/2006/10/15/blue-ash-1/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash"</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Blue Ash is a Lost in the Grooves artist. <a href="https://www.maryattmusic.com/search_results_cd.php?cd=MMG+292&#038;artist=206" target="_blank">Click</a> to sample the music or purchase tracks from <em>Around Again &#8211; A Collection of Rarities From the Vault 1972-1979</em>. And keep an eye peeled to Frank Secich&#8217;s <a href="https://www.lostinthegrooves.com/?p=979" target="_self">Blue Ash blog</a> here at LITG for news, photos and insights straight from the band. This reissue (of a double CD first put out by the good folks at Not Lame) is just the start, as we&#8217;ll soon be digging deeper into the Blue Ash vaults for songs never before heard by fans.</p>
+					<description><![CDATA[Blue Ash is a Lost in the Grooves artist. Click to sample the music or purchase tracks from Around Again &#8211; A Collection of Rarities From the Vault 1972-1979. And keep an eye peeled to Frank Secich&#8217;s Blue Ash blog here at LITG for news, photos and insights straight from the band. This reissue (of &#8230; <a href="/2006/10/15/blue-ash-1/" class="more-link">Continue reading<span class="screen-reader-text"> "Blue Ash"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Blue Ash is a Lost in the Grooves artist. <a href="https://www.maryattmusic.com/search_results_cd.php?cd=MMG+292&#038;artist=206" target="_blank">Click</a> to sample the music or purchase tracks from <em>Around Again &#8211; A Collection of Rarities From the Vault 1972-1979</em>. And keep an eye peeled to Frank Secich&#8217;s <a href="/?p=979" target="_self">Blue Ash blog</a> here at LITG for news, photos and insights straight from the band. This reissue (of a double CD first put out by the good folks at Not Lame) is just the start, as we&#8217;ll soon be digging deeper into the Blue Ash vaults for songs never before heard by fans.</p>
 <p>Metal Mike Saunders provided this vintage record review for the <em>Lost in the Grooves</em> anthology:</p>
 <blockquote><p>Blue Ash <em>No More, No Less</em> (Mercury, 1973)</p>
 <p>&ldquo;I Remember A Time&rdquo; could do for Blue Ash what &ldquo;Mr. Tambourine Man&rdquo; did for the Byrds: the start of a brilliant career, a Number One hit, instant mythology. The guitar intro lasts all of five seconds before Jimmy Kendzor and Frank Secich&#8217;s voices come in, oozing of everything the Byrds and Lovin&#8217; Spoonful ever promised, the soaring harmonies in the chorus driving over jangling lead guitar work. It&#8217;s the sound of tomorrow right here today, it&#8217;s the perfect folk-rock single. It&#8217;s beautiful, that&#8217;s what.</p>
@@ -118,15 +118,15 @@ Air Mail Records</p>
 <p>By the time this album ends, there&#8217;s no doubt about it, Blue Ash have got themselves one hell of a debut LP that may send fellow stateside groups like Stories, the Raspberries, and Big Star running back to the woodshed to come up with music even better than their present stuff. (Mike Saunders)</p></blockquote>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/10/15/blue-ash-1/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/15/blue-ash-1/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Be Thankful For What You Are Tiven</title>
-		<link>https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/#respond</comments>
+		<link>/2006/07/11/be-thankful-for-what-you-are-tiven/</link>
+					<comments>/2006/07/11/be-thankful-for-what-you-are-tiven/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Tue, 11 Jul 2006 06:55:00 +0000</pubDate>
@@ -139,7 +139,7 @@ Air Mail Records</p>
 		<category><![CDATA[Sally Tiven]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Hope you all had a Happy Fourth of July! I sure did, and the resulting recovery from said celebrations have made me once again kinda slow on the draw here in blog-land and I am once again begging you to bear with me as I catch up. After a few blogs about the genius of &#8230; <a href="https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/" class="more-link">Continue reading<span class="screen-reader-text"> "Be Thankful For What You Are Tiven"</span></a>]]></description>
+					<description><![CDATA[Hope you all had a Happy Fourth of July! I sure did, and the resulting recovery from said celebrations have made me once again kinda slow on the draw here in blog-land and I am once again begging you to bear with me as I catch up. After a few blogs about the genius of &#8230; <a href="/2006/07/11/be-thankful-for-what-you-are-tiven/" class="more-link">Continue reading<span class="screen-reader-text"> "Be Thankful For What You Are Tiven"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
      Hope you all had a Happy Fourth of July! I sure did, and the resulting recovery from said celebrations have made me once again kinda slow on the draw here in blog-land and I am once again begging you to bear with me as I catch up.</p>
 <p>     After a few blogs about the genius of soul that is Don Covay, I promised I would hip you to a series of tribute CDs to soul heroes which came out in the early-to-mid-&#8217;90&#8217;s on the Razor and Tie label and Shanachie Records.</p>
@@ -151,15 +151,15 @@ Air Mail Records</p>
 <p>     The Music Nerd knows&#8230;..</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/11/be-thankful-for-what-you-are-tiven/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/11/be-thankful-for-what-you-are-tiven/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>&#8220;recalls Creem Magazine at its most prickly&#8221; (Eye Weekly)</title>
-		<link>https://www.lostinthegrooves.com/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/#comments</comments>
+		<link>/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/</link>
+					<comments>/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2006 06:57:17 +0000</pubDate>
@@ -175,11 +175,11 @@ Air Mail Records</p>
 		<category><![CDATA[the tubes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#34;To point out that the staff at your local indie record store are about as tightly wound and implacable as the Taliban has already become a clich&#233;. In contrast to that stalwart stance, Scram Magazine has become known for a distinct lack of smugness while digging through the dollar bins of history. Most pop-storians are &#8230; <a href="https://www.lostinthegrooves.com/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;recalls Creem Magazine at its most prickly&#8221; (Eye Weekly)"</span></a>]]></description>
+					<description><![CDATA[&#34;To point out that the staff at your local indie record store are about as tightly wound and implacable as the Taliban has already become a clich&#233;. In contrast to that stalwart stance, Scram Magazine has become known for a distinct lack of smugness while digging through the dollar bins of history. Most pop-storians are &#8230; <a href="/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/" class="more-link">Continue reading<span class="screen-reader-text"> "&#8220;recalls Creem Magazine at its most prickly&#8221; (Eye Weekly)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>&quot;To point out that the staff at your local indie record store are about as tightly wound and implacable as the Taliban has already become a clich&eacute;. In contrast to that stalwart stance, Scram Magazine has become known for a distinct lack of smugness while digging through the dollar bins of history. Most pop-storians are obsessed with the failed, marginal and forgotten. Scram understands that the successful, populist and forgotten can be just as mysterious, and in this collection of reviews and essays, you&#8217;ll never be scorned by a pale, weedy boy for liking Terence Trent D&#8217;arby. In fact, its writers (including star nerds Jim O&#8217;Rourke and Rick Moody) will encourage you on in your bold and (un)original taste. If hipsterism is a temple built on Big Star and Stooges box sets, then Lost in the Grooves aims to tear down the walls with the clarion call of Kylie Minogue. Pop, after all, is about being popular, and if you want to understand popular culture, why waste time with Captain Beefheart when you can reassess Poco? Yes, the forgotten sons of California rock get multiple mentions here. But calling for a Poco revival isn&#8217;t the boldest thing in this book by far. Moody will have you reconsidering The Tubes, and Kris Kendall rights the wrongs dealt to the Dream Warriors by both industry and history. Unlike some music writing, these reviews are carefully written &#8212; as opposed to sounding like rewritten press releases &#8212; and recall Creem Magazine at its most prickly and acid. Should the comparison not be apparent to the reader, excerpts from Creem are reprinted, wink-and-nod-like, throughout its pages. Walk away right now and go back to your mid-period Sonic Youth records if you think this is irony. Lost in the Grooves is as sincere as disco and just as satisfying, providing a final home for music &#8212; from The Auteurs to Aaron Carter &#8212; that only wanted to be loved. Maybe that&#8217;s the pop difference; music that isn&#8217;t too cool to say &quot;I love you.&quot; Do you have the balls to say it back? (Brian Joseph Davis, Eye Weekly, 12/02/04) </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/09/recalls-creem-magazine-at-its-most-prickly-eye-weekly/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

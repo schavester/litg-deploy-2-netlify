@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Johnny Guitar Watson &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/johnny-guitar-watson/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/johnny-guitar-watson/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 29 Nov 2006 07:14:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Lewis Taylor, Soldier, Spy</title>
-		<link>https://www.lostinthegrooves.com/2006/11/29/lewis-taylor-soldier-spy/</link>
-					<comments>https://www.lostinthegrooves.com/2006/11/29/lewis-taylor-soldier-spy/#respond</comments>
+		<link>/2006/11/29/lewis-taylor-soldier-spy/</link>
+					<comments>/2006/11/29/lewis-taylor-soldier-spy/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Wed, 29 Nov 2006 07:14:05 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Prince]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[So, just this past Sunday after Thanksgiving, I was running around Charlotte killing time, running errands and checking out the local CD shops along the way and I decided to check out a little shop I usually don&#8217;t go into too often. Truth is, I don&#8217;t go into this shop too often because they don&#8217;t &#8230; <a href="https://www.lostinthegrooves.com/2006/11/29/lewis-taylor-soldier-spy/" class="more-link">Continue reading<span class="screen-reader-text"> "Lewis Taylor, Soldier, Spy"</span></a>]]></description>
+					<description><![CDATA[So, just this past Sunday after Thanksgiving, I was running around Charlotte killing time, running errands and checking out the local CD shops along the way and I decided to check out a little shop I usually don&#8217;t go into too often. Truth is, I don&#8217;t go into this shop too often because they don&#8217;t &#8230; <a href="/2006/11/29/lewis-taylor-soldier-spy/" class="more-link">Continue reading<span class="screen-reader-text"> "Lewis Taylor, Soldier, Spy"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>
      So, just this past Sunday after Thanksgiving, I was running around Charlotte killing time, running errands and checking out the local CD shops along the way and I decided to check out a little shop I usually don&#8217;t go into too often.</p>
 <p>     Truth is, I don&#8217;t go into this shop too often because they don&#8217;t really get anything cool too often. It is the weakest location of a local 3 store chain and I go to the other two stores in the chain much more because the locations are better and the results are usually better; in other words, at the other stores I can find stuff I actually want.</p>
@@ -54,15 +54,15 @@
 <p>     The Music Nerd knows&#8230;..that Lewis Taylor should be more fucking famous than Justin Timberbitch&#8230;.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/11/29/lewis-taylor-soldier-spy/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/29/lewis-taylor-soldier-spy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Thanks, Watson!</title>
-		<link>https://www.lostinthegrooves.com/2006/10/12/thanks-watson/</link>
-					<comments>https://www.lostinthegrooves.com/2006/10/12/thanks-watson/#respond</comments>
+		<link>/2006/10/12/thanks-watson/</link>
+					<comments>/2006/10/12/thanks-watson/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Thu, 12 Oct 2006 14:06:48 +0000</pubDate>
@@ -72,7 +72,7 @@
 		<category><![CDATA[Music Nerd]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I saw the recent blog about Johnny Guitar Watson and wanted to add my two cents about this brilliant guitarist by reviewing a different compilation from a year ago. Regardless of when you discover &#8220;Guitar&#8221; &#8211; it will always be a scintillating funktastic experience. Johnny Guitar Watson &#8211; The Funk Anthology Shout Factory Right off &#8230; <a href="https://www.lostinthegrooves.com/2006/10/12/thanks-watson/" class="more-link">Continue reading<span class="screen-reader-text"> "Thanks, Watson!"</span></a>]]></description>
+					<description><![CDATA[I saw the recent blog about Johnny Guitar Watson and wanted to add my two cents about this brilliant guitarist by reviewing a different compilation from a year ago. Regardless of when you discover &#8220;Guitar&#8221; &#8211; it will always be a scintillating funktastic experience. Johnny Guitar Watson &#8211; The Funk Anthology Shout Factory Right off &#8230; <a href="/2006/10/12/thanks-watson/" class="more-link">Continue reading<span class="screen-reader-text"> "Thanks, Watson!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>I saw the recent blog about Johnny Guitar Watson and wanted to add my two cents about this brilliant guitarist by reviewing a different compilation from a year ago. Regardless of when you discover &#8220;Guitar&#8221; &#8211; it will always be a scintillating funktastic experience.</p>
 <p>Johnny Guitar Watson &#8211; The Funk Anthology<br />
 Shout Factory<br />
@@ -85,7 +85,7 @@ Shout Factory<br />
 <p>   The Music Nerd knows&#8230;..about Da Fonk! </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/10/12/thanks-watson/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/12/thanks-watson/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

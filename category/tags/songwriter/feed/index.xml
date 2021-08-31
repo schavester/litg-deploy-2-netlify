@@ -9,8 +9,8 @@
 
 <channel>
 	<title>songwriter &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/songwriter/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/songwriter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 09 May 2006 09:59:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Sub-publishing for bands and labels</title>
-		<link>https://www.lostinthegrooves.com/2006/05/09/sub-publishing-for-bands-and-labels/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/09/sub-publishing-for-bands-and-labels/#respond</comments>
+		<link>/2006/05/09/sub-publishing-for-bands-and-labels/</link>
+					<comments>/2006/05/09/sub-publishing-for-bands-and-labels/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 09 May 2006 09:59:55 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[sub-publishing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Lost in the Grooves now offers full-service sub-publishing Bands/labels &#8211; are you missing out on overseas (or domestic) royalties? If you can answer yes to the following questions, we may be able to help you. We have skilled sub-publishers in every part of the world who are very experienced in claiming lost monies owed for &#8230; <a href="https://www.lostinthegrooves.com/2006/05/09/sub-publishing-for-bands-and-labels/" class="more-link">Continue reading<span class="screen-reader-text"> "Sub-publishing for bands and labels"</span></a>]]></description>
+					<description><![CDATA[Lost in the Grooves now offers full-service sub-publishing Bands/labels &#8211; are you missing out on overseas (or domestic) royalties? If you can answer yes to the following questions, we may be able to help you. We have skilled sub-publishers in every part of the world who are very experienced in claiming lost monies owed for &#8230; <a href="/2006/05/09/sub-publishing-for-bands-and-labels/" class="more-link">Continue reading<span class="screen-reader-text"> "Sub-publishing for bands and labels"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Lost in the Grooves now offers full-service sub-publishing  </p>
 <p>Bands/labels &#8211; are you missing out on overseas (or domestic) royalties? If you can answer yes to the following questions, we may be able to help you. We have skilled sub-publishers in every part of the world who are very experienced in claiming lost monies owed for live performances (also called Neighboring Rights), record sales and any licensing done outside the US.  </p>
 <p>If these facts are true for you, please drop a line to Kim c/o <a href="https://www.lostinthegrooves.local/feedback">this site</a> to find out what we can do for you and/or your artists </p>
@@ -48,7 +48,7 @@
 <p>If so, we can collect overseas royalties and account semi-annually. We can also collect for the US/Canada on request. The fee is a flat 25% for all foreign collections, 20% in the USA, and your first royalty payments will usually be received within nine months to one year of registration. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/09/sub-publishing-for-bands-and-labels/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/09/sub-publishing-for-bands-and-labels/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

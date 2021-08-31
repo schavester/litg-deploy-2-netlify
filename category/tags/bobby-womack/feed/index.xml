@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bobby Womack &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/bobby-womack/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/bobby-womack/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 26 Jun 2006 16:02:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>A-Covay Part 1</title>
-		<link>https://www.lostinthegrooves.com/2006/06/26/a-covay-part-1/</link>
-					<comments>https://www.lostinthegrooves.com/2006/06/26/a-covay-part-1/#respond</comments>
+		<link>/2006/06/26/a-covay-part-1/</link>
+					<comments>/2006/06/26/a-covay-part-1/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Mon, 26 Jun 2006 16:02:23 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Rolling Stones]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Old school soul has always been one of The Nerd&#8217;s favorite kinds of music. The love began as I started to analyze music as a player. As a burgeoning drummer, I immediately fell in love with drummers who could make a groove swing and make people dance. The pyrotechnics of many rock drummers like Keith &#8230; <a href="https://www.lostinthegrooves.com/2006/06/26/a-covay-part-1/" class="more-link">Continue reading<span class="screen-reader-text"> "A-Covay Part 1"</span></a>]]></description>
+					<description><![CDATA[Old school soul has always been one of The Nerd&#8217;s favorite kinds of music. The love began as I started to analyze music as a player. As a burgeoning drummer, I immediately fell in love with drummers who could make a groove swing and make people dance. The pyrotechnics of many rock drummers like Keith &#8230; <a href="/2006/06/26/a-covay-part-1/" class="more-link">Continue reading<span class="screen-reader-text"> "A-Covay Part 1"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>    Old school soul has always been one of The Nerd&#8217;s favorite kinds of music. The love began as I started to analyze music as a player. As a burgeoning drummer, I immediately fell in love with drummers who could make a groove swing and make people dance. The pyrotechnics of many rock drummers like Keith Moon and John Bonham, although impressive, didn&#8217;t really move me much &#8211; I was more into Al Jackson, Bernard Purdie and whoever played on the soul records I heard as a child. Their grooves were enormous and sucked me into the soul world.</p>
 <p>    I remember one of my favorite songs being Chain of Fools by Aretha Franklin. When I finally got the album it was on many years down the line, I saw in the writer&#8217;s credits it was written by Don Covay. Although I searched pretty hard for info and albums (this was prte-Internet after all) I could never find anything by him in the &#8220;C&#8221; section and just assumed he was a studio songwriter and had never put out any albums on his own.</p>
 <p>    Boy, was I wrong! He has actually put out quite a few discs, all of them decent and some of them great.</p>
@@ -49,7 +49,7 @@
 <p>    The Music Nerd Knows&#8230;.and you will too, starting with the next blog.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/06/26/a-covay-part-1/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/26/a-covay-part-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

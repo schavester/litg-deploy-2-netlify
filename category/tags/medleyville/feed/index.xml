@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Medleyville &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/medleyville/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/medleyville/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 25 Aug 2008 01:57:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Gary in Medleyville</title>
-		<link>https://www.lostinthegrooves.com/2008/08/25/gary61/</link>
-					<comments>https://www.lostinthegrooves.com/2008/08/25/gary61/#respond</comments>
+		<link>/2008/08/25/gary61/</link>
+					<comments>/2008/08/25/gary61/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Mon, 25 Aug 2008 01:57:27 +0000</pubDate>
@@ -36,7 +36,7 @@
 		<category><![CDATA[Simply Saucer]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Whilst continuing to faithfully remain Lost In The Grooveall summer long, your resident Pig has consentedto scribble monthly,right over there atMedleyville Dot USas well. so then,If youÃ¢â‚¬â„¢re ever wondering why Bob was Judas, when Simply Saucer turned Half Human, who That Lucky Old Sun is still shining upon, where you should buy Your First Punk &#8230; <a href="https://www.lostinthegrooves.com/2008/08/25/gary61/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary in Medleyville"</span></a>]]></description>
+					<description><![CDATA[Whilst continuing to faithfully remain Lost In The Grooveall summer long, your resident Pig has consentedto scribble monthly,right over there atMedleyville Dot USas well. so then,If youÃ¢â‚¬â„¢re ever wondering why Bob was Judas, when Simply Saucer turned Half Human, who That Lucky Old Sun is still shining upon, where you should buy Your First Punk &#8230; <a href="/2008/08/25/gary61/" class="more-link">Continue reading<span class="screen-reader-text"> "Gary in Medleyville"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img src="https://vermillionmediagroup.com/tina_dico/medleyville_logo.gif" alt="" /></p>
 <p>Whilst continuing to faithfully remain <br />Lost In The Groove<br />all summer long,</p>
 <p>your resident Pig has consented<br />to scribble monthly,<br />right over there at<br />Medleyville Dot US<br />as well.</p>
@@ -53,7 +53,7 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/08/25/gary61/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/08/25/gary61/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

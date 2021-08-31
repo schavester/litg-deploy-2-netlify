@@ -9,8 +9,8 @@
 
 <channel>
 	<title>susan jacks &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/susan-jacks/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/susan-jacks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 29 Nov 2006 20:44:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Susan Jacks interview at Scram</title>
-		<link>https://www.lostinthegrooves.com/2006/11/29/susan-jacks-interview-at-scram/</link>
-					<comments>https://www.lostinthegrooves.com/2006/11/29/susan-jacks-interview-at-scram/#respond</comments>
+		<link>/2006/11/29/susan-jacks-interview-at-scram/</link>
+					<comments>/2006/11/29/susan-jacks-interview-at-scram/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 29 Nov 2006 20:44:58 +0000</pubDate>
@@ -32,12 +32,12 @@
 		<category><![CDATA[the poppy family]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Brian Greene has conducted a new interview with Susan Jacks, giving insight into her exquisite and eerie recordings as a member of the Poppy Family and as a solo artist, plus some of the challenges she faced as a female artist seeking personal and creative independence after she split with husband Terry Jacks. This is &#8230; <a href="https://www.lostinthegrooves.com/2006/11/29/susan-jacks-interview-at-scram/" class="more-link">Continue reading<span class="screen-reader-text"> "Susan Jacks interview at Scram"</span></a>]]></description>
+					<description><![CDATA[Brian Greene has conducted a new interview with Susan Jacks, giving insight into her exquisite and eerie recordings as a member of the Poppy Family and as a solo artist, plus some of the challenges she faced as a female artist seeking personal and creative independence after she split with husband Terry Jacks. This is &#8230; <a href="/2006/11/29/susan-jacks-interview-at-scram/" class="more-link">Continue reading<span class="screen-reader-text"> "Susan Jacks interview at Scram"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Brian Greene has conducted a new interview with Susan Jacks, giving insight into her exquisite and eerie recordings as a member of the Poppy Family and as a solo artist, plus some of the challenges she faced as a female artist seeking personal and creative independence after she split with husband Terry Jacks.</p>
 <p>This is a Scram online exclusive over at<br /><a href="https://www.scrammagazine.com/susanjacks" target="_blank">https://www.scrammagazine.com/susanjacks</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/11/29/susan-jacks-interview-at-scram/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/29/susan-jacks-interview-at-scram/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

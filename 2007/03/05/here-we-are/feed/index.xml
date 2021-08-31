@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Here we are.	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2007/03/05/here-we-are/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2007/03/05/here-we-are/</link>
+	<atom:link href="/2007/03/05/here-we-are/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/03/05/here-we-are/</link>
 	<description></description>
 	<lastBuildDate>Mon, 05 Mar 2007 07:43:38 +0000</lastBuildDate>
 	<sy:updatePeriod>

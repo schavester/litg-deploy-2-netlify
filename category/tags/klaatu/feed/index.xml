@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Klaatu &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/klaatu/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/klaatu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 18 Aug 2007 05:13:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Sweet Relief</title>
-		<link>https://www.lostinthegrooves.com/2007/08/18/gary52/</link>
-					<comments>https://www.lostinthegrooves.com/2007/08/18/gary52/#comments</comments>
+		<link>/2007/08/18/gary52/</link>
+					<comments>/2007/08/18/gary52/#comments</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sat, 18 Aug 2007 05:13:53 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[The Next Big Thing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I am so very, very pleasedto have been able to joinnot only The Next Big Thing,Ghost Rockets,and Dave Rave Group slash Conspiracy but over seventy (Count Ã¢â‚¬Ëœem!) othermost powerfully poppinÃ¢â‚¬â„¢ combosÃ¢â‚¬Â¦..including KLAATU even all in the aidof a more than good cause: Jam RecordsÃ¢â‚¬â„¢ benefit CDfor the Hurricane Katrina victims. now,Please doyour fairest share as &#8230; <a href="https://www.lostinthegrooves.com/2007/08/18/gary52/" class="more-link">Continue reading<span class="screen-reader-text"> "Sweet Relief"</span></a>]]></description>
+					<description><![CDATA[I am so very, very pleasedto have been able to joinnot only The Next Big Thing,Ghost Rockets,and Dave Rave Group slash Conspiracy but over seventy (Count Ã¢â‚¬Ëœem!) othermost powerfully poppinÃ¢â‚¬â„¢ combosÃ¢â‚¬Â¦..including KLAATU even all in the aidof a more than good cause: Jam RecordsÃ¢â‚¬â„¢ benefit CDfor the Hurricane Katrina victims. now,Please doyour fairest share as &#8230; <a href="/2007/08/18/gary52/" class="more-link">Continue reading<span class="screen-reader-text"> "Sweet Relief"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" src="https://www.garypiggold.com/images/SweetRelief.jpg" alt="" width="230" height="220" /></p>
 <p>I am so very, very pleased<br />to have been able to join<br />not only <a href="https://www.tomlou.com/nextbigthing.html"><strong>The Next Big Thing</strong></a>,<br /><a href="https://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=11:hvftxqukldse"><strong>Ghost Rockets</strong></a>,<br />and <a href="https://www.tomlou.com/rave.html"><strong>Dave Rave Group</strong></a> slash Conspiracy</p>
 <p>but over <em>seventy</em> (Count Ã¢â‚¬Ëœem!) other<br />most powerfully poppinÃ¢â‚¬â„¢ combos<br />Ã¢â‚¬Â¦..including KLAATU even</p>
@@ -45,7 +45,7 @@
 <p>Relief never sounded<br />quite so good. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/08/18/gary52/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/08/18/gary52/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

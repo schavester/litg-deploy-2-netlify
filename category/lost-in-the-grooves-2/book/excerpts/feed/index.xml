@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Excerpts &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/lost-in-the-grooves-2/book/excerpts/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/lost-in-the-grooves-2/book/excerpts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 16 Mar 2006 05:16:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Part one</title>
-		<link>https://www.lostinthegrooves.com/2006/03/16/a-to-e/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/16/a-to-e/#comments</comments>
+		<link>/2006/03/16/a-to-e/</link>
+					<comments>/2006/03/16/a-to-e/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 16 Mar 2006 05:16:12 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[the action]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[These are brief excerpts from some of the essays in the Lost in the Grooves anthology, with links to available reissues. If you dig what you see here, please buy the book! The Action &#8211; Brain aka Rolled Gold (Recorded 1967-68, released Parasol, 2002) The Action swiped songcraft from Curtis Mayfield and Holland/Dozier/Holland and assurance &#8230; <a href="https://www.lostinthegrooves.com/2006/03/16/a-to-e/" class="more-link">Continue reading<span class="screen-reader-text"> "Part one"</span></a>]]></description>
+					<description><![CDATA[These are brief excerpts from some of the essays in the Lost in the Grooves anthology, with links to available reissues. If you dig what you see here, please buy the book! The Action &#8211; Brain aka Rolled Gold (Recorded 1967-68, released Parasol, 2002) The Action swiped songcraft from Curtis Mayfield and Holland/Dozier/Holland and assurance &#8230; <a href="/2006/03/16/a-to-e/" class="more-link">Continue reading<span class="screen-reader-text"> "Part one"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>These are brief excerpts from some of the essays in the Lost in the Grooves anthology, with links to available reissues. If you dig what you see here, please buy the book! </p>
 <p><a href="https://www.amazon.com/exec/obidos/ASIN/B00006AL7G/ref=nosim/bubblegumbook"><img border="0" src="https://images.amazon.com/images/P/B00006AL7G.01.TZZZZZZZ.jpg" alt="Small Image" /></a></p>
 <form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00006AL7G" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="https://rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
@@ -42,7 +42,7 @@
 <p>There</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/16/a-to-e/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/16/a-to-e/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

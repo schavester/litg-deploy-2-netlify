@@ -9,8 +9,8 @@
 
 <channel>
 	<title>the twist &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/the-twist/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/the-twist/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 25 Feb 2009 10:59:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>A Twister of Twist Songs</title>
-		<link>https://www.lostinthegrooves.com/2009/02/25/a-twister-of-twist-songs/</link>
-					<comments>https://www.lostinthegrooves.com/2009/02/25/a-twister-of-twist-songs/#respond</comments>
+		<link>/2009/02/25/a-twister-of-twist-songs/</link>
+					<comments>/2009/02/25/a-twister-of-twist-songs/#respond</comments>
 		
 		<dc:creator><![CDATA[Tony Sclafani]]></dc:creator>
 		<pubDate>Wed, 25 Feb 2009 10:59:35 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Tony Sclafani ]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[In a recent MSNBC commentary, I mentioned that the old danceÃ‚Â known as the twist was so ubiquitous in early 1960s that even soul great Sam Cooke spent time twisting the night away. Although some commenters seemed incredulous about this, that really is a fact: CookeÃ¢â‚¬â„¢s Ã¢â‚¬Å“Twisting the Night AwayÃ¢â‚¬Â hit Number 9 on the Billboard &#8230; <a href="https://www.lostinthegrooves.com/2009/02/25/a-twister-of-twist-songs/" class="more-link">Continue reading<span class="screen-reader-text"> "A Twister of Twist Songs"</span></a>]]></description>
+					<description><![CDATA[In a recent MSNBC commentary, I mentioned that the old danceÃ‚Â known as the twist was so ubiquitous in early 1960s that even soul great Sam Cooke spent time twisting the night away. Although some commenters seemed incredulous about this, that really is a fact: CookeÃ¢â‚¬â„¢s Ã¢â‚¬Å“Twisting the Night AwayÃ¢â‚¬Â hit Number 9 on the Billboard &#8230; <a href="/2009/02/25/a-twister-of-twist-songs/" class="more-link">Continue reading<span class="screen-reader-text"> "A Twister of Twist Songs"</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="content">
 <p style="margin: 0in 0in 0pt" class="MsoNormal"><font face="Times New Roman" size="3">In a recent <a href="https://www.msnbc.msn.com/id/29002527/">MSNBC commentary</a>, I mentioned that the old danceÃ‚Â known as the twist was so ubiquitous in early 1960s that even soul great <strong>Sam Cooke</strong> spent time twisting the night away. Although some commenters seemed incredulous about this, that really is a fact: CookeÃ¢â‚¬â„¢s Ã¢â‚¬Å“Twisting the Night AwayÃ¢â‚¬Â hit Number 9 on the Billboard charts in 1962 (a cover version by Rod Stewart got to Number 59 in 1973).</font></p>
 <p><font face="Times New Roman" size="3">Ã‚Â </font>Ã‚Â </p>
@@ -51,7 +51,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2009/02/25/a-twister-of-twist-songs/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/02/25/a-twister-of-twist-songs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

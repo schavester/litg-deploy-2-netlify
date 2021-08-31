@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Frankie Valli &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/frankie-valli/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/frankie-valli/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 10 May 2007 15:56:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Four Seasons In One Day Or Down In The Valli</title>
-		<link>https://www.lostinthegrooves.com/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/</link>
-					<comments>https://www.lostinthegrooves.com/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/#respond</comments>
+		<link>/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/</link>
+					<comments>/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Thu, 10 May 2007 15:56:13 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Music Nerd]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Back again my friends to the blog that never ends! I am sure that each one of you in blog land has your musical &#8220;guilty pleasures.&#8221; You know, the band or artist that you love that probably would make your friends laugh because they are out of style or or are involved in a particular &#8230; <a href="https://www.lostinthegrooves.com/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/" class="more-link">Continue reading<span class="screen-reader-text"> "Four Seasons In One Day Or Down In The Valli"</span></a>]]></description>
+					<description><![CDATA[Back again my friends to the blog that never ends! I am sure that each one of you in blog land has your musical &#8220;guilty pleasures.&#8221; You know, the band or artist that you love that probably would make your friends laugh because they are out of style or or are involved in a particular &#8230; <a href="/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/" class="more-link">Continue reading<span class="screen-reader-text"> "Four Seasons In One Day Or Down In The Valli"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>   Back again my friends to the blog that never ends! </p>
 <p>   I am sure that each one of you in blog land has your musical &#8220;guilty pleasures.&#8221; You know, the band or artist that you love that probably would make your friends laugh because they are out of style or or are involved in a particular genre of music which is not considered &#8220;cool.&#8221; I will bravely step out on a limb and give you two of mine: The Bee Gees and The Four Seasons. While talents all, they don&#8217;t really come up too often on top ten lists or when people are asked to give their favorite bands of all time. Still, at one time or another, both of these bands were very, very popular and no one can deny their careers or their talent.</p>
 <p>   Today, I am going to talk about some recent reissues of some of the best of the Four Seasons&#8217; albums and we&#8217;ll just forget I mentioned the Bee Gees at all, okay? Thanks&#8230;..</p>
@@ -63,7 +63,7 @@ Collector&#8217;s Choice</p>
 <p>    Along with Dion, Valli&#8217;s voice is one of the few that make me swoon the instant I hear it. The man could sing the phone book and I would be happy. Great stuff all in all, and well worth picking up if you are into 60&#8217;s and 70&#8217;s pop music.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/10/four-seasons-in-one-day-or-down-in-the-valli/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

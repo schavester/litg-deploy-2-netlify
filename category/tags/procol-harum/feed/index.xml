@@ -9,8 +9,8 @@
 
 <channel>
 	<title>procol harum &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/procol-harum/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/procol-harum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Jul 2006 08:09:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>The Fox &#8211; For&#8221; Fox Sake&#8221; CD (RPM)</title>
-		<link>https://www.lostinthegrooves.com/2006/07/26/the-fox-for-fox-sake-cd-rpm/</link>
-					<comments>https://www.lostinthegrooves.com/2006/07/26/the-fox-for-fox-sake-cd-rpm/#respond</comments>
+		<link>/2006/07/26/the-fox-for-fox-sake-cd-rpm/</link>
+					<comments>/2006/07/26/the-fox-for-fox-sake-cd-rpm/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2006 08:09:41 +0000</pubDate>
@@ -39,7 +39,7 @@
 <p>Modish UK psych-pop ala the Small Faces or Procol Harum, with fine acidic guitar and washes of vocal harmony. The songwriting is undistinguished, but the energetic arrangements and maudlin lyrical themes make for a pleasant background listen.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/07/26/the-fox-for-fox-sake-cd-rpm/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/26/the-fox-for-fox-sake-cd-rpm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

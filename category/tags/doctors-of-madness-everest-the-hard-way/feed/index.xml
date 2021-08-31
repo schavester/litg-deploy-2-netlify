@@ -9,8 +9,8 @@
 
 <channel>
 	<title>doctors of madness everest the hard way &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/doctors-of-madness-everest-the-hard-way/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/doctors-of-madness-everest-the-hard-way/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 25 Mar 2006 22:46:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>cult of the week &#8211; Richard Strange and the Engine Room</title>
-		<link>https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/#respond</comments>
+		<link>/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/</link>
+					<comments>/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/#respond</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Sat, 25 Mar 2006 22:46:16 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[doctors of madness everest the hard way]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Richard Strange and the Engine Room title: Going-Gone year: 1987 label: Interphon Records personnel: Richard Strange (vocals), James T. Ford (electronic hardware), numerous guests tracklisting: damascus, the lion&#8217;s den, banco celestial, dominoes, the fall of the house of &#8216;u&#8217;, fear is the engine, wounded, love scare, pride time and inspiration, pioneering surgery further info: &#8230; <a href="https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Richard Strange and the Engine Room"</span></a>]]></description>
+					<description><![CDATA[artist: Richard Strange and the Engine Room title: Going-Gone year: 1987 label: Interphon Records personnel: Richard Strange (vocals), James T. Ford (electronic hardware), numerous guests tracklisting: damascus, the lion&#8217;s den, banco celestial, dominoes, the fall of the house of &#8216;u&#8217;, fear is the engine, wounded, love scare, pride time and inspiration, pioneering surgery further info: &#8230; <a href="/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Richard Strange and the Engine Room"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>artist: Richard Strange and the Engine Room</p>
 <p>title: Going-Gone</p>
 <p>year: 1987</p>
@@ -41,7 +41,7 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/25/cult-of-the-week-richard-strange-and-the-engine-room/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tch Tch Tch &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/tch-tch-tch/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/tch-tch-tch/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 01 May 2006 01:06:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>cult of the week &#8211; Asphixiation</title>
-		<link>https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/#comments</comments>
+		<link>/2006/05/01/cult-of-the-week-asphixiation/</link>
+					<comments>/2006/05/01/cult-of-the-week-asphixiation/#comments</comments>
 		
 		<dc:creator><![CDATA[hisskiss]]></dc:creator>
 		<pubDate>Mon, 01 May 2006 01:06:48 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Tch Tch Tch]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[artist: Asphixiation title: What is this thing called &#8216;Disco&#8217;? year: 1980 label: No label personnel: Jane, Leigh, Maria, Ralph, Philip, David and Chris tracklisting: the beat aesthetic, feelings, asphixiation, blurred movement, hunger-food-nausea, innocent rhythms, aural risk, tradition europe, self denial (is a beautiful thing), african disco queen, + l&#8217;acrostique d&#8217;amour, the crush (bonus twelve inch) &#8230; <a href="https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Asphixiation"</span></a>]]></description>
+					<description><![CDATA[artist: Asphixiation title: What is this thing called &#8216;Disco&#8217;? year: 1980 label: No label personnel: Jane, Leigh, Maria, Ralph, Philip, David and Chris tracklisting: the beat aesthetic, feelings, asphixiation, blurred movement, hunger-food-nausea, innocent rhythms, aural risk, tradition europe, self denial (is a beautiful thing), african disco queen, + l&#8217;acrostique d&#8217;amour, the crush (bonus twelve inch) &#8230; <a href="/2006/05/01/cult-of-the-week-asphixiation/" class="more-link">Continue reading<span class="screen-reader-text"> "cult of the week &#8211; Asphixiation"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>artist: Asphixiation</p>
 <p>title: What is this thing called &#8216;Disco&#8217;?</p>
 <p>year: 1980</p>
@@ -43,7 +43,7 @@
 <p>cotw say</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/01/cult-of-the-week-asphixiation/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/01/cult-of-the-week-asphixiation/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

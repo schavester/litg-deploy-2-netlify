@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Smother &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/smother/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/smother/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Nov 2007 02:30:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Blue Ash Song In Film Trailer For New Liv Tyler Movie</title>
-		<link>https://www.lostinthegrooves.com/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/</link>
-					<comments>https://www.lostinthegrooves.com/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/#comments</comments>
+		<link>/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/</link>
+					<comments>/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/#comments</comments>
 		
 		<dc:creator><![CDATA[Frankiefane]]></dc:creator>
 		<pubDate>Thu, 22 Nov 2007 02:30:12 +0000</pubDate>
@@ -41,7 +41,7 @@ and Diane Keaton.</p>
 https://youtube.com/watch?v=DdxLUW8Wscc</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/11/22/blue-ash-song-in-film-trailer-for-new-liv-tyler-movie/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

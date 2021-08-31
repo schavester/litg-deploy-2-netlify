@@ -9,8 +9,8 @@
 
 <channel>
 	<title>record reviews &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/record-reviews/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/record-reviews/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Mar 2006 11:21:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>About</title>
-		<link>https://www.lostinthegrooves.com/2006/03/09/about-0/</link>
-					<comments>https://www.lostinthegrooves.com/2006/03/09/about-0/#comments</comments>
+		<link>/2006/03/09/about-0/</link>
+					<comments>/2006/03/09/about-0/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2006 11:21:35 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[zine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[LOST IN THE GROOVES: SCRAM&#8217;S CAPRICIOUS GUIDE TO THE MUSIC YOU MISSED a new anthology celebrating the greatest records you&#8217;ve never heard about the contributors Brooke Alberts is an inveterate folk-head who writes for the L.A. based Folkworks, plays whistle in as many Irish traditional sessions as possible, and loves hot whiskey and a great &#8230; <a href="https://www.lostinthegrooves.com/2006/03/09/about-0/" class="more-link">Continue reading<span class="screen-reader-text"> "About"</span></a>]]></description>
+					<description><![CDATA[LOST IN THE GROOVES: SCRAM&#8217;S CAPRICIOUS GUIDE TO THE MUSIC YOU MISSED a new anthology celebrating the greatest records you&#8217;ve never heard about the contributors Brooke Alberts is an inveterate folk-head who writes for the L.A. based Folkworks, plays whistle in as many Irish traditional sessions as possible, and loves hot whiskey and a great &#8230; <a href="/2006/03/09/about-0/" class="more-link">Continue reading<span class="screen-reader-text"> "About"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>LOST IN THE GROOVES: SCRAM&#8217;S CAPRICIOUS GUIDE TO THE MUSIC YOU MISSED<br />
 a new anthology celebrating the greatest records you&#8217;ve never heard</p>
 <p>about the contributors</p>
@@ -52,7 +52,7 @@ a new anthology celebrating the greatest records you&#8217;ve never heard</p>
 <p>Born and raised in East LA, documentary filmmaker Sean Carrillo was a member of the guerilla art group ASCO and co-founded Troy Caf</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/03/09/about-0/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/09/about-0/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

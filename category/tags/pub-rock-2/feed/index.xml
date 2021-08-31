@@ -9,8 +9,8 @@
 
 <channel>
 	<title>pub-rock &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/pub-rock-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/pub-rock-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 May 2006 16:13:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Alive and Welsh</title>
-		<link>https://www.lostinthegrooves.com/2006/05/15/alive-and-welsh/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/15/alive-and-welsh/#comments</comments>
+		<link>/2006/05/15/alive-and-welsh/</link>
+					<comments>/2006/05/15/alive-and-welsh/#comments</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Mon, 15 May 2006 16:13:17 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[Wounded Bird]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[I would be remiss if I didn&#8217;t follow-up my last blog about Nick Lowe with a little something about his partner in crime in the band Rockpile, Dave Edmunds. A Welsh rocker who had once hit the charts with a lightning fast rocking version of Sabre Dance while in the band Love Sculpture, Edmunds had &#8230; <a href="https://www.lostinthegrooves.com/2006/05/15/alive-and-welsh/" class="more-link">Continue reading<span class="screen-reader-text"> "Alive and Welsh"</span></a>]]></description>
+					<description><![CDATA[I would be remiss if I didn&#8217;t follow-up my last blog about Nick Lowe with a little something about his partner in crime in the band Rockpile, Dave Edmunds. A Welsh rocker who had once hit the charts with a lightning fast rocking version of Sabre Dance while in the band Love Sculpture, Edmunds had &#8230; <a href="/2006/05/15/alive-and-welsh/" class="more-link">Continue reading<span class="screen-reader-text"> "Alive and Welsh"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>I would be remiss if I didn&#8217;t follow-up my last blog about Nick Lowe with a little something about his partner in crime in the band Rockpile, Dave Edmunds. </p>
 <p>A Welsh rocker who had once hit the charts with a lightning fast rocking version of Sabre Dance while in the band Love Sculpture, Edmunds had only mustered one more hit (I Hear You Knocking) before becoming somewhat passe in the music field. Becoming a talented producer and one-man band while languishing in obscurity, Edmunds eventually latched on to Lowe&#8217;s early band Brinsley Schwartz and formed an alliance with Lowe while producing a couple of their records.</p>
 <p>After Brisnley broke up, the two became a team with Lowe and Edmunds playing on each other&#8217;s records and even sharing a band, Rockpile. The way Rockpile originally worked, whoever had an album coming out at the time led the band. For example, it would be billed as either Nick Lowe&#8217;s or Dave Edmund&#8217;s Rockpile and whoever was leading sang most of the songs while the other was given a few songs for a showcase. It was quite innovative at the time and became quite popular.</p>
@@ -48,7 +48,7 @@
 <p>The Music Nerd knows&#8230;&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/15/alive-and-welsh/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/15/alive-and-welsh/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

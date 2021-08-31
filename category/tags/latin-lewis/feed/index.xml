@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Latin Lewis &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/latin-lewis/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/latin-lewis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 24 Sep 2006 19:23:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Required Viewing Too !!</title>
-		<link>https://www.lostinthegrooves.com/2006/09/24/required-viewing-too/</link>
-					<comments>https://www.lostinthegrooves.com/2006/09/24/required-viewing-too/#respond</comments>
+		<link>/2006/09/24/required-viewing-too/</link>
+					<comments>/2006/09/24/required-viewing-too/#respond</comments>
 		
 		<dc:creator><![CDATA[garypiggold]]></dc:creator>
 		<pubDate>Sun, 24 Sep 2006 19:23:03 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Mark Johnson]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160; There is nothing wrong with your computer screen. Do not attempt to adjust the picture. Latin Lewis is controlling the transmission. If he wishes to make it louder, he will bring up the volume.&#160; If he wishes to make it softer, he will tune it to a whisper. He will control the horizontal.&#160; He &#8230; <a href="https://www.lostinthegrooves.com/2006/09/24/required-viewing-too/" class="more-link">Continue reading<span class="screen-reader-text"> "Required Viewing Too !!"</span></a>]]></description>
+					<description><![CDATA[&#160; There is nothing wrong with your computer screen. Do not attempt to adjust the picture. Latin Lewis is controlling the transmission. If he wishes to make it louder, he will bring up the volume.&#160; If he wishes to make it softer, he will tune it to a whisper. He will control the horizontal.&#160; He &#8230; <a href="/2006/09/24/required-viewing-too/" class="more-link">Continue reading<span class="screen-reader-text"> "Required Viewing Too !!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><img border="0" src="https://mark-johnson.com/img172.jpg" /></p>
 <p>&nbsp;</p>
 <p>There is nothing wrong with your computer screen. </p>
@@ -43,7 +43,7 @@
 <p>I repeat:&nbsp; There is nothing wrong with your computer screen.&nbsp; You are about to participate in a great adventure.&nbsp; You are about to experience the awe and mystery which reaches from the inner mind <a target="_self" href="https://www.mark-johnson.com/page15.html"><strong>to &hellip;..the Latin Quarter Films</strong></a>.<br />&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/09/24/required-viewing-too/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/24/required-viewing-too/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

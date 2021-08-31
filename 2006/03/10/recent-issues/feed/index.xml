@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Recent issues	</title>
-	<atom:link href="https://www.lostinthegrooves.com/2006/03/10/recent-issues/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/2006/03/10/recent-issues/</link>
+	<atom:link href="/2006/03/10/recent-issues/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/03/10/recent-issues/</link>
 	<description></description>
 	<lastBuildDate>Fri, 10 Mar 2006 09:38:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

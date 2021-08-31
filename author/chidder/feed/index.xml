@@ -9,8 +9,8 @@
 
 <channel>
 	<title>chidder &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/author/chidder/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/author/chidder/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 03 Mar 2008 17:40:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>The Waiting Game</title>
-		<link>https://www.lostinthegrooves.com/2008/03/03/the-waiting-game/</link>
-					<comments>https://www.lostinthegrooves.com/2008/03/03/the-waiting-game/#comments</comments>
+		<link>/2008/03/03/the-waiting-game/</link>
+					<comments>/2008/03/03/the-waiting-game/#comments</comments>
 		
 		<dc:creator><![CDATA[chidder]]></dc:creator>
 		<pubDate>Mon, 03 Mar 2008 17:40:25 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[writing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Yesterday morning an old friend called from Los Angeles and recounted how earlier this month he and his band had their first real meeting with a bona fide record label. By all indications, the encounter went well and ended on a positive note with the record executive saying all good things about their music and &#8230; <a href="https://www.lostinthegrooves.com/2008/03/03/the-waiting-game/" class="more-link">Continue reading<span class="screen-reader-text"> "The Waiting Game"</span></a>]]></description>
+					<description><![CDATA[Yesterday morning an old friend called from Los Angeles and recounted how earlier this month he and his band had their first real meeting with a bona fide record label. By all indications, the encounter went well and ended on a positive note with the record executive saying all good things about their music and &#8230; <a href="/2008/03/03/the-waiting-game/" class="more-link">Continue reading<span class="screen-reader-text"> "The Waiting Game"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Yesterday morning an old friend called from Los Angeles and recounted how earlier this month he and his band had their first real meeting with a bona fide record label. By all indications, the encounter went well and ended on a positive note with the record executive saying all good things about their music and hinting toward a time when they, record company and band, would share in a relationship both symbiotic and copacetic. He said he&#39;d be in touch. Two weeks down the road, however, there&#39;s been no word; nor is aforementioned executive returning any of my friend&#39;s phone messages or e-mails. Seemingly a case of &quot;Don&#39;t call us, we won&#39;t call you.&quot;</p>
 <p>I told my friend that things are not necessary  what they seem.  </p>
 <p>The thing is, he and I used to work in the service industry&#8211;transportation&#8211;where every aspect of our company&#39;s performance was measured daily, weekly, monthly, and yearly; this data was then shared with our customers so that they could better decide whether to use our services or our competition&#39;s. The idea of <em>not</em> returning a phone call or <em>not</em>  replying to an e-mail is as unconscionable to him as it is to me. <em>Except . .  . </p>
@@ -50,7 +50,7 @@
 <p>It&#39;s how he&#39;s having to wait that&#39;s the problem.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2008/03/03/the-waiting-game/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/03/the-waiting-game/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

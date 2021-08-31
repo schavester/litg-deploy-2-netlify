@@ -9,8 +9,8 @@
 
 <channel>
 	<title>peter grudzien &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/peter-grudzien/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/peter-grudzien/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 Aug 2006 07:46:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>Peter Grudzien- The Unicorn</title>
-		<link>https://www.lostinthegrooves.com/2006/08/03/peter-grudzien-the-unicorn/</link>
-					<comments>https://www.lostinthegrooves.com/2006/08/03/peter-grudzien-the-unicorn/#comments</comments>
+		<link>/2006/08/03/peter-grudzien-the-unicorn/</link>
+					<comments>/2006/08/03/peter-grudzien-the-unicorn/#comments</comments>
 		
 		<dc:creator><![CDATA[Robert Dayton]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2006 07:46:50 +0000</pubDate>
@@ -32,13 +32,13 @@
 		<category><![CDATA[the unicorn]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day: Peter Grudzien- &#8230; <a href="https://www.lostinthegrooves.com/2006/08/03/peter-grudzien-the-unicorn/" class="more-link">Continue reading<span class="screen-reader-text"> "Peter Grudzien- The Unicorn"</span></a>]]></description>
+					<description><![CDATA[So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy enough, day by day: Peter Grudzien- &#8230; <a href="/2006/08/03/peter-grudzien-the-unicorn/" class="more-link">Continue reading<span class="screen-reader-text"> "Peter Grudzien- The Unicorn"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>So like a month or three back this Vancouver based mag called The Nerve wanted to do a primer on what they call &#8220;Cozmic Country&#8221; and asked me to recommend some records and artists for it. So I did. I reprint them here one by one, and if savvy  enough, day by day:</p>
 <p>Peter Grudzien- The Unicorn<br />
 To be </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/08/03/peter-grudzien-the-unicorn/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/03/peter-grudzien-the-unicorn/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

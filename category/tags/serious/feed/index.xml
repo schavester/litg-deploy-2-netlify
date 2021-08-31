@@ -9,8 +9,8 @@
 
 <channel>
 	<title>serious &#8211; Lost In The Grooves</title>
-	<atom:link href="https://www.lostinthegrooves.com/category/tags/serious/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lostinthegrooves.com/</link>
+	<atom:link href="/category/tags/serious/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 05 May 2006 16:21:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>O Brother, Where Art Thou?</title>
-		<link>https://www.lostinthegrooves.com/2006/05/05/o-brother-where-art-thou/</link>
-					<comments>https://www.lostinthegrooves.com/2006/05/05/o-brother-where-art-thou/#respond</comments>
+		<link>/2006/05/05/o-brother-where-art-thou/</link>
+					<comments>/2006/05/05/o-brother-where-art-thou/#respond</comments>
 		
 		<dc:creator><![CDATA[Scott Homewood]]></dc:creator>
 		<pubDate>Fri, 05 May 2006 16:21:46 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[serious]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[As I promised in my last blog, I would like to devote today&#8217;s space to the person who most influenced me as far as the music I like, why I like it so much, and why I am the person I am today. That would be my brother Robert Allan Homewood. More a father than &#8230; <a href="https://www.lostinthegrooves.com/2006/05/05/o-brother-where-art-thou/" class="more-link">Continue reading<span class="screen-reader-text"> "O Brother, Where Art Thou?"</span></a>]]></description>
+					<description><![CDATA[As I promised in my last blog, I would like to devote today&#8217;s space to the person who most influenced me as far as the music I like, why I like it so much, and why I am the person I am today. That would be my brother Robert Allan Homewood. More a father than &#8230; <a href="/2006/05/05/o-brother-where-art-thou/" class="more-link">Continue reading<span class="screen-reader-text"> "O Brother, Where Art Thou?"</span></a>]]></description>
 										<content:encoded><![CDATA[<p>As I promised in my last blog, I would like to devote today&#8217;s space to the person who most influenced me as far as the music I like, why I like it so much, and why I am the person I am today. That would be my brother Robert Allan Homewood.</p>
 <p>More a father than a brother (since my own father worked so much he was rarely around &#8211; sorry, no sordid tales of divorce or prison time, just a dad with a son born late in life when he was earning decent money and had a family to support) Bobby&#8217;s love of music affected me a lot when we were growing up. With an eighteen year difference between our ages, Bobby had been exposed to music I hadn&#8217;t and was only too eager to share it with me, his nuisance of a brother. Cooler still, he could play guitar!</p>
 <p>His favorites were the Rolling Stones, for whom he was a fanatic (no surprise that they are also my favorite band) and Neil Young. When I would ask him why all the people in the bands he liked looked so ugly and sang so bad he would just reply that rock and roll was about passion and truth other than looks or how well you could carry a tune. Of course, I am paraphrasing and shortening what he said but you get the idea that he was about the realness of music, not the facade and thank God for that as I have learned it and lived by it ever since. My brother wouldn&#8217;t tolerate boy bands and Britney and all the other poseurs who choke up the musical landscape. I don&#8217;t either.</p>
@@ -46,7 +46,7 @@
 <p>The Music Nerd knows&#8230;..</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lostinthegrooves.com/2006/05/05/o-brother-where-art-thou/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/05/o-brother-where-art-thou/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
